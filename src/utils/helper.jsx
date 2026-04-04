@@ -3,6 +3,11 @@ import { useOutletContext, useSearchParams, useLocation } from "react-router-dom
 import LocationContext from "./LocationContext";
 import SortFilterContext from "./SortFilterContext";
 import MenuCard from "../components/body/bodyInnerComps/RestaurantMenuUi/MenuCard";
+import sortRelevance from '../mocks/sort_relevance.json'
+import sortDeliveryTimeAsc from '../mocks/sort_deliveryTimeAsc.json'
+import sortRatingDesc from '../mocks/sort_modelBasedRatingDesc.json'
+import sortCostAsc from '../mocks/sort_costForTwoAsc.json'
+import sortCostDesc from '../mocks/sort_costForTwoDesc.json'
 
 export const  SideCardShimmer=(props) =>{
     return (
@@ -45,18 +50,15 @@ export const filterData = (allRestaurants, input) => {
     return result;
 }
 const SORT_MOCKS = {
-    relevance: () => import('../mocks/sort_relevance.json'),
-    deliveryTimeAsc: () => import('../mocks/sort_deliveryTimeAsc.json'),
-    modelBasedRatingDesc: () => import('../mocks/sort_modelBasedRatingDesc.json'),
-    costForTwoAsc: () => import('../mocks/sort_costForTwoAsc.json'),
-    costForTwoDesc: () => import('../mocks/sort_costForTwoDesc.json'),
+    relevance: sortRelevance,
+    deliveryTimeAsc: sortDeliveryTimeAsc,
+    modelBasedRatingDesc: sortRatingDesc,
+    costForTwoAsc: sortCostAsc,
+    costForTwoDesc: sortCostDesc,
 }
 
-export const restroSorting = async (sortKey, setFilteredRestaurants, location, filter) => {
-    const key = sortKey || 'relevance'
-    const loader = SORT_MOCKS[key] || SORT_MOCKS['relevance']
-    const mod = await loader()
-    const json = mod.default || mod
+export const restroSorting = (sortKey, setFilteredRestaurants) => {
+    const json = SORT_MOCKS[sortKey] || SORT_MOCKS['relevance']
     if (json?.data) {
         setFilteredRestaurants(json.data)
     }
