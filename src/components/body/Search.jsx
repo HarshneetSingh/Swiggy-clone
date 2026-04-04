@@ -5,24 +5,36 @@ import SearchOptions from "./bodyInnerComps/SearchUI/SearchOptions"
 import ActiveQueryUI from "./bodyInnerComps/SearchUI/ActiveQueryUI"
 import SearchMainShimmer from "./bodyInnerComps/SearchUI/SearchMainShimmer"
 import SearchActiveQueryShimmer from "./bodyInnerComps/SearchUI/SearchActiveQueryShimmer"
+import presearchMock from "../../mocks/presearch.json"
+import searchSuggestMock from "../../mocks/searchSuggest.json"
+import { PROXY } from "../../config"
 
-
-
-async function presearch(location, setPreSearch) {
-    const result = await fetch(`https://www.swiggy.com/dapi/landing/PRE_SEARCH?lat=${location.lat}&lng=${location.lng}`)
-    const json= await result.json()
-
-    setPreSearch(json?.data?.cards)
+async function presearch(setPreSearch) {
+    setPreSearch(presearchMock.cards)
 }
-
 
 async function getSearchRestaurant(location, input, setSearchRestaurant) {
-    setSearchRestaurant(null)
-    const result = await fetch(`https://www.swiggy.com/dapi/restaurants/search/suggest?lat=${location.lat}&lng=${location.lng}&str=${input}&trackingId=null`)
-    const data = await result.json()
-    setSearchRestaurant(data?.data?.suggestions)
-}
+    // Use local suggestions first (instant)
+    const filtered = searchSuggestMock.suggestions.filter(s =>
+        s.text.toLowerCase().includes(input.toLowerCase())
+    )
+    // If nothing matched, synthesize a suggestion from the typed text (mirrors server fallback)
+    setSearchRestaurant(filtered.length ? filtered : [{
+        text: input,
+        tagToDisplay: 'Food',
+        cloudinaryId: '',
+        cta: { link: `swiggy://explore?query=${encodeURIComponent(input)}&metadata=%7B%22type%22%3A%22DISH%22%7D` }
+    }])
 
+    // Try live proxy in background and update if better results come back
+    try {
+        const result = await fetch(`${PROXY}/api/search/suggest?lat=${location.lat}&lng=${location.lng}&str=${input}`)
+        const data = await result.json()
+        if (data?.data?.suggestions?.length) {
+            setSearchRestaurant(data.data.suggestions)
+        }
+    } catch (err) {}
+}
 
 const Search = () => {
     const [input, setInput] = useState("")
@@ -32,8 +44,9 @@ const Search = () => {
     const [activeQueryData, setActiveQueryData] = useState(null)
     const [searchParams, setSearchParams] = useSearchParams()
     const [location] = useContext(LocationContext)
+
     useEffect(() => {
-        presearch(location, setPreSearch)
+        presearch(setPreSearch)
     }, [])
 
     useEffect(() => {
@@ -50,7 +63,7 @@ const Search = () => {
     return (
         <div className="  w-full min-h-screen">
             <div className=" w-full flex h-28 flex-col  mt-20 pt-7 bg-white justify-center fixed top-0 z-20 items-center  " >
-                <div className=" relative   w-[56%]  text-sortByBtnHoverColor">
+                <div className=" relative   w-full max-w-2xl px-4 sm:px-0  text-sortByBtnHoverColor">
                     <input className={` w-full p-[15px] border rounded border-teal-400 caret-locationError focus:outline-none font-semibold ${activeQuery ? "pl-11" : "pl-[auto]"} `} type="text" placeholder="Search for restaurants and food" value={input} onChange={(e) => {
                         setInput(e.target.value)
                     }} />
@@ -71,14 +84,10 @@ const Search = () => {
                 </div>
             </div>
 
-
-            <div className=" w-[56%] h-full pb-5 m-auto">
+            <div className=" w-full max-w-2xl px-4 sm:px-0 h-full pb-5 m-auto">
                 {
-                    // if pre seacrh is null then show shimmer 
                     (preSearch === null) ?
-
-                        <div className="mt-32"><SearchMainShimmer /></div> :// main search shimmer
-                        // based on what  choice you clicked
+                        <div className="mt-32"><SearchMainShimmer /></div> :
                         (activeQuery === true) ?
                             <div className="mt-28 relative w-full h-full ">
                                 {
@@ -87,13 +96,10 @@ const Search = () => {
                                     <ActiveQueryUI prop={activeQueryData} />
                                 }
                             </div>
-
                             : <div className="pl-4 mt-32 ">
-                                {/* result based on your input */}
                                 <SearchOptions prop={[input, searchRestaurant, setSearchParams, setActiveQuery, setActiveQueryData, setInput, preSearch]} />
                             </div >
                 }
-
             </div>
         </div>
     )

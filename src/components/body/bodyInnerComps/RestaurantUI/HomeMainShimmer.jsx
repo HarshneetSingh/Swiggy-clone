@@ -11,27 +11,27 @@ const HomeMainShimmer = () => {
                     <p className={` w-20 h-20 bg-gradient-to-b from-[#ecebeb] opacity-80 rounded-full to-[#ebeaea45] animate-[spin_1700ms_linear_infinite]  `}>
                     </p>
                     <div className="w-[72px] h-[72px] absolute left-2/4 -translate-x-2/4 top-2/4 -translate-y-2/4 rounded-full bg-[#171a29]">
-                        <img className="w-10  absolute left-2/4 -translate-x-2/4 top-2/4 -translate-y-2/4 h-10 bg-[#171a29]" src="https://res.cloudinary.com/swiggy/image/upload/fl_lossy,f_auto,q_auto/icecream_wwomsa" alt="" />
+                        <img className="w-10  absolute left-2/4 -translate-x-2/4 top-2/4 -translate-y-2/4 h-10 bg-[#171a29]" src="https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto/icecream_wwomsa" alt="" />
                     </div>
                 </div>
                 <div className="text-[#ffffffcc] mt-7 text-[26px] tracking-wide">Looking for great food near you ...</div>
 
             </div>
 
-            <div className="w-5/6  m-auto  h-full  flex">
-                <div className="w-[calc(100%-64%)] pt-8 h-full pb-20 flex flex-col shadow-[0_2px_4px_0_rgba(48,56,97,.2)]">
+            <div className="w-full max-w-6xl mx-auto px-4 h-full flex">
+                <div className="hidden md:flex w-36 lg:w-44 pt-8 h-full pb-20 flex-col flex-shrink-0 shadow-[0_2px_4px_0_rgba(48,56,97,.2)]">
                 {
                     [...Array(8)].map((i,j) =>{
-                        return <SideCardShimmer index={j}/>
+                        return <SideCardShimmer key={j} index={j}/>
                     })
                 }
                 </div>
-                <div className="  pt-[72] pl-16 "  >
+                <div className="flex-1 pt-10 md:pl-10">
                     <div className="w-28 h-tenpx mb-10 bg-shimmerColor"></div>
-                    <div className="flex justify-between flex-wrap-reverse gap-x-10 gap-y-24 pb-20  ">
+                    <div className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-x-8 gap-y-16 pb-20">
                         {
                             [...Array(6)].map((i, j) => {
-                                return <CardShimmer/>
+                                return <CardShimmer key={j}/>
                             })
                         }
                     </div>

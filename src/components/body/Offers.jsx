@@ -1,49 +1,35 @@
-import React, { useContext, useEffect, useState } from 'react'
+import React, { useState, useEffect } from 'react'
 import RestaurantOffers from './bodyInnerComps/OffersUI/RestaurantOffers'
 import PaymentOffers from './bodyInnerComps/OffersUI/PaymentOffers'
-import LocationContext from '../../utils/LocationContext'
 import OfferPageShimmer from './bodyInnerComps/RestaurantOffersUI/OfferPageShimmer'
-async function getRestaurant(location, setRestaurant) {
-  const result = await fetch(`https://www.swiggy.com/dapi/offers/restaurant?lat=${location.lat}&lng=${location.lng}&offset=0`)
-  const data = await result.json()
-  setRestaurant(data?.data?.cards)
-}
-async function getOffers(location, setOffers) {
-  const result = await fetch(`https://www.swiggy.com/dapi/offers/payment?lat=${location.lat}&lng=${location.lng}&offset=0`)
-  const data = await result.json()
-  setOffers(data?.data?.cards)
-}
+import offersRestaurantMock from '../../mocks/offersRestaurant.json'
+import offersPaymentMock from '../../mocks/offersPayment.json'
+
 const Offers = () => {
-  const [location, setLocation] = useContext(LocationContext)
-  //variables which have Data to show 
   const [restaurant, setRestaurant] = useState(null)
   const [offers, setOffers] = useState(null)
-
-  // variable which decides which data to show 
   const [showMain, setShowMain] = useState(true)
+
   useEffect(() => {
-    getRestaurant(location, setRestaurant)
-    getOffers(location, setOffers)
+    setRestaurant(offersRestaurantMock.cards)
+    setOffers(offersPaymentMock.cards)
   }, [])
 
   return (
     <div className=' w-full'>
-      {/* offerfront section */}
-      <div className='h-[300px] bg-[#005062]  '>
-        <div className=' flex justify-between w-4/5 m-auto h-full items-center '>
+      <div className='h-[240px] sm:h-[300px] bg-[#005062]'>
+        <div className='flex justify-between w-full max-w-5xl mx-auto px-4 h-full items-center'>
           <div className='text-white'>
-            <p className='text-5xl font-bold'>Offers for you</p>
-            <p className='text-[21px] mt-1 opacity-80'>Explore top deals and offers exclusively for you!</p>
+            <p className='text-3xl sm:text-5xl font-bold'>Offers for you</p>
+            <p className='text-sm sm:text-[21px] mt-1 opacity-80'>Explore top deals and offers exclusively for you!</p>
           </div>
-          <div>
-            <img src="https://res.cloudinary.com/swiggy/image/upload/fl_lossy,f_auto,q_auto/KHu24Gqw_md3ham" alt="Error" className='w-[270px] h-48' />
+          <div className='hidden sm:block flex-shrink-0'>
+            <img src="https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto/KHu24Gqw_md3ham" alt="Offers" className='w-48 lg:w-[270px] h-36 lg:h-48 object-contain' />
           </div>
         </div>
-      </div >
-      {/* data section */}
+      </div>
       {
         (restaurant === null || offers === null) ? <OfferPageShimmer /> : <>
-        
           <div className='border-b-[1px] border-neutral-300 relative '>
             <div className=' h-16 w-4/5 m-auto flex '>
               <button className={` text-xl hover:text-ttlRestroHeading ${(showMain) ? ' text-ttlRestroHeading font-medium  ' : "font-normal text-locationError "}`} onClick={() => setShowMain(true)}>Restaurant offers</button>
@@ -51,16 +37,11 @@ const Offers = () => {
             </div>
             <div className={`w-2 h-[2px] ease-in-out  duration-500 transition  bg-ttlRestroHeading absolute bottom-0 ${(showMain) ? " translate-x-[155px] w-40" : " w-56 translate-x-[330px]"}`}></div>
           </div>
-
-
           <div>
-            {
-              (showMain) ? <RestaurantOffers restaurants={restaurant} /> : <PaymentOffers offers={offers} />
-            }
+            {(showMain) ? <RestaurantOffers restaurants={restaurant} /> : <PaymentOffers offers={offers} />}
           </div>
         </>
       }
-
     </div>
   )
 }

@@ -2,10 +2,10 @@
   "name": "react-app-by-akshay",
   "version": "1.0.0",
   "description": "Learning react from akshay",
-  "prebuild": "shx rm -rf dist/*",
   "scripts": {
     "start": "parcel index.html",
-    "build": "parcel build index.html",
+    "build": "parcel build index.html --no-cache",
+    "server": "node server.js",
     "test": "jest"
   },
   "repository": {
@@ -28,6 +28,10 @@
     "tailwindcss": "^3.2.7"
   },
   "dependencies": {
+    "cors": "^2.8.6",
+    "express": "^5.2.1",
+    "node-fetch": "^3.3.2",
+    "puppeteer-core": "^24.40.0",
     "react": "^18.2.0",
     "react-dom": "^18.2.0",
     "react-router-dom": "^6.8.2"

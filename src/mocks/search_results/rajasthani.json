@@ -1,0 +1,3897 @@
+{
+  "statusMessage": "done successfully",
+  "cards": [
+    {
+      "groupedCard": {
+        "cardGroupMap": {
+          "RESTAURANT": {
+            "cards": [
+              {
+                "card": {
+                  "card": {
+                    "@type": "type.googleapis.com/swiggy.presentation.food.v2.Restaurant",
+                    "info": {
+                      "id": "10167",
+                      "name": "Suruchi Restaurant",
+                      "city": "4",
+                      "slugs": {
+                        "restaurant": "suruchi-restaurant-karol-bagh-karol-bagh",
+                        "city": "delhi"
+                      },
+                      "cloudinaryImageId": "mybah2uxrb1mfufoh8zy",
+                      "address": "15-A/56, Ajmal Khan Road, Opposite Roopak Store, Karol Bagh, New Delhi",
+                      "locality": "Karol Bagh",
+                      "areaName": "Karol Bagh",
+                      "costForTwo": "70000",
+                      "costForTwoMessage": "₹700 FOR TWO",
+                      "cuisines": [
+                        "North Indian",
+                        "Rajasthani",
+                        "Gujarati"
+                      ],
+                      "avgRating": 4.3,
+                      "feeDetails": {},
+                      "parentId": "197946",
+                      "avgRatingString": "4.3",
+                      "totalRatingsString": "3.5K+",
+                      "promoted": true,
+                      "adTrackingId": "cid=b934bd3b-ffa5-46db-903d-9da83242ceab~p=0~adgrpid=b934bd3b-ffa5-46db-903d-9da83242ceab#ag1~mp=SWIGGY_IN~bl=FOOD~aet=RESTAURANT~aeid=10167~plpr=SEARCH#RESTAURANT~st=rajasthani~eid=8274200d-fa9e-46d6-a908-38002b79e42d~srvts=1775281642240",
+                      "sla": {
+                        "deliveryTime": 45,
+                        "minDeliveryTime": 40,
+                        "maxDeliveryTime": 45,
+                        "lastMileTravel": 6.4,
+                        "serviceability": "SERVICEABLE",
+                        "rainMode": "RAIN_MODE_NONE",
+                        "slaString": "40-45 MINS",
+                        "lastMileTravelString": "6.4 km",
+                        "iconType": "ICON_TYPE_EMPTY"
+                      },
+                      "availability": {
+                        "opened": true,
+                        "restaurantClosedMeta": {}
+                      },
+                      "badges": {
+                        "imageBadges": [
+                          {
+                            "imageId": "v1695133679/badges/Pure_Veg111.png",
+                            "description": "pureveg"
+                          }
+                        ]
+                      },
+                      "aggregatedDiscountInfoV3": {
+                        "header": "ITEMS",
+                        "subHeader": "AT ₹129",
+                        "logoCtx": {
+                          "text": "BENEFITS"
+                        }
+                      },
+                      "ratingSlab": "RATING_SLAB_5",
+                      "orderabilityCommunication": {
+                        "title": {},
+                        "subTitle": {},
+                        "message": {},
+                        "customIcon": {},
+                        "commsStyling": {}
+                      },
+                      "cartOrderabilityNudgeBanner": {
+                        "parameters": {},
+                        "presentation": {}
+                      },
+                      "externalRatings": {
+                        "aggregatedRating": {
+                          "rating": "4.2",
+                          "ratingCount": "2.7K+"
+                        },
+                        "source": "GOOGLE",
+                        "sourceIconImageId": "v1704440323/google_ratings/rating_google_tag"
+                      },
+                      "ratingsDisplayPreference": "RATINGS_DISPLAY_PREFERENCE_SHOW_SWIGGY",
+                      "featuredSectionInfo": {
+                        "sectionTitle": "More"
+                      },
+                      "campaignId": "b934bd3b-ffa5-46db-903d-9da83242ceab",
+                      "showEoOffer": true
+                    },
+                    "analytics": {
+                      "screenName": "explore",
+                      "context": "{\"tid\":\"undefined\",\"grid\":\"b52b1073-5f4c-4e6f-87e8-92b4573aac80\",\"queryUniqueId\":\"undefined\",\"query\":\"rajasthani\",\"adTrackingId\":\"cid=b934bd3b-ffa5-46db-903d-9da83242ceab~p=0~adgrpid=b934bd3b-ffa5-46db-903d-9da83242ceab#ag1~mp=SWIGGY_IN~bl=FOOD~aet=RESTAURANT~aeid=10167~plpr=SEARCH#RESTAURANT~st=rajasthani~eid=8274200d-fa9e-46d6-a908-38002b79e42d~srvts=1775281642240\"}",
+                      "objectValue": "10167",
+                      "impressionObjectName": "impression-restaurant-ad",
+                      "clickObjectName": "click-restaurant-ad"
+                    },
+                    "ctaWithParams": {
+                      "link": "swiggy://menu",
+                      "type": "DEEPLINK",
+                      "params": {
+                        "sourceSessionId": "qlnc842b2b4-a7f6-4ea3-99d5-0cdf6d19d",
+                        "source": "SEARCH",
+                        "isSld": "false",
+                        "sourceRequestId": "00000000000000000000000000000000",
+                        "qrEnabled": "false",
+                        "restaurant_id": "10167",
+                        "query": "rajasthani"
+                      }
+                    }
+                  }
+                }
+              },
+              {
+                "card": {
+                  "card": {
+                    "@type": "type.googleapis.com/swiggy.presentation.food.v2.Restaurant",
+                    "info": {
+                      "id": "258198",
+                      "name": "Great Indian Khichdi by EatFit",
+                      "city": "4",
+                      "slugs": {
+                        "restaurant": "great-indian-khichdi-connaught-place-connaught-place",
+                        "city": "delhi"
+                      },
+                      "cloudinaryImageId": "RX_THUMBNAIL/IMAGES/VENDOR/2026/1/21/ccf38632-c4c4-429d-aa85-e28f28f9234a_258198.JPG",
+                      "address": "Shop no-114 ,GF. SAHID BHAGAT SINGH MARKET , GOLE MARKET,NEW DELHI -110001",
+                      "locality": "BHAGAT SINGH MARKET",
+                      "areaName": "GOLE MARKET",
+                      "costForTwo": "20000",
+                      "costForTwoMessage": "₹200 FOR TWO",
+                      "cuisines": [
+                        "Home Food",
+                        "Indian",
+                        "North Indian",
+                        "Healthy Food",
+                        "Snacks",
+                        "Desserts",
+                        "Rajasthani",
+                        "South Indian",
+                        "Maharashtrian",
+                        "Sweets"
+                      ],
+                      "avgRating": 4.3,
+                      "feeDetails": {},
+                      "parentId": "319582",
+                      "avgRatingString": "4.3",
+                      "totalRatingsString": "5.5K+",
+                      "sla": {
+                        "deliveryTime": 20,
+                        "minDeliveryTime": 15,
+                        "maxDeliveryTime": 20,
+                        "lastMileTravel": 2.7,
+                        "serviceability": "SERVICEABLE",
+                        "rainMode": "RAIN_MODE_NONE",
+                        "slaString": "15-20 MINS",
+                        "lastMileTravelString": "2.7 km",
+                        "iconType": "ICON_TYPE_EMPTY"
+                      },
+                      "availability": {
+                        "opened": true,
+                        "restaurantClosedMeta": {}
+                      },
+                      "badges": {
+                        "imageBadges": [
+                          {
+                            "imageId": "High%20Protein/rx%20tag%205.png",
+                            "description": "High Protein"
+                          },
+                          {
+                            "imageId": "v1695133679/badges/Pure_Veg111.png",
+                            "description": "pureveg"
+                          }
+                        ]
+                      },
+                      "aggregatedDiscountInfoV3": {
+                        "header": "ITEMS",
+                        "subHeader": "AT ₹49"
+                      },
+                      "ratingSlab": "RATING_SLAB_5",
+                      "orderabilityCommunication": {
+                        "title": {},
+                        "subTitle": {},
+                        "message": {},
+                        "customIcon": {},
+                        "commsStyling": {}
+                      },
+                      "cartOrderabilityNudgeBanner": {
+                        "parameters": {},
+                        "presentation": {}
+                      },
+                      "externalRatings": {
+                        "aggregatedRating": {
+                          "rating": "--"
+                        }
+                      },
+                      "ratingsDisplayPreference": "RATINGS_DISPLAY_PREFERENCE_SHOW_SWIGGY",
+                      "featuredSectionInfo": {
+                        "sectionTitle": "More"
+                      },
+                      "showEoOffer": true
+                    },
+                    "analytics": {
+                      "screenName": "explore",
+                      "context": "{\"tid\":\"undefined\",\"grid\":\"b52b1073-5f4c-4e6f-87e8-92b4573aac80\",\"queryUniqueId\":\"undefined\",\"query\":\"rajasthani\"}",
+                      "objectValue": "258198",
+                      "impressionObjectName": "impression-restaurant",
+                      "clickObjectName": "click-restaurant"
+                    },
+                    "ctaWithParams": {
+                      "link": "swiggy://menu",
+                      "type": "DEEPLINK",
+                      "params": {
+                        "sourceSessionId": "qlnc842b2b4-a7f6-4ea3-99d5-0cdf6d19d",
+                        "source": "SEARCH",
+                        "isSld": "false",
+                        "sourceRequestId": "00000000000000000000000000000000",
+                        "qrEnabled": "false",
+                        "restaurant_id": "258198",
+                        "query": "rajasthani"
+                      }
+                    }
+                  }
+                }
+              },
+              {
+                "card": {
+                  "card": {
+                    "@type": "type.googleapis.com/swiggy.presentation.food.v2.Restaurant",
+                    "info": {
+                      "id": "697263",
+                      "name": "Handi 47",
+                      "city": "4",
+                      "slugs": {
+                        "restaurant": "handi-47-karol-bagh-karol-bagh",
+                        "city": "delhi"
+                      },
+                      "cloudinaryImageId": "f60a0596a76581b140ea724a02b7805b",
+                      "address": "J6R5+9VR, Lakshmi Narayan St, Chuna Mandi, Paharganj, New Delhi, Delhi 110055, India",
+                      "locality": "Lakshmi Narayan St",
+                      "areaName": "Karol Bagh",
+                      "costForTwo": "30000",
+                      "costForTwoMessage": "₹300 FOR TWO",
+                      "cuisines": [
+                        "North Indian"
+                      ],
+                      "avgRating": 4.2,
+                      "feeDetails": {},
+                      "parentId": "417357",
+                      "avgRatingString": "4.2",
+                      "totalRatingsString": "835",
+                      "promoted": true,
+                      "adTrackingId": "cid=3dd35b83-5ddd-4644-89d9-21bebe7c63c9~p=2~adgrpid=3dd35b83-5ddd-4644-89d9-21bebe7c63c9#ag1~mp=SWIGGY_IN~bl=FOOD~aet=RESTAURANT~aeid=697263~plpr=SEARCH#RESTAURANT~st=rajasthani~eid=a007f322-4c4a-42a2-802f-dc4abbefce42~srvts=1775281642240",
+                      "sla": {
+                        "deliveryTime": 34,
+                        "minDeliveryTime": 30,
+                        "maxDeliveryTime": 35,
+                        "lastMileTravel": 5,
+                        "serviceability": "SERVICEABLE",
+                        "rainMode": "RAIN_MODE_NONE",
+                        "slaString": "30-35 MINS",
+                        "lastMileTravelString": "5.0 km",
+                        "iconType": "ICON_TYPE_EMPTY"
+                      },
+                      "availability": {
+                        "opened": true,
+                        "restaurantClosedMeta": {}
+                      },
+                      "badges": {},
+                      "aggregatedDiscountInfoV3": {
+                        "header": "60% OFF",
+                        "subHeader": "UPTO ₹120",
+                        "logoCtx": {
+                          "text": "BENEFITS"
+                        }
+                      },
+                      "ratingSlab": "RATING_SLAB_5",
+                      "orderabilityCommunication": {
+                        "title": {},
+                        "subTitle": {},
+                        "message": {},
+                        "customIcon": {},
+                        "commsStyling": {}
+                      },
+                      "cartOrderabilityNudgeBanner": {
+                        "parameters": {},
+                        "presentation": {}
+                      },
+                      "externalRatings": {
+                        "aggregatedRating": {
+                          "rating": "--"
+                        }
+                      },
+                      "ratingsDisplayPreference": "RATINGS_DISPLAY_PREFERENCE_SHOW_SWIGGY",
+                      "featuredSectionInfo": {
+                        "sectionTitle": "More"
+                      },
+                      "campaignId": "3dd35b83-5ddd-4644-89d9-21bebe7c63c9",
+                      "showEoOffer": true
+                    },
+                    "analytics": {
+                      "screenName": "explore",
+                      "context": "{\"tid\":\"undefined\",\"grid\":\"b52b1073-5f4c-4e6f-87e8-92b4573aac80\",\"queryUniqueId\":\"undefined\",\"query\":\"rajasthani\",\"adTrackingId\":\"cid=3dd35b83-5ddd-4644-89d9-21bebe7c63c9~p=2~adgrpid=3dd35b83-5ddd-4644-89d9-21bebe7c63c9#ag1~mp=SWIGGY_IN~bl=FOOD~aet=RESTAURANT~aeid=697263~plpr=SEARCH#RESTAURANT~st=rajasthani~eid=a007f322-4c4a-42a2-802f-dc4abbefce42~srvts=1775281642240\"}",
+                      "objectValue": "697263",
+                      "impressionObjectName": "impression-restaurant-ad",
+                      "clickObjectName": "click-restaurant-ad"
+                    },
+                    "ctaWithParams": {
+                      "link": "swiggy://menu",
+                      "type": "DEEPLINK",
+                      "params": {
+                        "query": "rajasthani",
+                        "sourceSessionId": "qlnc842b2b4-a7f6-4ea3-99d5-0cdf6d19d",
+                        "source": "SEARCH",
+                        "isSld": "false",
+                        "sourceRequestId": "00000000000000000000000000000000",
+                        "qrEnabled": "false",
+                        "restaurant_id": "697263"
+                      }
+                    }
+                  }
+                }
+              },
+              {
+                "card": {
+                  "card": {
+                    "@type": "type.googleapis.com/swiggy.presentation.food.v2.Restaurant",
+                    "info": {
+                      "id": "60643",
+                      "name": "Hira Sweets",
+                      "city": "4",
+                      "slugs": {
+                        "restaurant": "hira-sweets-connaught-place-connaught-place",
+                        "city": "delhi"
+                      },
+                      "cloudinaryImageId": "ttl0azfrovxbrheica7z",
+                      "address": "K-19 & 21, Radial Road Number 4, Block K, Connaught Place, New Delhi - 110001",
+                      "locality": "Connaught Place",
+                      "areaName": "Connaught Place",
+                      "costForTwo": "60000",
+                      "costForTwoMessage": "₹600 FOR TWO",
+                      "cuisines": [
+                        "South Indian",
+                        "Chinese",
+                        "Continental",
+                        "Bakery",
+                        "Street Food",
+                        "Sweets",
+                        "Desserts",
+                        "Beverages"
+                      ],
+                      "avgRating": 4.4,
+                      "feeDetails": {},
+                      "parentId": "5155",
+                      "avgRatingString": "4.4",
+                      "totalRatingsString": "13K+",
+                      "sla": {
+                        "deliveryTime": 30,
+                        "minDeliveryTime": 25,
+                        "maxDeliveryTime": 30,
+                        "lastMileTravel": 4.3,
+                        "serviceability": "SERVICEABLE",
+                        "rainMode": "RAIN_MODE_NONE",
+                        "slaString": "25-30 MINS",
+                        "lastMileTravelString": "4.3 km",
+                        "iconType": "ICON_TYPE_EMPTY"
+                      },
+                      "availability": {
+                        "opened": true,
+                        "restaurantClosedMeta": {}
+                      },
+                      "aggregatedDiscountInfo": {
+                        "visible": true
+                      },
+                      "badges": {
+                        "imageBadges": [
+                          {
+                            "imageId": "brand_cards/Badges%202026/57_Best%20in%20Indian%20Sweets2026.png",
+                            "description": "Best in Indian Sweets"
+                          }
+                        ]
+                      },
+                      "aggregatedDiscountInfoV2": {
+                        "visible": true
+                      },
+                      "ratingSlab": "RATING_SLAB_5",
+                      "orderabilityCommunication": {
+                        "title": {},
+                        "subTitle": {},
+                        "message": {},
+                        "customIcon": {},
+                        "commsStyling": {}
+                      },
+                      "cartOrderabilityNudgeBanner": {
+                        "parameters": {},
+                        "presentation": {}
+                      },
+                      "externalRatings": {
+                        "aggregatedRating": {
+                          "rating": "4.1",
+                          "ratingCount": "14K+"
+                        },
+                        "source": "GOOGLE",
+                        "sourceIconImageId": "v1704440323/google_ratings/rating_google_tag"
+                      },
+                      "ratingsDisplayPreference": "RATINGS_DISPLAY_PREFERENCE_SHOW_SWIGGY",
+                      "featuredSectionInfo": {
+                        "sectionTitle": "More"
+                      },
+                      "showEoOffer": true
+                    },
+                    "analytics": {
+                      "screenName": "explore",
+                      "context": "{\"tid\":\"undefined\",\"grid\":\"b52b1073-5f4c-4e6f-87e8-92b4573aac80\",\"queryUniqueId\":\"undefined\",\"query\":\"rajasthani\"}",
+                      "objectValue": "60643",
+                      "impressionObjectName": "impression-restaurant",
+                      "clickObjectName": "click-restaurant"
+                    },
+                    "ctaWithParams": {
+                      "link": "swiggy://menu",
+                      "type": "DEEPLINK",
+                      "params": {
+                        "query": "rajasthani",
+                        "sourceSessionId": "qlnc842b2b4-a7f6-4ea3-99d5-0cdf6d19d",
+                        "source": "SEARCH",
+                        "isSld": "false",
+                        "sourceRequestId": "00000000000000000000000000000000",
+                        "qrEnabled": "false",
+                        "restaurant_id": "60643"
+                      }
+                    }
+                  }
+                }
+              },
+              {
+                "card": {
+                  "card": {
+                    "@type": "type.googleapis.com/swiggy.presentation.food.v2.Restaurant",
+                    "info": {
+                      "id": "168292",
+                      "name": "Haryana Sweets & Restaurant",
+                      "city": "4",
+                      "slugs": {
+                        "restaurant": "haryana-sweets-restaurant-mayur-vihar",
+                        "city": "delhi"
+                      },
+                      "cloudinaryImageId": "fetq2ypsdhtd34fpad4o",
+                      "address": "D-132, South Ganesh Nagar, Opposite Mother Dairy Flats, District - East , State - Delhi",
+                      "locality": "Pandav Nagar",
+                      "areaName": "Pandav Nagar",
+                      "costForTwo": "20000",
+                      "costForTwoMessage": "₹200 FOR TWO",
+                      "cuisines": [
+                        "North Indian",
+                        "Chinese"
+                      ],
+                      "avgRating": 4.2,
+                      "feeDetails": {},
+                      "parentId": "94246",
+                      "avgRatingString": "4.2",
+                      "totalRatingsString": "3.6K+",
+                      "promoted": true,
+                      "adTrackingId": "cid=1bc29a92-5a3a-4d88-b0a7-6b3ff69f8977~p=3~adgrpid=1bc29a92-5a3a-4d88-b0a7-6b3ff69f8977#ag1~mp=SWIGGY_IN~bl=FOOD~aet=RESTAURANT~aeid=168292~plpr=SEARCH#RESTAURANT~st=rajasthani~eid=0b706761-404c-4b64-8305-907b334a38f6~srvts=1775281642240",
+                      "sla": {
+                        "deliveryTime": 41,
+                        "minDeliveryTime": 40,
+                        "maxDeliveryTime": 45,
+                        "lastMileTravel": 9.5,
+                        "serviceability": "SERVICEABLE",
+                        "rainMode": "RAIN_MODE_NONE",
+                        "slaString": "40-45 MINS",
+                        "lastMileTravelString": "9.5 km",
+                        "iconType": "ICON_TYPE_EMPTY"
+                      },
+                      "availability": {
+                        "opened": true,
+                        "restaurantClosedMeta": {}
+                      },
+                      "aggregatedDiscountInfo": {
+                        "visible": true
+                      },
+                      "badges": {
+                        "imageBadges": [
+                          {
+                            "imageId": "v1695133679/badges/Pure_Veg111.png",
+                            "description": "pureveg"
+                          }
+                        ]
+                      },
+                      "sld": true,
+                      "aggregatedDiscountInfoV2": {
+                        "visible": true
+                      },
+                      "ratingSlab": "RATING_SLAB_5",
+                      "orderabilityCommunication": {
+                        "title": {},
+                        "subTitle": {},
+                        "message": {},
+                        "customIcon": {},
+                        "commsStyling": {}
+                      },
+                      "cartOrderabilityNudgeBanner": {
+                        "parameters": {},
+                        "presentation": {}
+                      },
+                      "externalRatings": {
+                        "aggregatedRating": {
+                          "rating": "3.8",
+                          "ratingCount": "1.0K+"
+                        },
+                        "source": "GOOGLE",
+                        "sourceIconImageId": "v1704440323/google_ratings/rating_google_tag"
+                      },
+                      "ratingsDisplayPreference": "RATINGS_DISPLAY_PREFERENCE_SHOW_SWIGGY",
+                      "featuredSectionInfo": {
+                        "sectionTitle": "More"
+                      },
+                      "campaignId": "1bc29a92-5a3a-4d88-b0a7-6b3ff69f8977",
+                      "showEoOffer": true
+                    },
+                    "analytics": {
+                      "screenName": "explore",
+                      "context": "{\"tid\":\"undefined\",\"grid\":\"b52b1073-5f4c-4e6f-87e8-92b4573aac80\",\"queryUniqueId\":\"undefined\",\"query\":\"rajasthani\",\"adTrackingId\":\"cid=1bc29a92-5a3a-4d88-b0a7-6b3ff69f8977~p=3~adgrpid=1bc29a92-5a3a-4d88-b0a7-6b3ff69f8977#ag1~mp=SWIGGY_IN~bl=FOOD~aet=RESTAURANT~aeid=168292~plpr=SEARCH#RESTAURANT~st=rajasthani~eid=0b706761-404c-4b64-8305-907b334a38f6~srvts=1775281642240\"}",
+                      "objectValue": "168292",
+                      "impressionObjectName": "impression-restaurant-sld-ad",
+                      "clickObjectName": "click-restaurant-sld-ad"
+                    },
+                    "ctaWithParams": {
+                      "link": "swiggy://menu",
+                      "type": "DEEPLINK",
+                      "params": {
+                        "query": "rajasthani",
+                        "sourceSessionId": "qlnc842b2b4-a7f6-4ea3-99d5-0cdf6d19d",
+                        "source": "SEARCH",
+                        "isSld": "true",
+                        "sourceRequestId": "00000000000000000000000000000000",
+                        "qrEnabled": "false",
+                        "restaurant_id": "168292"
+                      }
+                    }
+                  }
+                }
+              },
+              {
+                "card": {
+                  "card": {
+                    "@type": "type.googleapis.com/swiggy.presentation.food.v2.Restaurant",
+                    "info": {
+                      "id": "1338144",
+                      "name": "Bharat28 Taste of Tradition",
+                      "city": "4",
+                      "slugs": {
+                        "restaurant": "bharat28-taste-of-tradition-karol-bagh-karol-bagh",
+                        "city": "delhi"
+                      },
+                      "cloudinaryImageId": "RX_THUMBNAIL/IMAGES/VENDOR/2026/2/24/3fef5a87-6361-49f8-9f57-fc3ea0f9f07b_1338144.jpg",
+                      "address": "Ground floor, municipal no. 26, Shop no. 1, Old Rajinder nagar ,Karol Bagh North,KAROL BAGH,Central,Delhi-110005",
+                      "locality": "Karol Bagh",
+                      "areaName": "Karol Bagh",
+                      "costForTwo": "20000",
+                      "costForTwoMessage": "₹200 FOR TWO",
+                      "cuisines": [
+                        "Bihari",
+                        "Snacks",
+                        "North Indian",
+                        "Rajasthani"
+                      ],
+                      "avgRating": 3.1,
+                      "feeDetails": {},
+                      "parentId": "761357",
+                      "avgRatingString": "3.1",
+                      "totalRatingsString": "12",
+                      "sla": {
+                        "deliveryTime": 40,
+                        "minDeliveryTime": 40,
+                        "maxDeliveryTime": 45,
+                        "lastMileTravel": 5,
+                        "serviceability": "SERVICEABLE",
+                        "rainMode": "RAIN_MODE_NONE",
+                        "slaString": "40-45 MINS",
+                        "lastMileTravelString": "5.0 km",
+                        "iconType": "ICON_TYPE_EMPTY"
+                      },
+                      "availability": {
+                        "opened": true,
+                        "restaurantClosedMeta": {}
+                      },
+                      "aggregatedDiscountInfo": {
+                        "visible": true
+                      },
+                      "badges": {},
+                      "aggregatedDiscountInfoV2": {
+                        "visible": true
+                      },
+                      "ratingSlab": "RATING_SLAB_4",
+                      "orderabilityCommunication": {
+                        "title": {},
+                        "subTitle": {},
+                        "message": {},
+                        "customIcon": {},
+                        "commsStyling": {}
+                      },
+                      "cartOrderabilityNudgeBanner": {
+                        "parameters": {},
+                        "presentation": {}
+                      },
+                      "externalRatings": {
+                        "aggregatedRating": {
+                          "rating": "--"
+                        }
+                      },
+                      "ratingsDisplayPreference": "RATINGS_DISPLAY_PREFERENCE_SHOW_SWIGGY",
+                      "featuredSectionInfo": {
+                        "sectionTitle": "More"
+                      },
+                      "showEoOffer": true
+                    },
+                    "analytics": {
+                      "screenName": "explore",
+                      "context": "{\"tid\":\"undefined\",\"grid\":\"b52b1073-5f4c-4e6f-87e8-92b4573aac80\",\"queryUniqueId\":\"undefined\",\"query\":\"rajasthani\"}",
+                      "objectValue": "1338144",
+                      "impressionObjectName": "impression-restaurant",
+                      "clickObjectName": "click-restaurant"
+                    },
+                    "ctaWithParams": {
+                      "link": "swiggy://menu",
+                      "type": "DEEPLINK",
+                      "params": {
+                        "qrEnabled": "false",
+                        "restaurant_id": "1338144",
+                        "query": "rajasthani",
+                        "sourceSessionId": "qlnc842b2b4-a7f6-4ea3-99d5-0cdf6d19d",
+                        "source": "SEARCH",
+                        "isSld": "false",
+                        "sourceRequestId": "00000000000000000000000000000000"
+                      }
+                    }
+                  }
+                }
+              },
+              {
+                "card": {
+                  "card": {
+                    "@type": "type.googleapis.com/swiggy.presentation.food.v2.Restaurant",
+                    "info": {
+                      "id": "679996",
+                      "name": "Khichdi Hub",
+                      "city": "4",
+                      "slugs": {
+                        "restaurant": "khichdi-hub-karol-bagh-karol-bagh",
+                        "city": "delhi"
+                      },
+                      "cloudinaryImageId": "ebf0f3e38eb13bdb4f5144490fc63416",
+                      "address": "1723, GF, Gali Pratap, Chuna Mandi, Paharganj New Delhi ,Central,Delhi,110055",
+                      "locality": "Lakshmi Narayan St",
+                      "areaName": "Paharganj",
+                      "costForTwo": "25000",
+                      "costForTwoMessage": "₹250 FOR TWO",
+                      "cuisines": [
+                        "Healthy Food",
+                        "North Indian"
+                      ],
+                      "avgRating": 4.3,
+                      "feeDetails": {},
+                      "parentId": "406307",
+                      "avgRatingString": "4.3",
+                      "totalRatingsString": "2.3K+",
+                      "promoted": true,
+                      "adTrackingId": "cid=66bed463-2a77-46a1-86b4-97b77689ed3f~p=4~adgrpid=66bed463-2a77-46a1-86b4-97b77689ed3f#ag1~mp=SWIGGY_IN~bl=FOOD~aet=RESTAURANT~aeid=679996~plpr=SEARCH#RESTAURANT~st=rajasthani~eid=ef9aaf3e-55ce-41ae-9988-31268f38f584~srvts=1775281642240",
+                      "sla": {
+                        "deliveryTime": 33,
+                        "minDeliveryTime": 30,
+                        "maxDeliveryTime": 35,
+                        "lastMileTravel": 5,
+                        "serviceability": "SERVICEABLE",
+                        "rainMode": "RAIN_MODE_NONE",
+                        "slaString": "30-35 MINS",
+                        "lastMileTravelString": "5.0 km",
+                        "iconType": "ICON_TYPE_EMPTY"
+                      },
+                      "availability": {
+                        "opened": true,
+                        "restaurantClosedMeta": {}
+                      },
+                      "badges": {},
+                      "aggregatedDiscountInfoV3": {
+                        "header": "60% OFF",
+                        "subHeader": "UPTO ₹120"
+                      },
+                      "ratingSlab": "RATING_SLAB_5",
+                      "orderabilityCommunication": {
+                        "title": {},
+                        "subTitle": {},
+                        "message": {},
+                        "customIcon": {},
+                        "commsStyling": {}
+                      },
+                      "cartOrderabilityNudgeBanner": {
+                        "parameters": {},
+                        "presentation": {}
+                      },
+                      "externalRatings": {
+                        "aggregatedRating": {
+                          "rating": "--"
+                        }
+                      },
+                      "ratingsDisplayPreference": "RATINGS_DISPLAY_PREFERENCE_SHOW_SWIGGY",
+                      "featuredSectionInfo": {
+                        "sectionTitle": "More"
+                      },
+                      "campaignId": "66bed463-2a77-46a1-86b4-97b77689ed3f",
+                      "showEoOffer": true
+                    },
+                    "analytics": {
+                      "screenName": "explore",
+                      "context": "{\"tid\":\"undefined\",\"grid\":\"b52b1073-5f4c-4e6f-87e8-92b4573aac80\",\"queryUniqueId\":\"undefined\",\"query\":\"rajasthani\",\"adTrackingId\":\"cid=66bed463-2a77-46a1-86b4-97b77689ed3f~p=4~adgrpid=66bed463-2a77-46a1-86b4-97b77689ed3f#ag1~mp=SWIGGY_IN~bl=FOOD~aet=RESTAURANT~aeid=679996~plpr=SEARCH#RESTAURANT~st=rajasthani~eid=ef9aaf3e-55ce-41ae-9988-31268f38f584~srvts=1775281642240\"}",
+                      "objectValue": "679996",
+                      "impressionObjectName": "impression-restaurant-ad",
+                      "clickObjectName": "click-restaurant-ad"
+                    },
+                    "ctaWithParams": {
+                      "link": "swiggy://menu",
+                      "type": "DEEPLINK",
+                      "params": {
+                        "qrEnabled": "false",
+                        "restaurant_id": "679996",
+                        "query": "rajasthani",
+                        "sourceSessionId": "qlnc842b2b4-a7f6-4ea3-99d5-0cdf6d19d",
+                        "source": "SEARCH",
+                        "isSld": "false",
+                        "sourceRequestId": "00000000000000000000000000000000"
+                      }
+                    }
+                  }
+                }
+              },
+              {
+                "card": {
+                  "card": {
+                    "@type": "type.googleapis.com/swiggy.presentation.food.v2.Restaurant",
+                    "info": {
+                      "id": "395760",
+                      "name": "Anupama Express",
+                      "city": "4",
+                      "slugs": {
+                        "restaurant": "anupama-express-greater-kailash-2-greater-kailash-2",
+                        "city": "delhi"
+                      },
+                      "cloudinaryImageId": "RX_THUMBNAIL/IMAGES/VENDOR/2026/2/25/aaa6139c-5dcd-4f2b-8ea8-7089dfecad4b_395760.jpg",
+                      "address": "Shop No. 127, 1st Floor, DDA Auto Shopping Center, Zamrudpur, Greater Kailash-I, KALKAJI, South East, Delhi-110048",
+                      "locality": " Greater Kailash-I",
+                      "areaName": "Greater Kailash New",
+                      "costForTwo": "25000",
+                      "costForTwoMessage": "₹250 FOR TWO",
+                      "cuisines": [
+                        "Sweets",
+                        "Desserts",
+                        "Chinese",
+                        "pure veg"
+                      ],
+                      "avgRating": 4.4,
+                      "feeDetails": {},
+                      "parentId": "241084",
+                      "avgRatingString": "4.4",
+                      "totalRatingsString": "988",
+                      "sla": {
+                        "deliveryTime": 47,
+                        "minDeliveryTime": 45,
+                        "maxDeliveryTime": 50,
+                        "lastMileTravel": 9.2,
+                        "serviceability": "SERVICEABLE",
+                        "rainMode": "RAIN_MODE_NONE",
+                        "slaString": "45-50 MINS",
+                        "lastMileTravelString": "9.2 km",
+                        "iconType": "ICON_TYPE_EMPTY"
+                      },
+                      "availability": {
+                        "opened": true,
+                        "restaurantClosedMeta": {}
+                      },
+                      "aggregatedDiscountInfo": {
+                        "visible": true
+                      },
+                      "badges": {
+                        "imageBadges": [
+                          {
+                            "imageId": "v1695133679/badges/Pure_Veg111.png",
+                            "description": "pureveg"
+                          }
+                        ]
+                      },
+                      "aggregatedDiscountInfoV2": {
+                        "visible": true
+                      },
+                      "ratingSlab": "RATING_SLAB_5",
+                      "orderabilityCommunication": {
+                        "title": {},
+                        "subTitle": {},
+                        "message": {},
+                        "customIcon": {},
+                        "commsStyling": {}
+                      },
+                      "cartOrderabilityNudgeBanner": {
+                        "parameters": {},
+                        "presentation": {}
+                      },
+                      "externalRatings": {
+                        "aggregatedRating": {
+                          "rating": "--"
+                        }
+                      },
+                      "ratingsDisplayPreference": "RATINGS_DISPLAY_PREFERENCE_SHOW_SWIGGY",
+                      "featuredSectionInfo": {
+                        "sectionTitle": "More"
+                      },
+                      "showEoOffer": true
+                    },
+                    "analytics": {
+                      "screenName": "explore",
+                      "context": "{\"tid\":\"undefined\",\"grid\":\"b52b1073-5f4c-4e6f-87e8-92b4573aac80\",\"queryUniqueId\":\"undefined\",\"query\":\"rajasthani\"}",
+                      "objectValue": "395760",
+                      "impressionObjectName": "impression-restaurant",
+                      "clickObjectName": "click-restaurant"
+                    },
+                    "ctaWithParams": {
+                      "link": "swiggy://menu",
+                      "type": "DEEPLINK",
+                      "params": {
+                        "query": "rajasthani",
+                        "sourceSessionId": "qlnc842b2b4-a7f6-4ea3-99d5-0cdf6d19d",
+                        "source": "SEARCH",
+                        "isSld": "false",
+                        "sourceRequestId": "00000000000000000000000000000000",
+                        "qrEnabled": "false",
+                        "restaurant_id": "395760"
+                      }
+                    }
+                  }
+                }
+              },
+              {
+                "card": {
+                  "card": {
+                    "@type": "type.googleapis.com/swiggy.presentation.food.v2.Restaurant",
+                    "info": {
+                      "id": "1237157",
+                      "name": "MurGhee",
+                      "city": "4",
+                      "slugs": {
+                        "restaurant": "murghee-karol-bagh-karol-bagh",
+                        "city": "delhi"
+                      },
+                      "cloudinaryImageId": "RX_THUMBNAIL/IMAGES/VENDOR/2025/12/2/91ff03a6-9300-46d9-a1df-3523631d4459_1237157 (1).jpg",
+                      "address": "6/19, Ground Floor, W.E.A Karol Bagh, Main Road ,Karol Bagh West,KAROL BAGH,Central,Delhi-110005\t",
+                      "locality": "W.E.A 6th Block",
+                      "areaName": "Karol Bagh",
+                      "costForTwo": "30000",
+                      "costForTwoMessage": "₹300 FOR TWO",
+                      "cuisines": [
+                        "Biryani"
+                      ],
+                      "avgRating": 4.2,
+                      "feeDetails": {},
+                      "parentId": "301551",
+                      "avgRatingString": "4.2",
+                      "totalRatingsString": "68",
+                      "promoted": true,
+                      "adTrackingId": "cid=4ce405c2-89f6-43aa-9242-985299b70d80~p=5~adgrpid=4ce405c2-89f6-43aa-9242-985299b70d80#ag1~mp=SWIGGY_IN~bl=FOOD~aet=RESTAURANT~aeid=1237157~plpr=SEARCH#RESTAURANT~st=rajasthani~eid=4f277f36-56f6-4abb-8409-92dfbd6d91c1~srvts=1775281642240",
+                      "sla": {
+                        "deliveryTime": 35,
+                        "minDeliveryTime": 30,
+                        "maxDeliveryTime": 35,
+                        "lastMileTravel": 6.9,
+                        "serviceability": "SERVICEABLE",
+                        "rainMode": "RAIN_MODE_NONE",
+                        "slaString": "30-35 MINS",
+                        "lastMileTravelString": "6.9 km",
+                        "iconType": "ICON_TYPE_EMPTY"
+                      },
+                      "availability": {
+                        "opened": true,
+                        "restaurantClosedMeta": {}
+                      },
+                      "badges": {},
+                      "aggregatedDiscountInfoV3": {
+                        "header": "ITEMS",
+                        "subHeader": "AT ₹149",
+                        "logoCtx": {
+                          "text": "BENEFITS"
+                        }
+                      },
+                      "ratingSlab": "RATING_SLAB_5",
+                      "orderabilityCommunication": {
+                        "title": {},
+                        "subTitle": {},
+                        "message": {},
+                        "customIcon": {},
+                        "commsStyling": {}
+                      },
+                      "cartOrderabilityNudgeBanner": {
+                        "parameters": {},
+                        "presentation": {}
+                      },
+                      "externalRatings": {
+                        "aggregatedRating": {
+                          "rating": "--"
+                        }
+                      },
+                      "ratingsDisplayPreference": "RATINGS_DISPLAY_PREFERENCE_SHOW_SWIGGY",
+                      "featuredSectionInfo": {
+                        "sectionTitle": "More"
+                      },
+                      "campaignId": "4ce405c2-89f6-43aa-9242-985299b70d80",
+                      "showEoOffer": true
+                    },
+                    "analytics": {
+                      "screenName": "explore",
+                      "context": "{\"tid\":\"undefined\",\"grid\":\"b52b1073-5f4c-4e6f-87e8-92b4573aac80\",\"queryUniqueId\":\"undefined\",\"query\":\"rajasthani\",\"adTrackingId\":\"cid=4ce405c2-89f6-43aa-9242-985299b70d80~p=5~adgrpid=4ce405c2-89f6-43aa-9242-985299b70d80#ag1~mp=SWIGGY_IN~bl=FOOD~aet=RESTAURANT~aeid=1237157~plpr=SEARCH#RESTAURANT~st=rajasthani~eid=4f277f36-56f6-4abb-8409-92dfbd6d91c1~srvts=1775281642240\"}",
+                      "objectValue": "1237157",
+                      "impressionObjectName": "impression-restaurant-ad",
+                      "clickObjectName": "click-restaurant-ad"
+                    },
+                    "ctaWithParams": {
+                      "link": "swiggy://menu",
+                      "type": "DEEPLINK",
+                      "params": {
+                        "query": "rajasthani",
+                        "sourceSessionId": "qlnc842b2b4-a7f6-4ea3-99d5-0cdf6d19d",
+                        "source": "SEARCH",
+                        "isSld": "false",
+                        "sourceRequestId": "00000000000000000000000000000000",
+                        "qrEnabled": "false",
+                        "restaurant_id": "1237157"
+                      }
+                    }
+                  }
+                }
+              },
+              {
+                "card": {
+                  "card": {
+                    "@type": "type.googleapis.com/swiggy.presentation.food.v2.Restaurant",
+                    "info": {
+                      "id": "833421",
+                      "name": "Hira Sweets Express",
+                      "city": "4",
+                      "slugs": {
+                        "restaurant": "hira-sweets-express-laxmi-nagar-laxmi-nagar",
+                        "city": "delhi"
+                      },
+                      "cloudinaryImageId": "89d1b91702dd5d92c6f89fe14b9dd75f",
+                      "address": "L 3/A, BLOCK L, LAXMI NAGAR ,Delhi  110092",
+                      "locality": "Block L",
+                      "areaName": "Laxmi Nagar",
+                      "costForTwo": "40000",
+                      "costForTwoMessage": "₹400 FOR TWO",
+                      "cuisines": [
+                        "South Indian",
+                        "Chinese",
+                        "Continental",
+                        "Bakery",
+                        "Street Food",
+                        "Sweets",
+                        "Desserts",
+                        "Beverages",
+                        "Indian"
+                      ],
+                      "avgRating": 4.4,
+                      "feeDetails": {},
+                      "parentId": "96172",
+                      "avgRatingString": "4.4",
+                      "totalRatingsString": "2.4K+",
+                      "sla": {
+                        "deliveryTime": 48,
+                        "minDeliveryTime": 45,
+                        "maxDeliveryTime": 50,
+                        "lastMileTravel": 9.2,
+                        "serviceability": "SERVICEABLE",
+                        "rainMode": "RAIN_MODE_NONE",
+                        "slaString": "45-50 MINS",
+                        "lastMileTravelString": "9.2 km",
+                        "iconType": "ICON_TYPE_EMPTY"
+                      },
+                      "availability": {
+                        "opened": true,
+                        "restaurantClosedMeta": {}
+                      },
+                      "aggregatedDiscountInfo": {
+                        "visible": true
+                      },
+                      "badges": {},
+                      "sld": true,
+                      "aggregatedDiscountInfoV2": {
+                        "visible": true
+                      },
+                      "ratingSlab": "RATING_SLAB_5",
+                      "orderabilityCommunication": {
+                        "title": {},
+                        "subTitle": {},
+                        "message": {},
+                        "customIcon": {},
+                        "commsStyling": {}
+                      },
+                      "cartOrderabilityNudgeBanner": {
+                        "parameters": {},
+                        "presentation": {}
+                      },
+                      "externalRatings": {
+                        "aggregatedRating": {
+                          "rating": "--"
+                        }
+                      },
+                      "ratingsDisplayPreference": "RATINGS_DISPLAY_PREFERENCE_SHOW_SWIGGY",
+                      "featuredSectionInfo": {
+                        "sectionTitle": "More"
+                      },
+                      "showEoOffer": true
+                    },
+                    "analytics": {
+                      "screenName": "explore",
+                      "context": "{\"tid\":\"undefined\",\"grid\":\"b52b1073-5f4c-4e6f-87e8-92b4573aac80\",\"queryUniqueId\":\"undefined\",\"query\":\"rajasthani\"}",
+                      "objectValue": "833421",
+                      "impressionObjectName": "impression-restaurant-sld",
+                      "clickObjectName": "click-restaurant-sld"
+                    },
+                    "ctaWithParams": {
+                      "link": "swiggy://menu",
+                      "type": "DEEPLINK",
+                      "params": {
+                        "restaurant_id": "833421",
+                        "query": "rajasthani",
+                        "sourceSessionId": "qlnc842b2b4-a7f6-4ea3-99d5-0cdf6d19d",
+                        "source": "SEARCH",
+                        "isSld": "true",
+                        "sourceRequestId": "00000000000000000000000000000000",
+                        "qrEnabled": "false"
+                      }
+                    }
+                  }
+                }
+              },
+              {
+                "card": {
+                  "card": {
+                    "@type": "type.googleapis.com/swiggy.presentation.food.v2.Restaurant",
+                    "info": {
+                      "id": "359190",
+                      "name": "Anupam Sweets",
+                      "city": "4",
+                      "slugs": {
+                        "restaurant": "anupam-sweets-hauz-khas-hauz-khas",
+                        "city": "delhi"
+                      },
+                      "cloudinaryImageId": "j7p5j6zt0unqjdhouxuk",
+                      "address": "66-C HUMAYUNPUR, SAGDARJUNG ENCLAVE, VASANT VIHAR, New Delhi, Delhi-110029 ",
+                      "locality": "Safdarjung",
+                      "areaName": "Safdarjung",
+                      "costForTwo": "30000",
+                      "costForTwoMessage": "₹300 FOR TWO",
+                      "cuisines": [
+                        "Sweets",
+                        "Snacks"
+                      ],
+                      "avgRating": 4.1,
+                      "feeDetails": {},
+                      "parentId": "34515",
+                      "avgRatingString": "4.1",
+                      "totalRatingsString": "238",
+                      "promoted": true,
+                      "adTrackingId": "cid=075a0d71-594b-4fba-bb6b-fb2c0f9cd8cd~p=11~adgrpid=075a0d71-594b-4fba-bb6b-fb2c0f9cd8cd#ag1~mp=SWIGGY_IN~bl=FOOD~aet=RESTAURANT~aeid=359190~plpr=SEARCH#RESTAURANT~st=rajasthani~eid=f64d145d-d90b-480e-96ba-6a6aaccec5c8~srvts=1775281642240",
+                      "sla": {
+                        "deliveryTime": 49,
+                        "minDeliveryTime": 45,
+                        "maxDeliveryTime": 50,
+                        "lastMileTravel": 8.2,
+                        "serviceability": "SERVICEABLE",
+                        "rainMode": "RAIN_MODE_NONE",
+                        "slaString": "45-50 MINS",
+                        "lastMileTravelString": "8.2 km",
+                        "iconType": "ICON_TYPE_EMPTY"
+                      },
+                      "availability": {
+                        "opened": true,
+                        "restaurantClosedMeta": {}
+                      },
+                      "aggregatedDiscountInfo": {
+                        "visible": true
+                      },
+                      "badges": {},
+                      "aggregatedDiscountInfoV2": {
+                        "visible": true
+                      },
+                      "ratingSlab": "RATING_SLAB_5",
+                      "orderabilityCommunication": {
+                        "title": {},
+                        "subTitle": {},
+                        "message": {},
+                        "customIcon": {},
+                        "commsStyling": {}
+                      },
+                      "cartOrderabilityNudgeBanner": {
+                        "parameters": {},
+                        "presentation": {}
+                      },
+                      "externalRatings": {
+                        "aggregatedRating": {
+                          "rating": "3.7",
+                          "ratingCount": "385"
+                        },
+                        "source": "GOOGLE",
+                        "sourceIconImageId": "v1704440323/google_ratings/rating_google_tag"
+                      },
+                      "ratingsDisplayPreference": "RATINGS_DISPLAY_PREFERENCE_SHOW_SWIGGY",
+                      "featuredSectionInfo": {
+                        "sectionTitle": "More"
+                      },
+                      "campaignId": "075a0d71-594b-4fba-bb6b-fb2c0f9cd8cd",
+                      "showEoOffer": true
+                    },
+                    "analytics": {
+                      "screenName": "explore",
+                      "context": "{\"tid\":\"undefined\",\"grid\":\"b52b1073-5f4c-4e6f-87e8-92b4573aac80\",\"queryUniqueId\":\"undefined\",\"query\":\"rajasthani\",\"adTrackingId\":\"cid=075a0d71-594b-4fba-bb6b-fb2c0f9cd8cd~p=11~adgrpid=075a0d71-594b-4fba-bb6b-fb2c0f9cd8cd#ag1~mp=SWIGGY_IN~bl=FOOD~aet=RESTAURANT~aeid=359190~plpr=SEARCH#RESTAURANT~st=rajasthani~eid=f64d145d-d90b-480e-96ba-6a6aaccec5c8~srvts=1775281642240\"}",
+                      "objectValue": "359190",
+                      "impressionObjectName": "impression-restaurant-ad",
+                      "clickObjectName": "click-restaurant-ad"
+                    },
+                    "ctaWithParams": {
+                      "link": "swiggy://menu",
+                      "type": "DEEPLINK",
+                      "params": {
+                        "query": "rajasthani",
+                        "sourceSessionId": "qlnc842b2b4-a7f6-4ea3-99d5-0cdf6d19d",
+                        "source": "SEARCH",
+                        "isSld": "false",
+                        "sourceRequestId": "00000000000000000000000000000000",
+                        "qrEnabled": "false",
+                        "restaurant_id": "359190"
+                      }
+                    }
+                  }
+                }
+              },
+              {
+                "card": {
+                  "card": {
+                    "@type": "type.googleapis.com/swiggy.presentation.food.v2.Restaurant",
+                    "info": {
+                      "id": "1339089",
+                      "name": "Rajwadi Khana",
+                      "city": "4",
+                      "slugs": {
+                        "restaurant": "rajwadi-khana-laxmi-nagar-laxmi-nagar",
+                        "city": "delhi"
+                      },
+                      "cloudinaryImageId": "RX_THUMBNAIL/IMAGES/VENDOR/2026/2/27/ab6d7d04-c22f-4dfa-a279-5b82978ad10a_1339089.jpg",
+                      "address": "h no. 123 k Krishna kunj extn laxmi nagar ,KHUREJI KHAS,PREET VIHAR,East ,Delhi-110092",
+                      "locality": "Laxmi Nagar",
+                      "areaName": "Laxmi Nagar",
+                      "costForTwo": "10000",
+                      "costForTwoMessage": "₹100 FOR TWO",
+                      "cuisines": [
+                        "Rajasthani",
+                        "North Indian",
+                        "Indian"
+                      ],
+                      "feeDetails": {},
+                      "parentId": "761916",
+                      "avgRatingString": "NEW",
+                      "sla": {
+                        "deliveryTime": 67,
+                        "minDeliveryTime": 65,
+                        "maxDeliveryTime": 75,
+                        "lastMileTravel": 9.6,
+                        "serviceability": "SERVICEABLE",
+                        "rainMode": "RAIN_MODE_NONE",
+                        "slaString": "65-75 MINS",
+                        "lastMileTravelString": "9.6 km",
+                        "iconType": "ICON_TYPE_EMPTY"
+                      },
+                      "availability": {
+                        "opened": true,
+                        "restaurantClosedMeta": {}
+                      },
+                      "aggregatedDiscountInfo": {
+                        "visible": true
+                      },
+                      "badges": {},
+                      "sld": true,
+                      "aggregatedDiscountInfoV2": {
+                        "visible": true
+                      },
+                      "orderabilityCommunication": {
+                        "title": {},
+                        "subTitle": {},
+                        "message": {},
+                        "customIcon": {},
+                        "commsStyling": {}
+                      },
+                      "cartOrderabilityNudgeBanner": {
+                        "parameters": {},
+                        "presentation": {}
+                      },
+                      "externalRatings": {
+                        "aggregatedRating": {
+                          "rating": "--"
+                        }
+                      },
+                      "ratingsDisplayPreference": "RATINGS_DISPLAY_PREFERENCE_SHOW_SWIGGY",
+                      "featuredSectionInfo": {
+                        "sectionTitle": "More"
+                      },
+                      "showEoOffer": true
+                    },
+                    "analytics": {
+                      "screenName": "explore",
+                      "context": "{\"tid\":\"undefined\",\"grid\":\"b52b1073-5f4c-4e6f-87e8-92b4573aac80\",\"queryUniqueId\":\"undefined\",\"query\":\"rajasthani\"}",
+                      "objectValue": "1339089",
+                      "impressionObjectName": "impression-restaurant-sld",
+                      "clickObjectName": "click-restaurant-sld"
+                    },
+                    "ctaWithParams": {
+                      "link": "swiggy://menu",
+                      "type": "DEEPLINK",
+                      "params": {
+                        "source": "SEARCH",
+                        "isSld": "true",
+                        "sourceRequestId": "00000000000000000000000000000000",
+                        "qrEnabled": "false",
+                        "restaurant_id": "1339089",
+                        "query": "rajasthani",
+                        "sourceSessionId": "qlnc842b2b4-a7f6-4ea3-99d5-0cdf6d19d"
+                      }
+                    }
+                  }
+                }
+              },
+              {
+                "card": {
+                  "card": {
+                    "@type": "type.googleapis.com/swiggy.presentation.food.v2.Restaurant",
+                    "info": {
+                      "id": "88857",
+                      "name": "Kuremal Kulfi",
+                      "city": "4",
+                      "slugs": {
+                        "restaurant": "kuremals-kulfi-bengali-market-connaught-place-connaught-place",
+                        "city": "delhi"
+                      },
+                      "cloudinaryImageId": "val3gjrfcutlnxl6fsa7",
+                      "address": "Shop No.8, Bengali Market, Near Mandi House Metro Station, Delhi 110001",
+                      "locality": "Mandi House",
+                      "areaName": "Mandi House",
+                      "costForTwo": "20000",
+                      "costForTwoMessage": "₹200 FOR TWO",
+                      "cuisines": [
+                        "Desserts",
+                        "Ice Cream"
+                      ],
+                      "avgRating": 4.2,
+                      "feeDetails": {},
+                      "parentId": "8736",
+                      "avgRatingString": "4.2",
+                      "totalRatingsString": "393",
+                      "sla": {
+                        "deliveryTime": 24,
+                        "minDeliveryTime": 20,
+                        "maxDeliveryTime": 25,
+                        "lastMileTravel": 4.3,
+                        "serviceability": "SERVICEABLE",
+                        "rainMode": "RAIN_MODE_NONE",
+                        "slaString": "20-25 MINS",
+                        "lastMileTravelString": "4.3 km",
+                        "iconType": "ICON_TYPE_EMPTY"
+                      },
+                      "availability": {
+                        "opened": true,
+                        "restaurantClosedMeta": {}
+                      },
+                      "aggregatedDiscountInfo": {
+                        "visible": true
+                      },
+                      "badges": {
+                        "imageBadges": [
+                          {
+                            "imageId": "v1695133679/badges/Pure_Veg111.png",
+                            "description": "pureveg"
+                          }
+                        ]
+                      },
+                      "aggregatedDiscountInfoV2": {
+                        "visible": true
+                      },
+                      "ratingSlab": "RATING_SLAB_5",
+                      "orderabilityCommunication": {
+                        "title": {},
+                        "subTitle": {},
+                        "message": {},
+                        "customIcon": {},
+                        "commsStyling": {}
+                      },
+                      "cartOrderabilityNudgeBanner": {
+                        "parameters": {},
+                        "presentation": {}
+                      },
+                      "externalRatings": {
+                        "aggregatedRating": {
+                          "rating": "4.3",
+                          "ratingCount": "710"
+                        },
+                        "source": "GOOGLE",
+                        "sourceIconImageId": "v1704440323/google_ratings/rating_google_tag"
+                      },
+                      "ratingsDisplayPreference": "RATINGS_DISPLAY_PREFERENCE_SHOW_SWIGGY",
+                      "featuredSectionInfo": {
+                        "sectionTitle": "More"
+                      },
+                      "showEoOffer": true
+                    },
+                    "analytics": {
+                      "screenName": "explore",
+                      "context": "{\"tid\":\"undefined\",\"grid\":\"b52b1073-5f4c-4e6f-87e8-92b4573aac80\",\"queryUniqueId\":\"undefined\",\"query\":\"rajasthani\"}",
+                      "objectValue": "88857",
+                      "impressionObjectName": "impression-restaurant",
+                      "clickObjectName": "click-restaurant"
+                    },
+                    "ctaWithParams": {
+                      "link": "swiggy://menu",
+                      "type": "DEEPLINK",
+                      "params": {
+                        "isSld": "false",
+                        "sourceRequestId": "00000000000000000000000000000000",
+                        "qrEnabled": "false",
+                        "restaurant_id": "88857",
+                        "query": "rajasthani",
+                        "sourceSessionId": "qlnc842b2b4-a7f6-4ea3-99d5-0cdf6d19d",
+                        "source": "SEARCH"
+                      }
+                    }
+                  }
+                }
+              },
+              {
+                "card": {
+                  "card": {
+                    "@type": "type.googleapis.com/swiggy.presentation.food.v2.Restaurant",
+                    "info": {
+                      "id": "817630",
+                      "name": "Malik Sweet House",
+                      "city": "4",
+                      "slugs": {
+                        "restaurant": "malik-sweet-house-connaught-place-connaught-place",
+                        "city": "delhi"
+                      },
+                      "cloudinaryImageId": "d97b1987fff6d2d563b7b6b56a25fa92",
+                      "address": "Shop No. 1B, Regal Building,Connaught Place ,Chankya Puri,New Delhi,Delhi-110001",
+                      "locality": "Connaught Place",
+                      "areaName": "Connaught Place",
+                      "costForTwo": "40000",
+                      "costForTwoMessage": "₹400 FOR TWO",
+                      "cuisines": [
+                        "Sweets",
+                        "Snacks"
+                      ],
+                      "avgRating": 4,
+                      "feeDetails": {},
+                      "parentId": "487326",
+                      "avgRatingString": "4.0",
+                      "totalRatingsString": "112",
+                      "sla": {
+                        "deliveryTime": 19,
+                        "minDeliveryTime": 15,
+                        "maxDeliveryTime": 20,
+                        "lastMileTravel": 2.8,
+                        "serviceability": "SERVICEABLE",
+                        "rainMode": "RAIN_MODE_NONE",
+                        "slaString": "15-20 MINS",
+                        "lastMileTravelString": "2.8 km",
+                        "iconType": "ICON_TYPE_EMPTY"
+                      },
+                      "availability": {
+                        "opened": true,
+                        "restaurantClosedMeta": {}
+                      },
+                      "badges": {
+                        "imageBadges": [
+                          {
+                            "imageId": "android/static-assets/icons/big_rx.png",
+                            "description": "bolt!"
+                          },
+                          {
+                            "imageId": "v1695133679/badges/Pure_Veg111.png",
+                            "description": "pureveg"
+                          }
+                        ]
+                      },
+                      "aggregatedDiscountInfoV3": {
+                        "header": "ITEMS",
+                        "subHeader": "AT ₹99"
+                      },
+                      "ratingSlab": "RATING_SLAB_4",
+                      "orderabilityCommunication": {
+                        "title": {},
+                        "subTitle": {},
+                        "message": {},
+                        "customIcon": {},
+                        "commsStyling": {}
+                      },
+                      "cartOrderabilityNudgeBanner": {
+                        "parameters": {},
+                        "presentation": {}
+                      },
+                      "externalRatings": {
+                        "aggregatedRating": {
+                          "rating": "3.9",
+                          "ratingCount": "449"
+                        },
+                        "source": "GOOGLE",
+                        "sourceIconImageId": "v1704440323/google_ratings/rating_google_tag"
+                      },
+                      "ratingsDisplayPreference": "RATINGS_DISPLAY_PREFERENCE_SHOW_SWIGGY",
+                      "featuredSectionInfo": {
+                        "sectionTitle": "More"
+                      },
+                      "showEoOffer": true
+                    },
+                    "analytics": {
+                      "screenName": "explore",
+                      "context": "{\"tid\":\"undefined\",\"grid\":\"b52b1073-5f4c-4e6f-87e8-92b4573aac80\",\"queryUniqueId\":\"undefined\",\"query\":\"rajasthani\"}",
+                      "objectValue": "817630",
+                      "impressionObjectName": "impression-restaurant",
+                      "clickObjectName": "click-restaurant"
+                    },
+                    "ctaWithParams": {
+                      "link": "swiggy://menu",
+                      "type": "DEEPLINK",
+                      "params": {
+                        "qrEnabled": "false",
+                        "restaurant_id": "817630",
+                        "query": "rajasthani",
+                        "sourceSessionId": "qlnc842b2b4-a7f6-4ea3-99d5-0cdf6d19d",
+                        "source": "SEARCH",
+                        "isSld": "false",
+                        "sourceRequestId": "00000000000000000000000000000000"
+                      }
+                    }
+                  }
+                }
+              },
+              {
+                "card": {
+                  "card": {
+                    "@type": "type.googleapis.com/swiggy.presentation.food.v2.Restaurant",
+                    "info": {
+                      "id": "1011937",
+                      "name": "Jeemanvala Restaurant",
+                      "city": "4",
+                      "slugs": {
+                        "restaurant": "jeemanvala-restaurant-gtb-nagar-gtb-nagar",
+                        "city": "delhi"
+                      },
+                      "cloudinaryImageId": "RX_THUMBNAIL/IMAGES/VENDOR/2024/12/20/1a1427a7-3ae4-4376-a39f-214ab935ac6d_1011937.jpg",
+                      "address": "E-23 Kamla Nagar ,Delhi ,110007 ,AZADPUR,MODEL TOWN,North ,Delhi-110007",
+                      "locality": "Kamla Nagar",
+                      "areaName": "GTB Nagar",
+                      "costForTwo": "40000",
+                      "costForTwoMessage": "₹400 FOR TWO",
+                      "cuisines": [
+                        "Desserts",
+                        "Rajasthani",
+                        "Chaat",
+                        "Thalis"
+                      ],
+                      "avgRating": 3.6,
+                      "feeDetails": {},
+                      "parentId": "590007",
+                      "avgRatingString": "3.6",
+                      "totalRatingsString": "38",
+                      "sla": {
+                        "deliveryTime": 51,
+                        "minDeliveryTime": 50,
+                        "maxDeliveryTime": 60,
+                        "lastMileTravel": 9.3,
+                        "serviceability": "SERVICEABLE",
+                        "rainMode": "RAIN_MODE_NONE",
+                        "slaString": "50-60 MINS",
+                        "lastMileTravelString": "9.3 km",
+                        "iconType": "ICON_TYPE_EMPTY"
+                      },
+                      "availability": {
+                        "opened": true,
+                        "restaurantClosedMeta": {}
+                      },
+                      "badges": {},
+                      "sld": true,
+                      "aggregatedDiscountInfoV3": {
+                        "header": "₹100 OFF",
+                        "subHeader": "ABOVE ₹249",
+                        "discountTag": "FLAT DEAL",
+                        "logoCtx": {
+                          "text": "BENEFITS"
+                        }
+                      },
+                      "ratingSlab": "RATING_SLAB_4",
+                      "orderabilityCommunication": {
+                        "title": {},
+                        "subTitle": {},
+                        "message": {},
+                        "customIcon": {},
+                        "commsStyling": {}
+                      },
+                      "cartOrderabilityNudgeBanner": {
+                        "parameters": {},
+                        "presentation": {}
+                      },
+                      "externalRatings": {
+                        "aggregatedRating": {
+                          "rating": "--"
+                        }
+                      },
+                      "ratingsDisplayPreference": "RATINGS_DISPLAY_PREFERENCE_SHOW_SWIGGY",
+                      "featuredSectionInfo": {
+                        "sectionTitle": "More"
+                      },
+                      "showEoOffer": true
+                    },
+                    "analytics": {
+                      "screenName": "explore",
+                      "context": "{\"tid\":\"undefined\",\"grid\":\"b52b1073-5f4c-4e6f-87e8-92b4573aac80\",\"queryUniqueId\":\"undefined\",\"query\":\"rajasthani\"}",
+                      "objectValue": "1011937",
+                      "impressionObjectName": "impression-restaurant-sld",
+                      "clickObjectName": "click-restaurant-sld"
+                    },
+                    "ctaWithParams": {
+                      "link": "swiggy://menu",
+                      "type": "DEEPLINK",
+                      "params": {
+                        "restaurant_id": "1011937",
+                        "query": "rajasthani",
+                        "sourceSessionId": "qlnc842b2b4-a7f6-4ea3-99d5-0cdf6d19d",
+                        "source": "SEARCH",
+                        "isSld": "true",
+                        "sourceRequestId": "00000000000000000000000000000000",
+                        "qrEnabled": "false"
+                      }
+                    }
+                  }
+                }
+              },
+              {
+                "card": {
+                  "card": {
+                    "@type": "type.googleapis.com/swiggy.presentation.food.v2.Restaurant",
+                    "info": {
+                      "id": "998913",
+                      "name": "Rajasthani Tadka",
+                      "city": "4",
+                      "slugs": {
+                        "restaurant": "rajasthani-tadka-malviya-nagar-malviya-nagar",
+                        "city": "delhi"
+                      },
+                      "cloudinaryImageId": "RX_THUMBNAIL/IMAGES/VENDOR/2024/11/26/208240af-96a2-491c-a4b1-110f7e65e8be_998913.jpg",
+                      "address": "B-134 sector 5 Dakshinpuri DR Ambedkar Nagar ,NEB SARAI,SAKET,South ,Delhi-110062",
+                      "locality": "Malviya Nagar",
+                      "areaName": "Malviya Nagar",
+                      "costForTwo": "39500",
+                      "costForTwoMessage": "₹395 FOR TWO",
+                      "cuisines": [
+                        "Burgers"
+                      ],
+                      "avgRating": 4.7,
+                      "feeDetails": {},
+                      "parentId": "165400",
+                      "avgRatingString": "4.7",
+                      "totalRatingsString": "3",
+                      "sla": {
+                        "deliveryTime": 67,
+                        "minDeliveryTime": 65,
+                        "maxDeliveryTime": 75,
+                        "lastMileTravel": 13.4,
+                        "serviceability": "SERVICEABLE",
+                        "rainMode": "RAIN_MODE_NONE",
+                        "slaString": "65-75 MINS",
+                        "lastMileTravelString": "13.4 km",
+                        "iconType": "ICON_TYPE_EMPTY"
+                      },
+                      "availability": {
+                        "opened": true,
+                        "restaurantClosedMeta": {}
+                      },
+                      "aggregatedDiscountInfo": {
+                        "visible": true
+                      },
+                      "badges": {},
+                      "aggregatedDiscountInfoV2": {
+                        "visible": true
+                      },
+                      "ratingSlab": "RATING_SLAB_5",
+                      "orderabilityCommunication": {
+                        "title": {},
+                        "subTitle": {},
+                        "message": {},
+                        "customIcon": {},
+                        "commsStyling": {}
+                      },
+                      "cartOrderabilityNudgeBanner": {
+                        "parameters": {},
+                        "presentation": {}
+                      },
+                      "externalRatings": {
+                        "aggregatedRating": {
+                          "rating": "--"
+                        }
+                      },
+                      "ratingsDisplayPreference": "RATINGS_DISPLAY_PREFERENCE_SHOW_SWIGGY",
+                      "featuredSectionInfo": {
+                        "sectionTitle": "More"
+                      },
+                      "showEoOffer": true
+                    },
+                    "analytics": {
+                      "screenName": "explore",
+                      "context": "{\"tid\":\"undefined\",\"grid\":\"b52b1073-5f4c-4e6f-87e8-92b4573aac80\",\"queryUniqueId\":\"undefined\",\"query\":\"rajasthani\"}",
+                      "objectValue": "998913",
+                      "impressionObjectName": "impression-restaurant",
+                      "clickObjectName": "click-restaurant"
+                    },
+                    "ctaWithParams": {
+                      "link": "swiggy://menu",
+                      "type": "DEEPLINK",
+                      "params": {
+                        "restaurant_id": "998913",
+                        "query": "rajasthani",
+                        "sourceSessionId": "qlnc842b2b4-a7f6-4ea3-99d5-0cdf6d19d",
+                        "source": "SEARCH",
+                        "isSld": "false",
+                        "sourceRequestId": "00000000000000000000000000000000",
+                        "qrEnabled": "false"
+                      }
+                    }
+                  }
+                }
+              },
+              {
+                "card": {
+                  "card": {
+                    "@type": "type.googleapis.com/swiggy.presentation.food.v2.Restaurant",
+                    "info": {
+                      "id": "1152313",
+                      "name": "Rajasthani Ghewar",
+                      "city": "4",
+                      "slugs": {
+                        "restaurant": "rajasthani-ghewar-mayur-vihar-mayur-vihar",
+                        "city": "delhi"
+                      },
+                      "cloudinaryImageId": "RX_THUMBNAIL/IMAGES/VENDOR/2025/7/20/caf7c119-3e3b-4d1c-aaee-0218258abbe6_1152313.jpg",
+                      "address": "Shop No : 19/230/18 , Floor : 0 , Trilokpuri,Khicripur,Mayur Vhar , ",
+                      "locality": "Mayur Vihar",
+                      "areaName": "Mayur Vihar",
+                      "costForTwo": "30000",
+                      "costForTwoMessage": "₹300 FOR TWO",
+                      "cuisines": [
+                        "North Indian"
+                      ],
+                      "feeDetails": {},
+                      "parentId": "661706",
+                      "avgRatingString": "--",
+                      "sla": {
+                        "deliveryTime": 59,
+                        "minDeliveryTime": 55,
+                        "maxDeliveryTime": 65,
+                        "lastMileTravel": 12.2,
+                        "serviceability": "SERVICEABLE",
+                        "rainMode": "RAIN_MODE_NONE",
+                        "slaString": "55-65 MINS",
+                        "lastMileTravelString": "12.2 km",
+                        "iconType": "ICON_TYPE_EMPTY"
+                      },
+                      "availability": {
+                        "opened": true,
+                        "restaurantClosedMeta": {}
+                      },
+                      "badges": {},
+                      "sld": true,
+                      "aggregatedDiscountInfoV3": {
+                        "header": "10% OFF",
+                        "subHeader": "UPTO ₹40",
+                        "logoCtx": {
+                          "text": "BENEFITS"
+                        }
+                      },
+                      "orderabilityCommunication": {
+                        "title": {},
+                        "subTitle": {},
+                        "message": {},
+                        "customIcon": {},
+                        "commsStyling": {}
+                      },
+                      "cartOrderabilityNudgeBanner": {
+                        "parameters": {},
+                        "presentation": {}
+                      },
+                      "externalRatings": {
+                        "aggregatedRating": {
+                          "rating": "--"
+                        }
+                      },
+                      "ratingsDisplayPreference": "RATINGS_DISPLAY_PREFERENCE_SHOW_SWIGGY",
+                      "featuredSectionInfo": {
+                        "sectionTitle": "More"
+                      },
+                      "showEoOffer": true
+                    },
+                    "analytics": {
+                      "screenName": "explore",
+                      "context": "{\"tid\":\"undefined\",\"grid\":\"b52b1073-5f4c-4e6f-87e8-92b4573aac80\",\"queryUniqueId\":\"undefined\",\"query\":\"rajasthani\"}",
+                      "objectValue": "1152313",
+                      "impressionObjectName": "impression-restaurant-sld",
+                      "clickObjectName": "click-restaurant-sld"
+                    },
+                    "ctaWithParams": {
+                      "link": "swiggy://menu",
+                      "type": "DEEPLINK",
+                      "params": {
+                        "source": "SEARCH",
+                        "isSld": "true",
+                        "sourceRequestId": "00000000000000000000000000000000",
+                        "qrEnabled": "false",
+                        "restaurant_id": "1152313",
+                        "query": "rajasthani",
+                        "sourceSessionId": "qlnc842b2b4-a7f6-4ea3-99d5-0cdf6d19d"
+                      }
+                    }
+                  }
+                }
+              },
+              {
+                "card": {
+                  "card": {
+                    "@type": "type.googleapis.com/swiggy.presentation.food.v2.Restaurant",
+                    "info": {
+                      "id": "1027463",
+                      "name": "The Great Indian Kitchen",
+                      "city": "4",
+                      "slugs": {
+                        "restaurant": "the-great-indian-kitchen-south-extension-south-extension",
+                        "city": "delhi"
+                      },
+                      "cloudinaryImageId": "RX_THUMBNAIL/IMAGES/VENDOR/2025/1/16/2308e012-4187-484e-ad6d-e40e1c6f1972_1027463.jpg",
+                      "address": "Shop No : F130/4 , Floor : Ground , Gautam Nagar , Gautam Nagar, New Delhi, Delhi, India 110049",
+                      "locality": "South Extension",
+                      "areaName": "South Extension",
+                      "costForTwo": "50000",
+                      "costForTwoMessage": "₹500 FOR TWO",
+                      "cuisines": [
+                        "Chinese",
+                        "Biryani",
+                        "Continental",
+                        "Punjabi",
+                        "South Indian",
+                        "Thalis",
+                        "Indian"
+                      ],
+                      "avgRating": 2.3,
+                      "feeDetails": {},
+                      "parentId": "257539",
+                      "avgRatingString": "2.3",
+                      "totalRatingsString": "11",
+                      "sla": {
+                        "deliveryTime": 55,
+                        "minDeliveryTime": 50,
+                        "maxDeliveryTime": 60,
+                        "lastMileTravel": 8.6,
+                        "serviceability": "SERVICEABLE",
+                        "rainMode": "RAIN_MODE_NONE",
+                        "slaString": "50-60 MINS",
+                        "lastMileTravelString": "8.6 km",
+                        "iconType": "ICON_TYPE_EMPTY"
+                      },
+                      "availability": {
+                        "opened": true,
+                        "restaurantClosedMeta": {}
+                      },
+                      "badges": {},
+                      "aggregatedDiscountInfoV3": {
+                        "header": "₹100 OFF",
+                        "subHeader": "ABOVE ₹999",
+                        "discountTag": "FLAT DEAL",
+                        "logoCtx": {
+                          "text": "BENEFITS"
+                        }
+                      },
+                      "ratingSlab": "RATING_SLAB_3",
+                      "orderabilityCommunication": {
+                        "title": {},
+                        "subTitle": {},
+                        "message": {},
+                        "customIcon": {},
+                        "commsStyling": {}
+                      },
+                      "cartOrderabilityNudgeBanner": {
+                        "parameters": {},
+                        "presentation": {}
+                      },
+                      "externalRatings": {
+                        "aggregatedRating": {
+                          "rating": "--"
+                        }
+                      },
+                      "ratingsDisplayPreference": "RATINGS_DISPLAY_PREFERENCE_SHOW_SWIGGY",
+                      "featuredSectionInfo": {
+                        "sectionTitle": "More"
+                      },
+                      "showEoOffer": true
+                    },
+                    "analytics": {
+                      "screenName": "explore",
+                      "context": "{\"tid\":\"undefined\",\"grid\":\"b52b1073-5f4c-4e6f-87e8-92b4573aac80\",\"queryUniqueId\":\"undefined\",\"query\":\"rajasthani\"}",
+                      "objectValue": "1027463",
+                      "impressionObjectName": "impression-restaurant",
+                      "clickObjectName": "click-restaurant"
+                    },
+                    "ctaWithParams": {
+                      "link": "swiggy://menu",
+                      "type": "DEEPLINK",
+                      "params": {
+                        "sourceSessionId": "qlnc842b2b4-a7f6-4ea3-99d5-0cdf6d19d",
+                        "source": "SEARCH",
+                        "isSld": "false",
+                        "sourceRequestId": "00000000000000000000000000000000",
+                        "qrEnabled": "false",
+                        "restaurant_id": "1027463",
+                        "query": "rajasthani"
+                      }
+                    }
+                  }
+                }
+              },
+              {
+                "card": {
+                  "card": {
+                    "@type": "type.googleapis.com/swiggy.presentation.food.v2.Restaurant",
+                    "info": {
+                      "id": "791502",
+                      "name": "Mithila Bhojan Gruh",
+                      "city": "4",
+                      "slugs": {
+                        "restaurant": "mithila-bhojan-gruh-kirti-nagar-kirti-nagar",
+                        "city": "delhi"
+                      },
+                      "cloudinaryImageId": "RX_THUMBNAIL/IMAGES/VENDOR/2025/12/10/8602b3b9-fd10-42b0-ab57-c143cf27dfc9_791502 (1).jpg",
+                      "address": "Wz 572/P, 5th floor ,NARAiNA,DELHI CANTONMENT,New Delhi,Delhi-110028",
+                      "locality": "Naraina Vihar ",
+                      "areaName": "Kirti Nagar",
+                      "costForTwo": "20000",
+                      "costForTwoMessage": "₹200 FOR TWO",
+                      "cuisines": [
+                        "Indian",
+                        "Thalis"
+                      ],
+                      "avgRating": 4.3,
+                      "feeDetails": {},
+                      "parentId": "470110",
+                      "avgRatingString": "4.3",
+                      "totalRatingsString": "40",
+                      "sla": {
+                        "deliveryTime": 53,
+                        "minDeliveryTime": 50,
+                        "maxDeliveryTime": 60,
+                        "lastMileTravel": 11,
+                        "serviceability": "SERVICEABLE",
+                        "rainMode": "RAIN_MODE_NONE",
+                        "slaString": "50-60 MINS",
+                        "lastMileTravelString": "11.0 km",
+                        "iconType": "ICON_TYPE_EMPTY"
+                      },
+                      "availability": {
+                        "opened": true,
+                        "restaurantClosedMeta": {}
+                      },
+                      "aggregatedDiscountInfo": {
+                        "visible": true
+                      },
+                      "badges": {},
+                      "aggregatedDiscountInfoV2": {
+                        "visible": true
+                      },
+                      "ratingSlab": "RATING_SLAB_5",
+                      "orderabilityCommunication": {
+                        "title": {},
+                        "subTitle": {},
+                        "message": {},
+                        "customIcon": {},
+                        "commsStyling": {}
+                      },
+                      "cartOrderabilityNudgeBanner": {
+                        "parameters": {},
+                        "presentation": {}
+                      },
+                      "externalRatings": {
+                        "aggregatedRating": {
+                          "rating": "--"
+                        }
+                      },
+                      "ratingsDisplayPreference": "RATINGS_DISPLAY_PREFERENCE_SHOW_SWIGGY",
+                      "featuredSectionInfo": {
+                        "sectionTitle": "More"
+                      },
+                      "showEoOffer": true
+                    },
+                    "analytics": {
+                      "screenName": "explore",
+                      "context": "{\"tid\":\"undefined\",\"grid\":\"b52b1073-5f4c-4e6f-87e8-92b4573aac80\",\"queryUniqueId\":\"undefined\",\"query\":\"rajasthani\"}",
+                      "objectValue": "791502",
+                      "impressionObjectName": "impression-restaurant",
+                      "clickObjectName": "click-restaurant"
+                    },
+                    "ctaWithParams": {
+                      "link": "swiggy://menu",
+                      "type": "DEEPLINK",
+                      "params": {
+                        "restaurant_id": "791502",
+                        "query": "rajasthani",
+                        "sourceSessionId": "qlnc842b2b4-a7f6-4ea3-99d5-0cdf6d19d",
+                        "source": "SEARCH",
+                        "isSld": "false",
+                        "sourceRequestId": "00000000000000000000000000000000",
+                        "qrEnabled": "false"
+                      }
+                    }
+                  }
+                }
+              },
+              {
+                "card": {
+                  "card": {
+                    "@type": "type.googleapis.com/swiggy.presentation.food.v2.Restaurant",
+                    "info": {
+                      "id": "27832",
+                      "name": "Khandani Pakode Wala",
+                      "city": "4",
+                      "slugs": {
+                        "restaurant": "khandani-pakode-wala-malviya-nagar-malviya-nagar",
+                        "city": "delhi"
+                      },
+                      "cloudinaryImageId": "zbzlce20p2enmtbueauv",
+                      "address": "Shop No. 11, Ring Road, Opp. Nauroji Nagar, CHANKYA PURI, New Delhi, Delhi-110029",
+                      "locality": "Sarojini Nagar",
+                      "areaName": "Nauroji Nagar",
+                      "costForTwo": "20000",
+                      "costForTwoMessage": "₹200 FOR TWO",
+                      "cuisines": [
+                        "Snacks",
+                        "Beverages"
+                      ],
+                      "avgRating": 4.4,
+                      "feeDetails": {},
+                      "parentId": "117375",
+                      "avgRatingString": "4.4",
+                      "totalRatingsString": "9.0K+",
+                      "sla": {
+                        "deliveryTime": 27,
+                        "minDeliveryTime": 25,
+                        "maxDeliveryTime": 30,
+                        "lastMileTravel": 6.7,
+                        "serviceability": "SERVICEABLE",
+                        "rainMode": "RAIN_MODE_NONE",
+                        "slaString": "25-30 MINS",
+                        "lastMileTravelString": "6.7 km",
+                        "iconType": "ICON_TYPE_EMPTY"
+                      },
+                      "availability": {
+                        "opened": true,
+                        "restaurantClosedMeta": {}
+                      },
+                      "aggregatedDiscountInfo": {
+                        "visible": true
+                      },
+                      "badges": {
+                        "imageBadges": [
+                          {
+                            "imageId": "v1695133679/badges/Pure_Veg111.png",
+                            "description": "pureveg"
+                          }
+                        ]
+                      },
+                      "aggregatedDiscountInfoV2": {
+                        "visible": true
+                      },
+                      "ratingSlab": "RATING_SLAB_5",
+                      "orderabilityCommunication": {
+                        "title": {},
+                        "subTitle": {},
+                        "message": {},
+                        "customIcon": {},
+                        "commsStyling": {}
+                      },
+                      "cartOrderabilityNudgeBanner": {
+                        "parameters": {},
+                        "presentation": {}
+                      },
+                      "externalRatings": {
+                        "aggregatedRating": {
+                          "rating": "--"
+                        }
+                      },
+                      "ratingsDisplayPreference": "RATINGS_DISPLAY_PREFERENCE_SHOW_SWIGGY",
+                      "featuredSectionInfo": {
+                        "sectionTitle": "More"
+                      },
+                      "showEoOffer": true
+                    },
+                    "analytics": {
+                      "screenName": "explore",
+                      "context": "{\"tid\":\"undefined\",\"grid\":\"b52b1073-5f4c-4e6f-87e8-92b4573aac80\",\"queryUniqueId\":\"undefined\",\"query\":\"rajasthani\"}",
+                      "objectValue": "27832",
+                      "impressionObjectName": "impression-restaurant",
+                      "clickObjectName": "click-restaurant"
+                    },
+                    "ctaWithParams": {
+                      "link": "swiggy://menu",
+                      "type": "DEEPLINK",
+                      "params": {
+                        "restaurant_id": "27832",
+                        "query": "rajasthani",
+                        "sourceSessionId": "qlnc842b2b4-a7f6-4ea3-99d5-0cdf6d19d",
+                        "source": "SEARCH",
+                        "isSld": "false",
+                        "sourceRequestId": "00000000000000000000000000000000",
+                        "qrEnabled": "false"
+                      }
+                    }
+                  }
+                }
+              },
+              {
+                "card": {
+                  "card": {
+                    "@type": "type.googleapis.com/swiggy.presentation.food.v2.Restaurant",
+                    "info": {
+                      "id": "1126257",
+                      "name": "Rajasthani Misthan",
+                      "city": "4",
+                      "slugs": {
+                        "restaurant": "rajasthani-misthan-mayur-vihar-mayur-vihar",
+                        "city": "delhi"
+                      },
+                      "cloudinaryImageId": "RX_THUMBNAIL/IMAGES/VENDOR/2025/6/25/972be20b-2444-496e-84e3-ecb3878af050_1126257.jpg",
+                      "address": "Shop No : 1/99 , Floor : 0 , D block Trilopuri,Dallupura , ",
+                      "locality": "Mayur Vihar",
+                      "areaName": "Mayur Vihar",
+                      "costForTwo": "30000",
+                      "costForTwoMessage": "₹300 FOR TWO",
+                      "cuisines": [
+                        "North Indian"
+                      ],
+                      "feeDetails": {},
+                      "parentId": "649782",
+                      "avgRatingString": "--",
+                      "sla": {
+                        "deliveryTime": 59,
+                        "minDeliveryTime": 55,
+                        "maxDeliveryTime": 65,
+                        "lastMileTravel": 12.3,
+                        "serviceability": "SERVICEABLE",
+                        "rainMode": "RAIN_MODE_NONE",
+                        "slaString": "55-65 MINS",
+                        "lastMileTravelString": "12.3 km",
+                        "iconType": "ICON_TYPE_EMPTY"
+                      },
+                      "availability": {
+                        "opened": true,
+                        "restaurantClosedMeta": {}
+                      },
+                      "badges": {},
+                      "sld": true,
+                      "aggregatedDiscountInfoV3": {
+                        "header": "₹100 OFF",
+                        "subHeader": "ABOVE ₹999",
+                        "discountTag": "FLAT DEAL",
+                        "logoCtx": {
+                          "text": "BENEFITS"
+                        }
+                      },
+                      "orderabilityCommunication": {
+                        "title": {},
+                        "subTitle": {},
+                        "message": {},
+                        "customIcon": {},
+                        "commsStyling": {}
+                      },
+                      "cartOrderabilityNudgeBanner": {
+                        "parameters": {},
+                        "presentation": {}
+                      },
+                      "externalRatings": {
+                        "aggregatedRating": {
+                          "rating": "--"
+                        }
+                      },
+                      "ratingsDisplayPreference": "RATINGS_DISPLAY_PREFERENCE_SHOW_SWIGGY",
+                      "featuredSectionInfo": {
+                        "sectionTitle": "More"
+                      },
+                      "showEoOffer": true
+                    },
+                    "analytics": {
+                      "screenName": "explore",
+                      "context": "{\"tid\":\"undefined\",\"grid\":\"b52b1073-5f4c-4e6f-87e8-92b4573aac80\",\"queryUniqueId\":\"undefined\",\"query\":\"rajasthani\"}",
+                      "objectValue": "1126257",
+                      "impressionObjectName": "impression-restaurant-sld",
+                      "clickObjectName": "click-restaurant-sld"
+                    },
+                    "ctaWithParams": {
+                      "link": "swiggy://menu",
+                      "type": "DEEPLINK",
+                      "params": {
+                        "isSld": "true",
+                        "sourceRequestId": "00000000000000000000000000000000",
+                        "qrEnabled": "false",
+                        "restaurant_id": "1126257",
+                        "query": "rajasthani",
+                        "sourceSessionId": "qlnc842b2b4-a7f6-4ea3-99d5-0cdf6d19d",
+                        "source": "SEARCH"
+                      }
+                    }
+                  }
+                }
+              },
+              {
+                "card": {
+                  "card": {
+                    "@type": "type.googleapis.com/swiggy.presentation.food.v2.Restaurant",
+                    "info": {
+                      "id": "1106940",
+                      "name": "Kanwarji Raj Kumar",
+                      "city": "4",
+                      "slugs": {
+                        "restaurant": "kanwarji-raj-kumar-old-delhi-old-delhi",
+                        "city": "delhi"
+                      },
+                      "cloudinaryImageId": "RX_THUMBNAIL/IMAGES/VENDOR/2025/8/30/d31fcc4c-5c91-45c3-90ac-58d85e4e7f8a_1106940.jpg",
+                      "address": "1971-72, GALI PARANTHE WALI, CHANDNI CHOWK ,CIVIL LINES,Central,Delhi-110006\t",
+                      "locality": "Old Delhi",
+                      "areaName": "Old Delhi",
+                      "costForTwo": "19900",
+                      "costForTwoMessage": "₹199 FOR TWO",
+                      "cuisines": [
+                        "Snacks"
+                      ],
+                      "avgRating": 4.4,
+                      "feeDetails": {},
+                      "parentId": "642485",
+                      "avgRatingString": "4.4",
+                      "totalRatingsString": "262",
+                      "sla": {
+                        "deliveryTime": 55,
+                        "minDeliveryTime": 50,
+                        "maxDeliveryTime": 60,
+                        "lastMileTravel": 6.6,
+                        "serviceability": "SERVICEABLE",
+                        "rainMode": "RAIN_MODE_NONE",
+                        "slaString": "50-60 MINS",
+                        "lastMileTravelString": "6.6 km",
+                        "iconType": "ICON_TYPE_EMPTY"
+                      },
+                      "availability": {
+                        "opened": true,
+                        "restaurantClosedMeta": {}
+                      },
+                      "badges": {},
+                      "aggregatedDiscountInfoV3": {
+                        "header": "ITEMS",
+                        "subHeader": "AT ₹29",
+                        "logoCtx": {
+                          "text": "BENEFITS"
+                        }
+                      },
+                      "ratingSlab": "RATING_SLAB_5",
+                      "orderabilityCommunication": {
+                        "title": {},
+                        "subTitle": {},
+                        "message": {},
+                        "customIcon": {},
+                        "commsStyling": {}
+                      },
+                      "cartOrderabilityNudgeBanner": {
+                        "parameters": {},
+                        "presentation": {}
+                      },
+                      "externalRatings": {
+                        "aggregatedRating": {
+                          "rating": "--"
+                        }
+                      },
+                      "ratingsDisplayPreference": "RATINGS_DISPLAY_PREFERENCE_SHOW_SWIGGY",
+                      "featuredSectionInfo": {
+                        "sectionTitle": "More"
+                      },
+                      "showEoOffer": true
+                    },
+                    "analytics": {
+                      "screenName": "explore",
+                      "context": "{\"tid\":\"undefined\",\"grid\":\"b52b1073-5f4c-4e6f-87e8-92b4573aac80\",\"queryUniqueId\":\"undefined\",\"query\":\"rajasthani\"}",
+                      "objectValue": "1106940",
+                      "impressionObjectName": "impression-restaurant",
+                      "clickObjectName": "click-restaurant"
+                    },
+                    "ctaWithParams": {
+                      "link": "swiggy://menu",
+                      "type": "DEEPLINK",
+                      "params": {
+                        "sourceSessionId": "qlnc842b2b4-a7f6-4ea3-99d5-0cdf6d19d",
+                        "source": "SEARCH",
+                        "isSld": "false",
+                        "sourceRequestId": "00000000000000000000000000000000",
+                        "qrEnabled": "false",
+                        "restaurant_id": "1106940",
+                        "query": "rajasthani"
+                      }
+                    }
+                  }
+                }
+              },
+              {
+                "card": {
+                  "card": {
+                    "@type": "type.googleapis.com/swiggy.presentation.food.v2.Restaurant",
+                    "info": {
+                      "id": "191919",
+                      "name": "Kuremal's Kulfi",
+                      "city": "4",
+                      "slugs": {
+                        "restaurant": "kuremal's-kulfi-hauz-khas-hauz-khas",
+                        "city": "delhi"
+                      },
+                      "cloudinaryImageId": "bwt8i3fzamqqnb79q8dk",
+                      "address": "G-1, opposite Aurobindo Market, Kharera, Hauz Khas, New Delhi, Delhi 11001",
+                      "locality": "Aurobindo Marg",
+                      "areaName": "Hauz Khas",
+                      "costForTwo": "25000",
+                      "costForTwoMessage": "₹250 FOR TWO",
+                      "cuisines": [
+                        "Desserts"
+                      ],
+                      "avgRating": 4.4,
+                      "feeDetails": {},
+                      "parentId": "121978",
+                      "avgRatingString": "4.4",
+                      "totalRatingsString": "739",
+                      "sla": {
+                        "deliveryTime": 39,
+                        "minDeliveryTime": 35,
+                        "maxDeliveryTime": 40,
+                        "lastMileTravel": 8,
+                        "serviceability": "SERVICEABLE",
+                        "rainMode": "RAIN_MODE_NONE",
+                        "slaString": "35-40 MINS",
+                        "lastMileTravelString": "8.0 km",
+                        "iconType": "ICON_TYPE_EMPTY"
+                      },
+                      "availability": {
+                        "opened": true,
+                        "restaurantClosedMeta": {}
+                      },
+                      "aggregatedDiscountInfo": {
+                        "visible": true
+                      },
+                      "badges": {},
+                      "aggregatedDiscountInfoV2": {
+                        "visible": true
+                      },
+                      "ratingSlab": "RATING_SLAB_5",
+                      "orderabilityCommunication": {
+                        "title": {},
+                        "subTitle": {},
+                        "message": {},
+                        "customIcon": {},
+                        "commsStyling": {}
+                      },
+                      "cartOrderabilityNudgeBanner": {
+                        "parameters": {},
+                        "presentation": {}
+                      },
+                      "externalRatings": {
+                        "aggregatedRating": {
+                          "rating": "--"
+                        }
+                      },
+                      "ratingsDisplayPreference": "RATINGS_DISPLAY_PREFERENCE_SHOW_SWIGGY",
+                      "featuredSectionInfo": {
+                        "sectionTitle": "More"
+                      },
+                      "showEoOffer": true
+                    },
+                    "analytics": {
+                      "screenName": "explore",
+                      "context": "{\"tid\":\"undefined\",\"grid\":\"b52b1073-5f4c-4e6f-87e8-92b4573aac80\",\"queryUniqueId\":\"undefined\",\"query\":\"rajasthani\"}",
+                      "objectValue": "191919",
+                      "impressionObjectName": "impression-restaurant",
+                      "clickObjectName": "click-restaurant"
+                    },
+                    "ctaWithParams": {
+                      "link": "swiggy://menu",
+                      "type": "DEEPLINK",
+                      "params": {
+                        "restaurant_id": "191919",
+                        "query": "rajasthani",
+                        "sourceSessionId": "qlnc842b2b4-a7f6-4ea3-99d5-0cdf6d19d",
+                        "source": "SEARCH",
+                        "isSld": "false",
+                        "sourceRequestId": "00000000000000000000000000000000",
+                        "qrEnabled": "false"
+                      }
+                    }
+                  }
+                }
+              },
+              {
+                "card": {
+                  "card": {
+                    "@type": "type.googleapis.com/swiggy.presentation.food.v2.Restaurant",
+                    "info": {
+                      "id": "930958",
+                      "name": "Hari Misthan Bhandar",
+                      "city": "4",
+                      "slugs": {
+                        "restaurant": "hari-misthan-bhandar-dilshad-gardens-dilshad-gardens",
+                        "city": "delhi"
+                      },
+                      "cloudinaryImageId": "RX_THUMBNAIL/IMAGES/VENDOR/2024/7/23/915155a1-cac9-44b5-a5f0-5f4c3686882a_930958.jpg",
+                      "address": "Shop No : shop no- 3897 , Floor : 0 , ajeet nagar Chowk , ",
+                      "locality": "ajeet nagar Chowk",
+                      "areaName": "Dilshad Gardens",
+                      "costForTwo": "29500",
+                      "costForTwoMessage": "₹295 FOR TWO",
+                      "cuisines": [
+                        "Sweets",
+                        "Snacks"
+                      ],
+                      "avgRating": 4.1,
+                      "feeDetails": {},
+                      "parentId": "93794",
+                      "avgRatingString": "4.1",
+                      "totalRatingsString": "5",
+                      "sla": {
+                        "deliveryTime": 63,
+                        "minDeliveryTime": 60,
+                        "maxDeliveryTime": 70,
+                        "lastMileTravel": 11,
+                        "serviceability": "SERVICEABLE",
+                        "rainMode": "RAIN_MODE_NONE",
+                        "slaString": "60-70 MINS",
+                        "lastMileTravelString": "11.0 km",
+                        "iconType": "ICON_TYPE_EMPTY"
+                      },
+                      "availability": {
+                        "opened": true,
+                        "restaurantClosedMeta": {}
+                      },
+                      "aggregatedDiscountInfo": {
+                        "visible": true
+                      },
+                      "badges": {
+                        "imageBadges": [
+                          {
+                            "imageId": "v1695133679/badges/Pure_Veg111.png",
+                            "description": "pureveg"
+                          }
+                        ]
+                      },
+                      "sld": true,
+                      "aggregatedDiscountInfoV2": {
+                        "visible": true
+                      },
+                      "ratingSlab": "RATING_SLAB_5",
+                      "orderabilityCommunication": {
+                        "title": {},
+                        "subTitle": {},
+                        "message": {},
+                        "customIcon": {},
+                        "commsStyling": {}
+                      },
+                      "cartOrderabilityNudgeBanner": {
+                        "parameters": {},
+                        "presentation": {}
+                      },
+                      "externalRatings": {
+                        "aggregatedRating": {
+                          "rating": "--"
+                        }
+                      },
+                      "ratingsDisplayPreference": "RATINGS_DISPLAY_PREFERENCE_SHOW_SWIGGY",
+                      "featuredSectionInfo": {
+                        "sectionTitle": "More"
+                      },
+                      "showEoOffer": true
+                    },
+                    "analytics": {
+                      "screenName": "explore",
+                      "context": "{\"tid\":\"undefined\",\"grid\":\"b52b1073-5f4c-4e6f-87e8-92b4573aac80\",\"queryUniqueId\":\"undefined\",\"query\":\"rajasthani\"}",
+                      "objectValue": "930958",
+                      "impressionObjectName": "impression-restaurant-sld",
+                      "clickObjectName": "click-restaurant-sld"
+                    },
+                    "ctaWithParams": {
+                      "link": "swiggy://menu",
+                      "type": "DEEPLINK",
+                      "params": {
+                        "isSld": "true",
+                        "sourceRequestId": "00000000000000000000000000000000",
+                        "qrEnabled": "false",
+                        "restaurant_id": "930958",
+                        "query": "rajasthani",
+                        "sourceSessionId": "qlnc842b2b4-a7f6-4ea3-99d5-0cdf6d19d",
+                        "source": "SEARCH"
+                      }
+                    }
+                  }
+                }
+              },
+              {
+                "card": {
+                  "card": {
+                    "@type": "type.googleapis.com/swiggy.presentation.food.v2.Restaurant",
+                    "info": {
+                      "id": "1306224",
+                      "name": "Bharat28",
+                      "city": "4",
+                      "slugs": {
+                        "restaurant": "bharat28-karol-bagh-karol-bagh",
+                        "city": "delhi"
+                      },
+                      "cloudinaryImageId": "RX_THUMBNAIL/IMAGES/VENDOR/2026/1/7/d1f41353-46fa-45cd-b068-a5b8547feb08_1306224.jpg",
+                      "address": "Shop No : 26/1 , Floor : Ground , Bada Bazaar Road, Old Rajinder Nagar , Block 55, Rajinder Nagar, Delhi, 110060, India 110060",
+                      "locality": "Karol Bagh",
+                      "areaName": "Karol Bagh",
+                      "costForTwo": "10000",
+                      "costForTwoMessage": "₹100 FOR TWO",
+                      "cuisines": [
+                        "Rajasthani",
+                        "Thalis",
+                        "Indian",
+                        "Bihari",
+                        "Snacks",
+                        "Home Food",
+                        "North Eastern",
+                        "Healthy Food",
+                        "Navratri Special",
+                        "Cafe"
+                      ],
+                      "avgRating": 1.5,
+                      "feeDetails": {},
+                      "parentId": "743787",
+                      "avgRatingString": "1.5",
+                      "totalRatingsString": "3",
+                      "sla": {
+                        "deliveryTime": 37,
+                        "minDeliveryTime": 35,
+                        "maxDeliveryTime": 40,
+                        "lastMileTravel": 5,
+                        "serviceability": "SERVICEABLE_WITH_BANNER",
+                        "rainMode": "RAIN_MODE_NONE",
+                        "slaString": "35-40 MINS",
+                        "lastMileTravelString": "5.0 km",
+                        "iconType": "ICON_TYPE_EMPTY"
+                      },
+                      "availability": {
+                        "opened": true,
+                        "restaurantClosedMeta": {
+                          "title": "UNAVAILABLE",
+                          "subtitle": "AT THE MOMENT"
+                        }
+                      },
+                      "aggregatedDiscountInfo": {
+                        "visible": true
+                      },
+                      "badges": {},
+                      "unorderableMessage": "Currently not taking orders for this location",
+                      "aggregatedDiscountInfoV2": {
+                        "visible": true
+                      },
+                      "ratingSlab": "RATING_SLAB_2",
+                      "availabilityServiceabilityMessage": "Currently not accepting orders from your location for this outlet",
+                      "orderabilityCommunication": {
+                        "title": {
+                          "text": "CURRENTLY"
+                        },
+                        "subTitle": {
+                          "text": "UNAVAILABLE"
+                        },
+                        "message": {
+                          "text": "Currently not accepting orders in your location",
+                          "textColour": "primary"
+                        },
+                        "customIcon": {
+                          "bgGradientColorStart": "#EB8322",
+                          "bgGradientColorEnd": "#EE5803"
+                        },
+                        "commsStyling": {}
+                      },
+                      "cartOrderabilityNudgeBanner": {
+                        "parameters": {},
+                        "presentation": {}
+                      },
+                      "externalRatings": {
+                        "aggregatedRating": {
+                          "rating": "--"
+                        }
+                      },
+                      "ratingsDisplayPreference": "RATINGS_DISPLAY_PREFERENCE_SHOW_SWIGGY",
+                      "featuredSectionInfo": {
+                        "sectionTitle": "More"
+                      },
+                      "showEoOffer": true
+                    },
+                    "analytics": {
+                      "screenName": "explore",
+                      "context": "{\"tid\":\"undefined\",\"grid\":\"b52b1073-5f4c-4e6f-87e8-92b4573aac80\",\"queryUniqueId\":\"undefined\",\"query\":\"rajasthani\"}",
+                      "objectValue": "1306224",
+                      "impressionObjectName": "impression-restaurant",
+                      "clickObjectName": "click-restaurant"
+                    },
+                    "ctaWithParams": {
+                      "link": "swiggy://menu",
+                      "type": "DEEPLINK",
+                      "params": {
+                        "restaurant_id": "1306224",
+                        "query": "rajasthani",
+                        "sourceSessionId": "qlnc842b2b4-a7f6-4ea3-99d5-0cdf6d19d",
+                        "source": "SEARCH",
+                        "isSld": "false",
+                        "sourceRequestId": "00000000000000000000000000000000",
+                        "qrEnabled": "false"
+                      }
+                    }
+                  }
+                }
+              },
+              {
+                "card": {
+                  "card": {
+                    "@type": "type.googleapis.com/swiggy.presentation.food.v2.Restaurant",
+                    "info": {
+                      "id": "1222410",
+                      "name": "Vrinda's Kitchen",
+                      "city": "4",
+                      "slugs": {
+                        "restaurant": "vrinda's-kitchen-chattarpur-chattarpur",
+                        "city": "delhi"
+                      },
+                      "cloudinaryImageId": "RX_THUMBNAIL/IMAGES/VENDOR/2025/9/30/88365b35-0117-4901-a5a3-aeacb36aa4a2_1222410.jpg",
+                      "address": "58-A KALU SARAI HAUZ KHAS, Near Vidyapeeth Physics Wallah, HAUZ KHAS,HAUZ KHAS,South ,Delhi-110016\t",
+                      "locality": "Kalu Sarai",
+                      "areaName": " Hauz Khas ",
+                      "costForTwo": "30000",
+                      "costForTwoMessage": "₹300 FOR TWO",
+                      "cuisines": [
+                        "South Indian",
+                        "Thalis",
+                        "Indian",
+                        "Sweets",
+                        "North Indian",
+                        "Pickles"
+                      ],
+                      "avgRating": 4.1,
+                      "feeDetails": {},
+                      "parentId": "623916",
+                      "avgRatingString": "4.1",
+                      "totalRatingsString": "11",
+                      "sla": {
+                        "deliveryTime": 66,
+                        "minDeliveryTime": 65,
+                        "maxDeliveryTime": 75,
+                        "lastMileTravel": 9.6,
+                        "serviceability": "SERVICEABLE_WITH_BANNER",
+                        "rainMode": "RAIN_MODE_NONE",
+                        "slaString": "65-75 MINS",
+                        "lastMileTravelString": "9.6 km",
+                        "iconType": "ICON_TYPE_EMPTY"
+                      },
+                      "availability": {
+                        "opened": true,
+                        "restaurantClosedMeta": {
+                          "title": "UNAVAILABLE",
+                          "subtitle": "AT THE MOMENT"
+                        }
+                      },
+                      "aggregatedDiscountInfo": {
+                        "visible": true
+                      },
+                      "badges": {},
+                      "unorderableMessage": "Currently not taking orders for this location",
+                      "aggregatedDiscountInfoV2": {
+                        "visible": true
+                      },
+                      "ratingSlab": "RATING_SLAB_5",
+                      "availabilityServiceabilityMessage": "Currently not accepting orders from your location for this outlet",
+                      "orderabilityCommunication": {
+                        "title": {
+                          "text": "CURRENTLY"
+                        },
+                        "subTitle": {
+                          "text": "UNAVAILABLE"
+                        },
+                        "message": {
+                          "text": "Currently not accepting orders in your location",
+                          "textColour": "primary"
+                        },
+                        "customIcon": {
+                          "bgGradientColorStart": "#EB8322",
+                          "bgGradientColorEnd": "#EE5803"
+                        },
+                        "commsStyling": {}
+                      },
+                      "cartOrderabilityNudgeBanner": {
+                        "parameters": {},
+                        "presentation": {}
+                      },
+                      "externalRatings": {
+                        "aggregatedRating": {
+                          "rating": "--"
+                        }
+                      },
+                      "ratingsDisplayPreference": "RATINGS_DISPLAY_PREFERENCE_SHOW_SWIGGY",
+                      "featuredSectionInfo": {
+                        "sectionTitle": "More"
+                      },
+                      "showEoOffer": true
+                    },
+                    "analytics": {
+                      "screenName": "explore",
+                      "context": "{\"tid\":\"undefined\",\"grid\":\"b52b1073-5f4c-4e6f-87e8-92b4573aac80\",\"queryUniqueId\":\"undefined\",\"query\":\"rajasthani\"}",
+                      "objectValue": "1222410",
+                      "impressionObjectName": "impression-restaurant",
+                      "clickObjectName": "click-restaurant"
+                    },
+                    "ctaWithParams": {
+                      "link": "swiggy://menu",
+                      "type": "DEEPLINK",
+                      "params": {
+                        "restaurant_id": "1222410",
+                        "query": "rajasthani",
+                        "sourceSessionId": "qlnc842b2b4-a7f6-4ea3-99d5-0cdf6d19d",
+                        "source": "SEARCH",
+                        "isSld": "false",
+                        "sourceRequestId": "00000000000000000000000000000000",
+                        "qrEnabled": "false"
+                      }
+                    }
+                  }
+                }
+              },
+              {
+                "card": {
+                  "card": {
+                    "@type": "type.googleapis.com/swiggy.presentation.food.v2.Restaurant",
+                    "info": {
+                      "id": "1350854",
+                      "name": "Rajasthani Rasoi  Taste From Rajasthan",
+                      "city": "4",
+                      "slugs": {
+                        "restaurant": "rajasthani-rasoi-taste-from-rajasthan-laxmi-nagar-laxmi-nagar",
+                        "city": "delhi"
+                      },
+                      "cloudinaryImageId": "RX_THUMBNAIL/IMAGES/VENDOR/2026/3/18/a0f08a44-37b3-45c0-b7fe-da5033e6f20b_1350854.jpg",
+                      "address": "h no. 123 k Krishna kunj extn laxmi nagar ,KHUREJI KHAS,PREET VIHAR,East ,Delhi-110092",
+                      "locality": "Laxmi Nagar",
+                      "areaName": "Laxmi Nagar",
+                      "costForTwo": "35000",
+                      "costForTwoMessage": "₹350 FOR TWO",
+                      "cuisines": [
+                        "Rajasthani",
+                        "Burgers",
+                        "Cafe",
+                        "Indian",
+                        "Continental",
+                        "Pastas"
+                      ],
+                      "feeDetails": {},
+                      "parentId": "769114",
+                      "avgRatingString": "NEW",
+                      "sla": {
+                        "deliveryTime": 49,
+                        "minDeliveryTime": 45,
+                        "maxDeliveryTime": 50,
+                        "lastMileTravel": 9.6,
+                        "serviceability": "SERVICEABLE",
+                        "rainMode": "RAIN_MODE_NONE",
+                        "slaString": "45-50 MINS",
+                        "lastMileTravelString": "9.6 km",
+                        "iconType": "ICON_TYPE_EMPTY"
+                      },
+                      "availability": {
+                        "nextOpenTimeMessage": "Opens next at 12:30 pm, today",
+                        "restaurantClosedMeta": {
+                          "title": "CLOSED",
+                          "subtitle": "FOR NOW"
+                        }
+                      },
+                      "aggregatedDiscountInfo": {
+                        "visible": true
+                      },
+                      "badges": {},
+                      "sld": true,
+                      "unorderableMessage": "Opens next at 12:30 pm, today",
+                      "aggregatedDiscountInfoV2": {
+                        "visible": true
+                      },
+                      "availabilityServiceabilityMessage": "Currently closed for delivery. Opens next at 12:30 pm, today",
+                      "orderabilityCommunication": {
+                        "title": {
+                          "text": "CURRENTLY"
+                        },
+                        "subTitle": {
+                          "text": "CLOSED"
+                        },
+                        "message": {
+                          "text": "Opens today at 12:30 PM",
+                          "textColour": "primary"
+                        },
+                        "customIcon": {
+                          "bgGradientColorStart": "#EB8322",
+                          "bgGradientColorEnd": "#EE5803"
+                        },
+                        "commsStyling": {}
+                      },
+                      "cartOrderabilityNudgeBanner": {
+                        "parameters": {},
+                        "presentation": {}
+                      },
+                      "externalRatings": {
+                        "aggregatedRating": {
+                          "rating": "--"
+                        }
+                      },
+                      "ratingsDisplayPreference": "RATINGS_DISPLAY_PREFERENCE_SHOW_SWIGGY",
+                      "featuredSectionInfo": {
+                        "sectionTitle": "More"
+                      },
+                      "showEoOffer": true
+                    },
+                    "analytics": {
+                      "screenName": "explore",
+                      "context": "{\"tid\":\"undefined\",\"grid\":\"b52b1073-5f4c-4e6f-87e8-92b4573aac80\",\"queryUniqueId\":\"undefined\",\"query\":\"rajasthani\"}",
+                      "objectValue": "1350854",
+                      "impressionObjectName": "impression-restaurant-sld",
+                      "clickObjectName": "click-restaurant-sld"
+                    },
+                    "ctaWithParams": {
+                      "link": "swiggy://menu",
+                      "type": "DEEPLINK",
+                      "params": {
+                        "query": "rajasthani",
+                        "sourceSessionId": "qlnc842b2b4-a7f6-4ea3-99d5-0cdf6d19d",
+                        "source": "SEARCH",
+                        "isSld": "true",
+                        "sourceRequestId": "00000000000000000000000000000000",
+                        "qrEnabled": "false",
+                        "restaurant_id": "1350854"
+                      }
+                    }
+                  }
+                }
+              },
+              {
+                "card": {
+                  "card": {
+                    "@type": "type.googleapis.com/swiggy.presentation.food.v2.Restaurant",
+                    "info": {
+                      "id": "357016",
+                      "name": "Gastronomica Kitchen & Bar",
+                      "city": "4",
+                      "slugs": {
+                        "restaurant": "gastronomica-kitchen-&-bar-greater-kailash-2-greater-kailash-2-2",
+                        "city": "delhi"
+                      },
+                      "cloudinaryImageId": "RX_THUMBNAIL/IMAGES/VENDOR/2026/4/2/e3edabe7-bcdf-4230-8e66-f76b4e15843e_357016.jpg",
+                      "address": "M 55, Second Floor, M Block Market, Greater Kailash 1, New Delhi 110048",
+                      "locality": "M Block",
+                      "areaName": "Greater Kailash - 1",
+                      "costForTwo": "60000",
+                      "costForTwoMessage": "₹600 FOR TWO",
+                      "cuisines": [
+                        "Chinese",
+                        "Asian",
+                        "Continental"
+                      ],
+                      "avgRating": 4.2,
+                      "feeDetails": {},
+                      "parentId": "86534",
+                      "avgRatingString": "4.2",
+                      "totalRatingsString": "110",
+                      "sla": {
+                        "deliveryTime": 61,
+                        "minDeliveryTime": 60,
+                        "maxDeliveryTime": 70,
+                        "lastMileTravel": 9.7,
+                        "serviceability": "SERVICEABLE",
+                        "rainMode": "RAIN_MODE_NONE",
+                        "slaString": "60-70 MINS",
+                        "lastMileTravelString": "9.7 km",
+                        "iconType": "ICON_TYPE_EMPTY"
+                      },
+                      "availability": {
+                        "nextOpenTimeMessage": "Opens next at 12 noon, today",
+                        "restaurantClosedMeta": {
+                          "title": "CLOSED",
+                          "subtitle": "FOR NOW"
+                        }
+                      },
+                      "aggregatedDiscountInfo": {
+                        "visible": true
+                      },
+                      "badges": {},
+                      "unorderableMessage": "Opens next at 12 noon, today",
+                      "aggregatedDiscountInfoV2": {
+                        "visible": true
+                      },
+                      "ratingSlab": "RATING_SLAB_5",
+                      "availabilityServiceabilityMessage": "Currently closed for delivery. Opens next at 12 noon, today",
+                      "orderabilityCommunication": {
+                        "title": {
+                          "text": "OPENING"
+                        },
+                        "subTitle": {
+                          "text": "SOON"
+                        },
+                        "message": {
+                          "text": "Opens today in 43 mins",
+                          "textColour": "primary"
+                        },
+                        "customIcon": {
+                          "bgGradientColorStart": "#EB8322",
+                          "bgGradientColorEnd": "#EE5803"
+                        },
+                        "commsStyling": {}
+                      },
+                      "cartOrderabilityNudgeBanner": {
+                        "parameters": {},
+                        "presentation": {}
+                      },
+                      "externalRatings": {
+                        "aggregatedRating": {
+                          "rating": "4.1",
+                          "ratingCount": "2.1K+"
+                        },
+                        "source": "GOOGLE",
+                        "sourceIconImageId": "v1704440323/google_ratings/rating_google_tag"
+                      },
+                      "ratingsDisplayPreference": "RATINGS_DISPLAY_PREFERENCE_SHOW_SWIGGY",
+                      "featuredSectionInfo": {
+                        "sectionTitle": "More"
+                      },
+                      "showEoOffer": true
+                    },
+                    "analytics": {
+                      "screenName": "explore",
+                      "context": "{\"tid\":\"undefined\",\"grid\":\"b52b1073-5f4c-4e6f-87e8-92b4573aac80\",\"queryUniqueId\":\"undefined\",\"query\":\"rajasthani\"}",
+                      "objectValue": "357016",
+                      "impressionObjectName": "impression-restaurant",
+                      "clickObjectName": "click-restaurant"
+                    },
+                    "ctaWithParams": {
+                      "link": "swiggy://menu",
+                      "type": "DEEPLINK",
+                      "params": {
+                        "isSld": "false",
+                        "sourceRequestId": "00000000000000000000000000000000",
+                        "qrEnabled": "false",
+                        "restaurant_id": "357016",
+                        "query": "rajasthani",
+                        "sourceSessionId": "qlnc842b2b4-a7f6-4ea3-99d5-0cdf6d19d",
+                        "source": "SEARCH"
+                      }
+                    }
+                  }
+                }
+              },
+              {
+                "card": {
+                  "card": {
+                    "@type": "type.googleapis.com/swiggy.presentation.food.v2.Restaurant",
+                    "info": {
+                      "id": "1020714",
+                      "name": "Rajasthani Food",
+                      "city": "4",
+                      "slugs": {
+                        "restaurant": "rajasthani-food-mayur-vihar-mayur-vihar",
+                        "city": "delhi"
+                      },
+                      "cloudinaryImageId": "RX_THUMBNAIL/IMAGES/VENDOR/2025/1/4/cb01b847-99eb-40d8-a50f-a39a26fdff75_1020714 (1).jpg",
+                      "address": "228/30, Gali No - 9, Third Floor - 211, Railway Colony Mandawali Fazal Pur ,Mandawali Fazal Pur,Shri Hanuman Marg,Preet Vihar,East ,Delhi-110092",
+                      "locality": "Railway Colony",
+                      "areaName": "Preet Vihar",
+                      "costForTwo": "30000",
+                      "costForTwoMessage": "₹300 FOR TWO",
+                      "cuisines": [
+                        "Fast Food",
+                        "Thali",
+                        "paratha",
+                        "Coffee",
+                        "Tea",
+                        "Momos"
+                      ],
+                      "avgRating": 3.9,
+                      "feeDetails": {},
+                      "parentId": "165377",
+                      "avgRatingString": "3.9",
+                      "totalRatingsString": "35",
+                      "sla": {
+                        "deliveryTime": 46,
+                        "minDeliveryTime": 45,
+                        "maxDeliveryTime": 50,
+                        "lastMileTravel": 9.9,
+                        "serviceability": "SERVICEABLE",
+                        "rainMode": "RAIN_MODE_NONE",
+                        "slaString": "45-50 MINS",
+                        "lastMileTravelString": "9.9 km",
+                        "iconType": "ICON_TYPE_EMPTY"
+                      },
+                      "availability": {
+                        "restaurantClosedMeta": {
+                          "title": "CLOSED",
+                          "subtitle": "TEMPORARILY"
+                        }
+                      },
+                      "aggregatedDiscountInfo": {
+                        "visible": true
+                      },
+                      "badges": {},
+                      "sld": true,
+                      "unorderableMessage": "Temporarily closed for delivery",
+                      "aggregatedDiscountInfoV2": {
+                        "visible": true
+                      },
+                      "ratingSlab": "RATING_SLAB_4",
+                      "availabilityServiceabilityMessage": "Temporarily closed for delivery",
+                      "orderabilityCommunication": {
+                        "title": {
+                          "text": "CURRENTLY"
+                        },
+                        "subTitle": {
+                          "text": "CLOSED"
+                        },
+                        "message": {
+                          "text": "Outlet not accepting orders at the moment",
+                          "textColour": "primary"
+                        },
+                        "customIcon": {
+                          "bgGradientColorStart": "#EB8322",
+                          "bgGradientColorEnd": "#EE5803"
+                        },
+                        "commsStyling": {}
+                      },
+                      "cartOrderabilityNudgeBanner": {
+                        "parameters": {},
+                        "presentation": {}
+                      },
+                      "externalRatings": {
+                        "aggregatedRating": {
+                          "rating": "--"
+                        }
+                      },
+                      "ratingsDisplayPreference": "RATINGS_DISPLAY_PREFERENCE_SHOW_SWIGGY",
+                      "featuredSectionInfo": {
+                        "sectionTitle": "More"
+                      },
+                      "showEoOffer": true
+                    },
+                    "analytics": {
+                      "screenName": "explore",
+                      "context": "{\"tid\":\"undefined\",\"grid\":\"b52b1073-5f4c-4e6f-87e8-92b4573aac80\",\"queryUniqueId\":\"undefined\",\"query\":\"rajasthani\"}",
+                      "objectValue": "1020714",
+                      "impressionObjectName": "impression-restaurant-sld",
+                      "clickObjectName": "click-restaurant-sld"
+                    },
+                    "ctaWithParams": {
+                      "link": "swiggy://menu",
+                      "type": "DEEPLINK",
+                      "params": {
+                        "sourceSessionId": "qlnc842b2b4-a7f6-4ea3-99d5-0cdf6d19d",
+                        "source": "SEARCH",
+                        "isSld": "true",
+                        "sourceRequestId": "00000000000000000000000000000000",
+                        "qrEnabled": "false",
+                        "restaurant_id": "1020714",
+                        "query": "rajasthani"
+                      }
+                    }
+                  }
+                }
+              },
+              {
+                "card": {
+                  "card": {
+                    "@type": "type.googleapis.com/swiggy.presentation.food.v2.Restaurant",
+                    "info": {
+                      "id": "772249",
+                      "name": "Rajasthani Dhaba",
+                      "city": "4",
+                      "slugs": {
+                        "restaurant": "rajasthani-dhaba-hauz-khas-hauz-khas",
+                        "city": "delhi"
+                      },
+                      "cloudinaryImageId": "accfba0e06b352f9fc06bf92db550b2b",
+                      "address": "Shop No. 52, Krishna Market, Opposite Deshbandhu College, Kalkaji, BAHA PUR, KALKAJI, South East, Delhi - 110019",
+                      "locality": "Deshbandhu College, Kalkaji",
+                      "areaName": "Krishna Market",
+                      "costForTwo": "10000",
+                      "costForTwoMessage": "₹100 FOR TWO",
+                      "cuisines": [
+                        "North Indian",
+                        "Chinese",
+                        "Tandoor",
+                        "Snacks",
+                        "Biryani",
+                        "Thalis"
+                      ],
+                      "avgRating": 3.8,
+                      "feeDetails": {},
+                      "parentId": "21076",
+                      "avgRatingString": "3.8",
+                      "totalRatingsString": "137",
+                      "sla": {
+                        "deliveryTime": 55,
+                        "minDeliveryTime": 55,
+                        "maxDeliveryTime": 65,
+                        "lastMileTravel": 11.8,
+                        "serviceability": "SERVICEABLE",
+                        "rainMode": "RAIN_MODE_NONE",
+                        "slaString": "55-65 MINS",
+                        "lastMileTravelString": "11.8 km",
+                        "iconType": "ICON_TYPE_EMPTY"
+                      },
+                      "availability": {
+                        "nextOpenTimeMessage": "Opens next at 5 am, tomorrow",
+                        "restaurantClosedMeta": {
+                          "title": "CLOSED",
+                          "subtitle": "FOR TODAY"
+                        }
+                      },
+                      "aggregatedDiscountInfo": {
+                        "visible": true
+                      },
+                      "badges": {},
+                      "sld": true,
+                      "unorderableMessage": "Opens next at 5 am, tomorrow",
+                      "aggregatedDiscountInfoV2": {
+                        "visible": true
+                      },
+                      "ratingSlab": "RATING_SLAB_4",
+                      "availabilityServiceabilityMessage": "Currently closed for delivery. Opens next at 5 am, tomorrow",
+                      "orderabilityCommunication": {
+                        "title": {
+                          "text": "CURRENTLY"
+                        },
+                        "subTitle": {
+                          "text": "CLOSED"
+                        },
+                        "message": {
+                          "text": "Opens tomorrow at 5:00 AM",
+                          "textColour": "primary"
+                        },
+                        "customIcon": {
+                          "bgGradientColorStart": "#EB8322",
+                          "bgGradientColorEnd": "#EE5803"
+                        },
+                        "commsStyling": {}
+                      },
+                      "cartOrderabilityNudgeBanner": {
+                        "parameters": {},
+                        "presentation": {}
+                      },
+                      "externalRatings": {
+                        "aggregatedRating": {
+                          "rating": "--"
+                        }
+                      },
+                      "ratingsDisplayPreference": "RATINGS_DISPLAY_PREFERENCE_SHOW_SWIGGY",
+                      "featuredSectionInfo": {
+                        "sectionTitle": "More"
+                      },
+                      "showEoOffer": true
+                    },
+                    "analytics": {
+                      "screenName": "explore",
+                      "context": "{\"tid\":\"undefined\",\"grid\":\"b52b1073-5f4c-4e6f-87e8-92b4573aac80\",\"queryUniqueId\":\"undefined\",\"query\":\"rajasthani\"}",
+                      "objectValue": "772249",
+                      "impressionObjectName": "impression-restaurant-sld",
+                      "clickObjectName": "click-restaurant-sld"
+                    },
+                    "ctaWithParams": {
+                      "link": "swiggy://menu",
+                      "type": "DEEPLINK",
+                      "params": {
+                        "restaurant_id": "772249",
+                        "query": "rajasthani",
+                        "sourceSessionId": "qlnc842b2b4-a7f6-4ea3-99d5-0cdf6d19d",
+                        "source": "SEARCH",
+                        "isSld": "true",
+                        "sourceRequestId": "00000000000000000000000000000000",
+                        "qrEnabled": "false"
+                      }
+                    }
+                  }
+                }
+              },
+              {
+                "card": {
+                  "card": {
+                    "@type": "type.googleapis.com/swiggy.presentation.food.v2.Restaurant",
+                    "info": {
+                      "id": "571363",
+                      "name": "Rajasthani Ice Cream & Paw Bhaji",
+                      "city": "4",
+                      "slugs": {
+                        "restaurant": "rajasthani-ice-cream-&-paw-bhaji-laxmi-nagar-laxmi-nagar",
+                        "city": "delhi"
+                      },
+                      "cloudinaryImageId": "uofvwfaxalpemowffkjg",
+                      "address": "X/2624 Main Road Raghubar Pura No,2  Gandhi Nagar, SHAKAR PUR BRAMAD,  GANDHI NAGAR, East , Delhi - 110031",
+                      "locality": "Shakar Pur Bramad",
+                      "areaName": "Laxmi Nagar",
+                      "costForTwo": "35000",
+                      "costForTwoMessage": "₹350 FOR TWO",
+                      "cuisines": [
+                        "Ice Cream",
+                        "Desserts",
+                        "Beverages"
+                      ],
+                      "feeDetails": {},
+                      "parentId": "343134",
+                      "avgRatingString": "--",
+                      "sla": {
+                        "deliveryTime": 70,
+                        "minDeliveryTime": 70,
+                        "maxDeliveryTime": 80,
+                        "lastMileTravel": 12.4,
+                        "serviceability": "SERVICEABLE",
+                        "rainMode": "RAIN_MODE_NONE",
+                        "slaString": "70-80 MINS",
+                        "lastMileTravelString": "12.4 km",
+                        "iconType": "ICON_TYPE_EMPTY"
+                      },
+                      "availability": {
+                        "nextOpenTimeMessage": "Opens next at 10 am, tomorrow",
+                        "restaurantClosedMeta": {
+                          "title": "CLOSED",
+                          "subtitle": "FOR TODAY"
+                        }
+                      },
+                      "aggregatedDiscountInfo": {
+                        "visible": true
+                      },
+                      "badges": {
+                        "imageBadges": [
+                          {
+                            "imageId": "v1695133679/badges/Pure_Veg111.png",
+                            "description": "pureveg"
+                          }
+                        ]
+                      },
+                      "sld": true,
+                      "unorderableMessage": "Opens next at 10 am, tomorrow",
+                      "aggregatedDiscountInfoV2": {
+                        "visible": true
+                      },
+                      "availabilityServiceabilityMessage": "Currently closed for delivery. Opens next at 10 am, tomorrow",
+                      "orderabilityCommunication": {
+                        "title": {
+                          "text": "CURRENTLY"
+                        },
+                        "subTitle": {
+                          "text": "CLOSED"
+                        },
+                        "message": {
+                          "text": "Opens tomorrow at 10:00 AM",
+                          "textColour": "primary"
+                        },
+                        "customIcon": {
+                          "bgGradientColorStart": "#EB8322",
+                          "bgGradientColorEnd": "#EE5803"
+                        },
+                        "commsStyling": {}
+                      },
+                      "cartOrderabilityNudgeBanner": {
+                        "parameters": {},
+                        "presentation": {}
+                      },
+                      "externalRatings": {
+                        "aggregatedRating": {
+                          "rating": "4.8",
+                          "ratingCount": "31"
+                        },
+                        "source": "GOOGLE",
+                        "sourceIconImageId": "v1704440323/google_ratings/rating_google_tag"
+                      },
+                      "ratingsDisplayPreference": "RATINGS_DISPLAY_PREFERENCE_SHOW_EXTERNAL",
+                      "featuredSectionInfo": {
+                        "sectionTitle": "More"
+                      },
+                      "showEoOffer": true
+                    },
+                    "analytics": {
+                      "screenName": "explore",
+                      "context": "{\"tid\":\"undefined\",\"grid\":\"b52b1073-5f4c-4e6f-87e8-92b4573aac80\",\"queryUniqueId\":\"undefined\",\"query\":\"rajasthani\"}",
+                      "objectValue": "571363",
+                      "impressionObjectName": "impression-restaurant-sld",
+                      "clickObjectName": "click-restaurant-sld"
+                    },
+                    "ctaWithParams": {
+                      "link": "swiggy://menu",
+                      "type": "DEEPLINK",
+                      "params": {
+                        "sourceSessionId": "qlnc842b2b4-a7f6-4ea3-99d5-0cdf6d19d",
+                        "source": "SEARCH",
+                        "isSld": "true",
+                        "sourceRequestId": "00000000000000000000000000000000",
+                        "qrEnabled": "false",
+                        "restaurant_id": "571363",
+                        "query": "rajasthani"
+                      }
+                    }
+                  }
+                }
+              },
+              {
+                "card": {
+                  "card": {
+                    "@type": "type.googleapis.com/swiggy.presentation.food.v2.Restaurant",
+                    "info": {
+                      "id": "1034571",
+                      "name": "Rajasthani food service",
+                      "city": "4",
+                      "slugs": {
+                        "restaurant": "rajasthani-food-service-mayur-vihar-mayur-vihar",
+                        "city": "delhi"
+                      },
+                      "cloudinaryImageId": "RX_THUMBNAIL/IMAGES/VENDOR/2025/1/26/c6052123-ac45-4637-b2d3-a980081f3e4d_1034571.jpg",
+                      "address": "Shop No : 20/452, , Floor : Ground , Kalyan Puri, Chilla Saroda Khadar, East Delhi , Block 20, Kalyan Puri, Delhi, 110091, India 110091",
+                      "locality": "Mayur Vihar",
+                      "areaName": "Mayur Vihar",
+                      "costForTwo": "50000",
+                      "costForTwoMessage": "₹500 FOR TWO",
+                      "cuisines": [
+                        "Rajasthani"
+                      ],
+                      "avgRating": 4.3,
+                      "feeDetails": {},
+                      "parentId": "602227",
+                      "avgRatingString": "4.3",
+                      "totalRatingsString": "46",
+                      "sla": {
+                        "deliveryTime": 69,
+                        "minDeliveryTime": 65,
+                        "maxDeliveryTime": 75,
+                        "lastMileTravel": 12.2,
+                        "serviceability": "SERVICEABLE",
+                        "rainMode": "RAIN_MODE_NONE",
+                        "slaString": "65-75 MINS",
+                        "lastMileTravelString": "12.2 km",
+                        "iconType": "ICON_TYPE_EMPTY"
+                      },
+                      "availability": {
+                        "restaurantClosedMeta": {
+                          "title": "CLOSED",
+                          "subtitle": "TEMPORARILY"
+                        }
+                      },
+                      "aggregatedDiscountInfo": {
+                        "visible": true
+                      },
+                      "badges": {},
+                      "sld": true,
+                      "unorderableMessage": "Temporarily closed for delivery",
+                      "aggregatedDiscountInfoV2": {
+                        "visible": true
+                      },
+                      "ratingSlab": "RATING_SLAB_5",
+                      "availabilityServiceabilityMessage": "Temporarily closed for delivery",
+                      "orderabilityCommunication": {
+                        "title": {
+                          "text": "CURRENTLY"
+                        },
+                        "subTitle": {
+                          "text": "CLOSED"
+                        },
+                        "message": {
+                          "text": "Outlet not accepting orders at the moment",
+                          "textColour": "primary"
+                        },
+                        "customIcon": {
+                          "bgGradientColorStart": "#EB8322",
+                          "bgGradientColorEnd": "#EE5803"
+                        },
+                        "commsStyling": {}
+                      },
+                      "cartOrderabilityNudgeBanner": {
+                        "parameters": {},
+                        "presentation": {}
+                      },
+                      "externalRatings": {
+                        "aggregatedRating": {
+                          "rating": "--"
+                        }
+                      },
+                      "ratingsDisplayPreference": "RATINGS_DISPLAY_PREFERENCE_SHOW_SWIGGY",
+                      "featuredSectionInfo": {
+                        "sectionTitle": "More"
+                      },
+                      "showEoOffer": true
+                    },
+                    "analytics": {
+                      "screenName": "explore",
+                      "context": "{\"tid\":\"undefined\",\"grid\":\"b52b1073-5f4c-4e6f-87e8-92b4573aac80\",\"queryUniqueId\":\"undefined\",\"query\":\"rajasthani\"}",
+                      "objectValue": "1034571",
+                      "impressionObjectName": "impression-restaurant-sld",
+                      "clickObjectName": "click-restaurant-sld"
+                    },
+                    "ctaWithParams": {
+                      "link": "swiggy://menu",
+                      "type": "DEEPLINK",
+                      "params": {
+                        "query": "rajasthani",
+                        "sourceSessionId": "qlnc842b2b4-a7f6-4ea3-99d5-0cdf6d19d",
+                        "source": "SEARCH",
+                        "isSld": "true",
+                        "sourceRequestId": "00000000000000000000000000000000",
+                        "qrEnabled": "false",
+                        "restaurant_id": "1034571"
+                      }
+                    }
+                  }
+                }
+              },
+              {
+                "card": {
+                  "card": {
+                    "@type": "type.googleapis.com/swiggy.presentation.food.v2.Restaurant",
+                    "info": {
+                      "id": "1301121",
+                      "name": "Rajasthani Rajputana Bhojanalay & Restaurant",
+                      "city": "4",
+                      "slugs": {
+                        "restaurant": "rajasthani-rajputana-bhojanalay-&-restaurant-dilshad-gardens-dilshad-gardens",
+                        "city": "delhi"
+                      },
+                      "cloudinaryImageId": "RX_THUMBNAIL/IMAGES/VENDOR/2025/12/30/a120af29-b104-4c47-b1c3-3d8d9261815e_1301121.jpg",
+                      "address": "Shop No : MM- 62 , Floor : NA , MM Main roed Ankur Vihar DLF ,Loni , ",
+                      "locality": "Dilshad Gardens",
+                      "areaName": "Dilshad Gardens",
+                      "costForTwo": "20000",
+                      "costForTwoMessage": "₹200 FOR TWO",
+                      "cuisines": [
+                        "Cafe"
+                      ],
+                      "feeDetails": {},
+                      "parentId": "740839",
+                      "avgRatingString": "NEW",
+                      "sla": {
+                        "deliveryTime": 70,
+                        "minDeliveryTime": 65,
+                        "maxDeliveryTime": 75,
+                        "lastMileTravel": 13.8,
+                        "serviceability": "SERVICEABLE",
+                        "rainMode": "RAIN_MODE_NONE",
+                        "slaString": "65-75 MINS",
+                        "lastMileTravelString": "13.8 km",
+                        "iconType": "ICON_TYPE_EMPTY"
+                      },
+                      "availability": {
+                        "nextOpenTimeMessage": "Opens next at 2 pm, today",
+                        "restaurantClosedMeta": {
+                          "title": "CLOSED",
+                          "subtitle": "FOR NOW"
+                        }
+                      },
+                      "aggregatedDiscountInfo": {
+                        "visible": true
+                      },
+                      "badges": {},
+                      "sld": true,
+                      "unorderableMessage": "Opens next at 2 pm, today",
+                      "aggregatedDiscountInfoV2": {
+                        "visible": true
+                      },
+                      "availabilityServiceabilityMessage": "Currently closed for delivery. Opens next at 2 pm, today",
+                      "orderabilityCommunication": {
+                        "title": {
+                          "text": "CURRENTLY"
+                        },
+                        "subTitle": {
+                          "text": "CLOSED"
+                        },
+                        "message": {
+                          "text": "Opens today at 2:00 PM",
+                          "textColour": "primary"
+                        },
+                        "customIcon": {
+                          "bgGradientColorStart": "#EB8322",
+                          "bgGradientColorEnd": "#EE5803"
+                        },
+                        "commsStyling": {}
+                      },
+                      "cartOrderabilityNudgeBanner": {
+                        "parameters": {},
+                        "presentation": {}
+                      },
+                      "externalRatings": {
+                        "aggregatedRating": {
+                          "rating": "--"
+                        }
+                      },
+                      "ratingsDisplayPreference": "RATINGS_DISPLAY_PREFERENCE_SHOW_SWIGGY",
+                      "featuredSectionInfo": {
+                        "sectionTitle": "More"
+                      },
+                      "showEoOffer": true
+                    },
+                    "analytics": {
+                      "screenName": "explore",
+                      "context": "{\"tid\":\"undefined\",\"grid\":\"b52b1073-5f4c-4e6f-87e8-92b4573aac80\",\"queryUniqueId\":\"undefined\",\"query\":\"rajasthani\"}",
+                      "objectValue": "1301121",
+                      "impressionObjectName": "impression-restaurant-sld",
+                      "clickObjectName": "click-restaurant-sld"
+                    },
+                    "ctaWithParams": {
+                      "link": "swiggy://menu",
+                      "type": "DEEPLINK",
+                      "params": {
+                        "sourceRequestId": "00000000000000000000000000000000",
+                        "qrEnabled": "false",
+                        "restaurant_id": "1301121",
+                        "query": "rajasthani",
+                        "sourceSessionId": "qlnc842b2b4-a7f6-4ea3-99d5-0cdf6d19d",
+                        "source": "SEARCH",
+                        "isSld": "true"
+                      }
+                    }
+                  }
+                }
+              },
+              {
+                "card": {
+                  "card": {
+                    "@type": "type.googleapis.com/swiggy.presentation.food.v2.Restaurant",
+                    "info": {
+                      "id": "1009528",
+                      "name": "rajasthani parantha",
+                      "city": "4",
+                      "slugs": {
+                        "restaurant": "rajasthani-parantha-malviya-nagar-malviya-nagar",
+                        "city": "delhi"
+                      },
+                      "cloudinaryImageId": "RX_THUMBNAIL/IMAGES/VENDOR/2025/3/17/7a61cbbf-9e3c-457d-882e-038e85e77f26_1009528.jpg",
+                      "address": "Shop No : f-2/172 , Floor :  , madangir, tigri, saket , ",
+                      "locality": "Malviya Nagar",
+                      "areaName": "Malviya Nagar",
+                      "costForTwo": "20000",
+                      "costForTwoMessage": "₹200 FOR TWO",
+                      "cuisines": [
+                        "Indian"
+                      ],
+                      "feeDetails": {},
+                      "parentId": "588196",
+                      "avgRatingString": "--",
+                      "sla": {
+                        "deliveryTime": 64,
+                        "minDeliveryTime": 60,
+                        "maxDeliveryTime": 70,
+                        "lastMileTravel": 13.8,
+                        "serviceability": "SERVICEABLE",
+                        "rainMode": "RAIN_MODE_NONE",
+                        "slaString": "60-70 MINS",
+                        "lastMileTravelString": "13.8 km",
+                        "iconType": "ICON_TYPE_EMPTY"
+                      },
+                      "availability": {
+                        "nextOpenTimeMessage": "Opens next at 5 am, tomorrow",
+                        "restaurantClosedMeta": {
+                          "title": "CLOSED",
+                          "subtitle": "FOR TODAY"
+                        }
+                      },
+                      "aggregatedDiscountInfo": {
+                        "visible": true
+                      },
+                      "badges": {},
+                      "sld": true,
+                      "unorderableMessage": "Opens next at 5 am, tomorrow",
+                      "aggregatedDiscountInfoV2": {
+                        "visible": true
+                      },
+                      "availabilityServiceabilityMessage": "Currently closed for delivery. Opens next at 5 am, tomorrow",
+                      "orderabilityCommunication": {
+                        "title": {
+                          "text": "CURRENTLY"
+                        },
+                        "subTitle": {
+                          "text": "CLOSED"
+                        },
+                        "message": {
+                          "text": "Opens tomorrow at 5:00 AM",
+                          "textColour": "primary"
+                        },
+                        "customIcon": {
+                          "bgGradientColorStart": "#EB8322",
+                          "bgGradientColorEnd": "#EE5803"
+                        },
+                        "commsStyling": {}
+                      },
+                      "cartOrderabilityNudgeBanner": {
+                        "parameters": {},
+                        "presentation": {}
+                      },
+                      "externalRatings": {
+                        "aggregatedRating": {
+                          "rating": "--"
+                        }
+                      },
+                      "ratingsDisplayPreference": "RATINGS_DISPLAY_PREFERENCE_SHOW_SWIGGY",
+                      "featuredSectionInfo": {
+                        "sectionTitle": "More"
+                      },
+                      "showEoOffer": true
+                    },
+                    "analytics": {
+                      "screenName": "explore",
+                      "context": "{\"tid\":\"undefined\",\"grid\":\"b52b1073-5f4c-4e6f-87e8-92b4573aac80\",\"queryUniqueId\":\"undefined\",\"query\":\"rajasthani\"}",
+                      "objectValue": "1009528",
+                      "impressionObjectName": "impression-restaurant-sld",
+                      "clickObjectName": "click-restaurant-sld"
+                    },
+                    "ctaWithParams": {
+                      "link": "swiggy://menu",
+                      "type": "DEEPLINK",
+                      "params": {
+                        "restaurant_id": "1009528",
+                        "query": "rajasthani",
+                        "sourceSessionId": "qlnc842b2b4-a7f6-4ea3-99d5-0cdf6d19d",
+                        "source": "SEARCH",
+                        "isSld": "true",
+                        "sourceRequestId": "00000000000000000000000000000000",
+                        "qrEnabled": "false"
+                      }
+                    }
+                  }
+                }
+              },
+              {
+                "card": {
+                  "card": {
+                    "@type": "type.googleapis.com/swiggy.presentation.food.v2.Restaurant",
+                    "info": {
+                      "id": "1076579",
+                      "name": "Jassy's Kitchen",
+                      "city": "4",
+                      "slugs": {
+                        "restaurant": "jassy's-kitchen-karol-bagh-karol-bagh",
+                        "city": "delhi"
+                      },
+                      "cloudinaryImageId": "RX_THUMBNAIL/IMAGES/VENDOR/2025/4/10/421c87aa-4d08-4fe0-8caf-1966a08750d6_1076579.jpg",
+                      "address": "Shop No : Block F-1, , Floor : 4th, 444 , Type 3 cpwd government quarters, devnagar, , G Block Road Block 18B, Dev Nagar, Karol Bagh, Delhi, 110005, India 110005",
+                      "locality": "Karol Bagh",
+                      "areaName": "Karol Bagh",
+                      "costForTwo": "48000",
+                      "costForTwoMessage": "₹480 FOR TWO",
+                      "cuisines": [
+                        "Rajasthani",
+                        "Indian",
+                        "Salads"
+                      ],
+                      "feeDetails": {},
+                      "parentId": "626226",
+                      "avgRatingString": "--",
+                      "sla": {
+                        "deliveryTime": 46,
+                        "minDeliveryTime": 45,
+                        "maxDeliveryTime": 50,
+                        "lastMileTravel": 7.5,
+                        "serviceability": "SERVICEABLE",
+                        "rainMode": "RAIN_MODE_NONE",
+                        "slaString": "45-50 MINS",
+                        "lastMileTravelString": "7.5 km",
+                        "iconType": "ICON_TYPE_EMPTY"
+                      },
+                      "availability": {
+                        "nextOpenTimeMessage": "Opens next at 6 am, tomorrow",
+                        "restaurantClosedMeta": {
+                          "title": "CLOSED",
+                          "subtitle": "FOR TODAY"
+                        }
+                      },
+                      "aggregatedDiscountInfo": {
+                        "visible": true
+                      },
+                      "badges": {},
+                      "unorderableMessage": "Opens next at 6 am, tomorrow",
+                      "aggregatedDiscountInfoV2": {
+                        "visible": true
+                      },
+                      "availabilityServiceabilityMessage": "Currently closed for delivery. Opens next at 6 am, tomorrow",
+                      "orderabilityCommunication": {
+                        "title": {
+                          "text": "CURRENTLY"
+                        },
+                        "subTitle": {
+                          "text": "CLOSED"
+                        },
+                        "message": {
+                          "text": "Opens tomorrow at 6:00 AM",
+                          "textColour": "primary"
+                        },
+                        "customIcon": {
+                          "bgGradientColorStart": "#EB8322",
+                          "bgGradientColorEnd": "#EE5803"
+                        },
+                        "commsStyling": {}
+                      },
+                      "cartOrderabilityNudgeBanner": {
+                        "parameters": {},
+                        "presentation": {}
+                      },
+                      "externalRatings": {
+                        "aggregatedRating": {
+                          "rating": "--"
+                        }
+                      },
+                      "ratingsDisplayPreference": "RATINGS_DISPLAY_PREFERENCE_SHOW_SWIGGY",
+                      "featuredSectionInfo": {
+                        "sectionTitle": "More"
+                      },
+                      "showEoOffer": true
+                    },
+                    "analytics": {
+                      "screenName": "explore",
+                      "context": "{\"tid\":\"undefined\",\"grid\":\"b52b1073-5f4c-4e6f-87e8-92b4573aac80\",\"queryUniqueId\":\"undefined\",\"query\":\"rajasthani\"}",
+                      "objectValue": "1076579",
+                      "impressionObjectName": "impression-restaurant",
+                      "clickObjectName": "click-restaurant"
+                    },
+                    "ctaWithParams": {
+                      "link": "swiggy://menu",
+                      "type": "DEEPLINK",
+                      "params": {
+                        "sourceSessionId": "qlnc842b2b4-a7f6-4ea3-99d5-0cdf6d19d",
+                        "source": "SEARCH",
+                        "isSld": "false",
+                        "sourceRequestId": "00000000000000000000000000000000",
+                        "qrEnabled": "false",
+                        "restaurant_id": "1076579",
+                        "query": "rajasthani"
+                      }
+                    }
+                  }
+                }
+              },
+              {
+                "card": {
+                  "card": {
+                    "@type": "type.googleapis.com/swiggy.presentation.food.v2.Restaurant",
+                    "info": {
+                      "id": "634320",
+                      "name": "Ranisa by Jain Chawal Wale",
+                      "city": "4",
+                      "slugs": {
+                        "restaurant": "ranisa-by-jain-chawal-wale-connaught-place-connaught-place",
+                        "city": "delhi"
+                      },
+                      "cloudinaryImageId": "b6pwzdy29nczr55fui0x",
+                      "address": "GROUND MEZZANINE FLOOR, SHOP NO P-14/90.CONNAUGHT PLACE, CHANKYA PURI, New Delhi, Delhi-",
+                      "locality": "Chanakyapuri",
+                      "areaName": "Ranisa by Jain Chawal Wale",
+                      "costForTwo": "35000",
+                      "costForTwoMessage": "₹350 FOR TWO",
+                      "cuisines": [
+                        "North Indian",
+                        "Rajasthani",
+                        "Thalis"
+                      ],
+                      "avgRating": 4.1,
+                      "feeDetails": {},
+                      "parentId": "381737",
+                      "avgRatingString": "4.1",
+                      "totalRatingsString": "287",
+                      "sla": {
+                        "deliveryTime": 70,
+                        "minDeliveryTime": 67,
+                        "maxDeliveryTime": 72,
+                        "lastMileTravel": 3,
+                        "serviceability": "SERVICEABLE",
+                        "rainMode": "RAIN_MODE_NONE",
+                        "slaString": "67-72 MINS",
+                        "lastMileTravelString": "3.0 km",
+                        "iconType": "ICON_TYPE_EMPTY"
+                      },
+                      "availability": {
+                        "nextOpenTimeMessage": "Opens next at 12 noon, today",
+                        "restaurantClosedMeta": {
+                          "title": "CLOSED",
+                          "subtitle": "FOR NOW"
+                        }
+                      },
+                      "aggregatedDiscountInfo": {
+                        "visible": true
+                      },
+                      "badges": {
+                        "imageBadges": [
+                          {
+                            "imageId": "v1695133679/badges/Pure_Veg111.png",
+                            "description": "pureveg"
+                          }
+                        ]
+                      },
+                      "unorderableMessage": "Opens next at 12 noon, today",
+                      "aggregatedDiscountInfoV2": {
+                        "visible": true
+                      },
+                      "ratingSlab": "RATING_SLAB_5",
+                      "availabilityServiceabilityMessage": "Currently closed for delivery. Opens next at 12 noon, today",
+                      "orderabilityCommunication": {
+                        "title": {
+                          "text": "OPENING"
+                        },
+                        "subTitle": {
+                          "text": "SOON"
+                        },
+                        "message": {
+                          "text": "Opens today in 43 mins",
+                          "textColour": "primary"
+                        },
+                        "customIcon": {
+                          "bgGradientColorStart": "#EB8322",
+                          "bgGradientColorEnd": "#EE5803"
+                        },
+                        "commsStyling": {}
+                      },
+                      "cartOrderabilityNudgeBanner": {
+                        "parameters": {},
+                        "presentation": {}
+                      },
+                      "externalRatings": {
+                        "aggregatedRating": {
+                          "rating": "--"
+                        }
+                      },
+                      "ratingsDisplayPreference": "RATINGS_DISPLAY_PREFERENCE_SHOW_SWIGGY",
+                      "featuredSectionInfo": {
+                        "sectionTitle": "More"
+                      },
+                      "showEoOffer": true
+                    },
+                    "analytics": {
+                      "screenName": "explore",
+                      "context": "{\"tid\":\"undefined\",\"grid\":\"b52b1073-5f4c-4e6f-87e8-92b4573aac80\",\"queryUniqueId\":\"undefined\",\"query\":\"rajasthani\"}",
+                      "objectValue": "634320",
+                      "impressionObjectName": "impression-restaurant",
+                      "clickObjectName": "click-restaurant"
+                    },
+                    "ctaWithParams": {
+                      "link": "swiggy://menu",
+                      "type": "DEEPLINK",
+                      "params": {
+                        "sourceRequestId": "00000000000000000000000000000000",
+                        "qrEnabled": "false",
+                        "restaurant_id": "634320",
+                        "query": "rajasthani",
+                        "sourceSessionId": "qlnc842b2b4-a7f6-4ea3-99d5-0cdf6d19d",
+                        "source": "SEARCH",
+                        "isSld": "false"
+                      }
+                    }
+                  }
+                }
+              },
+              {
+                "card": {
+                  "card": {
+                    "@type": "type.googleapis.com/swiggy.presentation.food.v2.Restaurant",
+                    "info": {
+                      "id": "1059162",
+                      "name": "Kota Rajasthan Kachori",
+                      "city": "4",
+                      "slugs": {
+                        "restaurant": "kota-rajasthan-kachori-karol-bagh-karol-bagh",
+                        "city": "delhi"
+                      },
+                      "cloudinaryImageId": "RX_THUMBNAIL/IMAGES/VENDOR/2025/3/7/9af365ad-87cc-46ba-8261-01b13592cf0b_1059162.JPG",
+                      "address": "Z-39 MAIN MARKET NEAR SUBHASH JEWELLERS WEST PATEL NAGAR ,SHADIPUR,PATEL NAGAR,West ,Delhi-110008\t",
+                      "locality": "Karol Bagh",
+                      "areaName": "Karol Bagh",
+                      "costForTwo": "30000",
+                      "costForTwoMessage": "₹300 FOR TWO",
+                      "cuisines": [
+                        "North Indian"
+                      ],
+                      "avgRating": 4.2,
+                      "feeDetails": {},
+                      "parentId": "615093",
+                      "avgRatingString": "4.2",
+                      "totalRatingsString": "30",
+                      "sla": {
+                        "deliveryTime": 40,
+                        "minDeliveryTime": 40,
+                        "maxDeliveryTime": 45,
+                        "lastMileTravel": 6.6,
+                        "serviceability": "SERVICEABLE",
+                        "rainMode": "RAIN_MODE_NONE",
+                        "slaString": "40-45 MINS",
+                        "lastMileTravelString": "6.6 km",
+                        "iconType": "ICON_TYPE_EMPTY"
+                      },
+                      "availability": {
+                        "nextOpenTimeMessage": "Opens next at 1 pm, tomorrow",
+                        "restaurantClosedMeta": {
+                          "title": "CLOSED",
+                          "subtitle": "FOR TODAY"
+                        }
+                      },
+                      "aggregatedDiscountInfo": {
+                        "visible": true
+                      },
+                      "badges": {},
+                      "unorderableMessage": "Opens next at 1 pm, tomorrow",
+                      "aggregatedDiscountInfoV2": {
+                        "visible": true
+                      },
+                      "ratingSlab": "RATING_SLAB_5",
+                      "availabilityServiceabilityMessage": "Currently closed for delivery. Opens next at 1 pm, tomorrow",
+                      "orderabilityCommunication": {
+                        "title": {
+                          "text": "CURRENTLY"
+                        },
+                        "subTitle": {
+                          "text": "CLOSED"
+                        },
+                        "message": {
+                          "text": "Opens tomorrow at 1:00 PM",
+                          "textColour": "primary"
+                        },
+                        "customIcon": {
+                          "bgGradientColorStart": "#EB8322",
+                          "bgGradientColorEnd": "#EE5803"
+                        },
+                        "commsStyling": {}
+                      },
+                      "cartOrderabilityNudgeBanner": {
+                        "parameters": {},
+                        "presentation": {}
+                      },
+                      "externalRatings": {
+                        "aggregatedRating": {
+                          "rating": "--"
+                        }
+                      },
+                      "ratingsDisplayPreference": "RATINGS_DISPLAY_PREFERENCE_SHOW_SWIGGY",
+                      "featuredSectionInfo": {
+                        "sectionTitle": "More"
+                      },
+                      "showEoOffer": true
+                    },
+                    "analytics": {
+                      "screenName": "explore",
+                      "context": "{\"tid\":\"undefined\",\"grid\":\"b52b1073-5f4c-4e6f-87e8-92b4573aac80\",\"queryUniqueId\":\"undefined\",\"query\":\"rajasthani\"}",
+                      "objectValue": "1059162",
+                      "impressionObjectName": "impression-restaurant",
+                      "clickObjectName": "click-restaurant"
+                    },
+                    "ctaWithParams": {
+                      "link": "swiggy://menu",
+                      "type": "DEEPLINK",
+                      "params": {
+                        "source": "SEARCH",
+                        "isSld": "false",
+                        "sourceRequestId": "00000000000000000000000000000000",
+                        "qrEnabled": "false",
+                        "restaurant_id": "1059162",
+                        "query": "rajasthani",
+                        "sourceSessionId": "qlnc842b2b4-a7f6-4ea3-99d5-0cdf6d19d"
+                      }
+                    }
+                  }
+                }
+              }
+            ]
+          }
+        }
+      }
+    }
+  ],
+  "firstOffsetRequest": true
+}

@@ -1,0 +1,47 @@
+{
+  "issues": {
+    "data": [
+      {
+        "title": "How do I track my order?",
+        "description": "You can track your order in real-time from the 'My Orders' section in the app.\n\nTap on the active order to see the live tracking map, estimated delivery time, and the name of your delivery partner.",
+        "hyperLinkText": "Go to My Orders",
+        "hyperLink": "/",
+        "options": []
+      },
+      {
+        "title": "My order was cancelled. What happens to my payment?",
+        "description": "If your order was cancelled after payment, a full refund will be initiated within 5-7 business days to your original payment method.\n\nFor wallet payments, the refund is instant.",
+        "hyperLinkText": "Check Refund Status",
+        "hyperLink": "/",
+        "options": [
+          { "emailId": "support@swiggy.in", "waitTime": "We typically respond within 24 hours" }
+        ]
+      },
+      {
+        "title": "I received a wrong or incomplete order",
+        "description": "We apologise for the inconvenience. Please report the issue within 24 hours of delivery.\n\nWe will investigate and either arrange a replacement or process a refund based on the situation.",
+        "hyperLinkText": "Report an Issue",
+        "hyperLink": "/",
+        "options": [
+          { "emailId": "support@swiggy.in", "waitTime": "We typically respond within 2 hours" }
+        ]
+      },
+      {
+        "title": "How do I cancel my order?",
+        "description": "You can cancel your order from the 'My Orders' section before the restaurant accepts it.\n\nOnce the restaurant has accepted the order, cancellation may not be possible or a cancellation fee may apply.",
+        "hyperLinkText": "View Cancellation Policy",
+        "hyperLink": "/",
+        "options": []
+      },
+      {
+        "title": "My payment failed but money was deducted",
+        "description": "This can happen due to a temporary technical issue between the payment gateway and your bank.\n\nIn most cases, the amount is automatically reversed within 5-7 business days. If not, please contact us with your transaction ID.",
+        "hyperLinkText": "Contact Support",
+        "hyperLink": "/",
+        "options": [
+          { "emailId": "support@swiggy.in", "waitTime": "We typically respond within 24 hours" }
+        ]
+      }
+    ]
+  }
+}

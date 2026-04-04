@@ -9,9 +9,9 @@ const SearchActiveQueryShimmer = () => {
       </div>
       <div className='flex flex-col gap-y-4'>
         {
-        [...Array(5)].map(()=>{
+        [...Array(5)].map((_,i)=>{
           return (
-            <div className=' p-4 bg-white w-full'>
+            <div key={i} className=' p-4 bg-white w-full'>
               <div className='w-4 h-4 my-3 bg-shimmerColor'></div>
               <div className='w-3/5 h-4 my-2 bg-shimmerColor'></div>
               <div className='w-2/4 h-4 my-2 bg-shimmerColor'></div>

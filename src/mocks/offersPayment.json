@@ -1,0 +1,67 @@
+{
+  "cards": [
+    {
+      "card": {
+        "card": {
+          "title": "Payment Offers",
+          "offers": [
+            {
+              "info": {
+                "offerTitle": "PhonePe",
+                "offerDescription": "Get 10% off upto ₹50 on orders above ₹149",
+                "couponCode": "PHONEPE10",
+                "tnc": "Valid once per user per month. Max discount ₹50.",
+                "imageId": "SwiggyCircle"
+              }
+            },
+            {
+              "info": {
+                "offerTitle": "HDFC Bank Credit Card",
+                "offerDescription": "Flat ₹100 off on orders above ₹399",
+                "couponCode": "HDFC100",
+                "tnc": "Valid on HDFC Credit Cards only. Min order ₹399.",
+                "imageId": "SwiggyCircle"
+              }
+            },
+            {
+              "info": {
+                "offerTitle": "Paytm",
+                "offerDescription": "Get cashback upto ₹75 on Paytm wallet payments",
+                "couponCode": "PAYTM75",
+                "tnc": "Valid on Paytm Wallet payments only. Min order ₹199.",
+                "imageId": "SwiggyCircle"
+              }
+            },
+            {
+              "info": {
+                "offerTitle": "SBI Credit Card",
+                "offerDescription": "5% off on all orders with SBI SimplyCLICK card",
+                "couponCode": "SBICLICK5",
+                "tnc": "Valid on SBI SimplyCLICK Credit Card only.",
+                "imageId": "SwiggyCircle"
+              }
+            },
+            {
+              "info": {
+                "offerTitle": "ICICI Bank",
+                "offerDescription": "Flat ₹75 off on orders above ₹299 with ICICI card",
+                "couponCode": "ICICI75",
+                "tnc": "Valid on ICICI Bank Credit and Debit cards.",
+                "imageId": "SwiggyCircle"
+              }
+            },
+            {
+              "info": {
+                "offerTitle": "Google Pay",
+                "offerDescription": "Get ₹25 cashback on 5 orders using GPay",
+                "couponCode": "GPAY25",
+                "tnc": "Valid 5 times per user. Min order ₹149.",
+                "imageId": "SwiggyCircle"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ]
+}

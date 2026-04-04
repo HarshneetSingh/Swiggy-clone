@@ -1,0 +1,1877 @@
+{
+  "cards": [
+    {
+      "card": {
+        "card": {
+          "tab": [
+            {
+              "title": "Restaurants",
+              "id": "RESTAURANT",
+              "selected": true
+            },
+            {
+              "title": "Dishes",
+              "id": "DISH"
+            }
+          ]
+        }
+      }
+    },
+    {
+      "card": {
+        "card": {
+          "restaurants": [
+            {
+              "info": {
+                "id": "78254",
+                "name": "B Creamy By Bismillah",
+                "cloudinaryImageId": "e9ae2a83e3390411cac68abc76004585",
+                "locality": "Adajan Gam",
+                "areaName": "Adajan Gam",
+                "costForTwo": "\u20b9300 for two",
+                "cuisines": [
+                  "Milkshakes",
+                  "Ice Cream",
+                  "Desserts",
+                  "Juices",
+                  "Beverages"
+                ],
+                "avgRating": 4.5,
+                "veg": true,
+                "parentId": "48445",
+                "avgRatingString": "4.5",
+                "totalRatingsString": "16K+",
+                "sla": {
+                  "deliveryTime": 43,
+                  "lastMileTravel": 8.1,
+                  "serviceability": "SERVICEABLE",
+                  "slaString": "40-45 mins",
+                  "lastMileTravelString": "8.1 km",
+                  "iconType": "ICON_TYPE_EMPTY"
+                },
+                "availability": {
+                  "nextCloseTime": "2026-04-04 05:59:00",
+                  "opened": true
+                },
+                "badges": {
+                  "imageBadges": [
+                    {
+                      "imageId": "Ratnesh_Badges/Rx_Awards_2025/Icecream.png",
+                      "description": "Delivery!"
+                    }
+                  ]
+                },
+                "isOpen": true,
+                "type": "F",
+                "badgesV2": {
+                  "entityBadges": {
+                    "imageBased": {
+                      "badgeObject": [
+                        {
+                          "attributes": {
+                            "description": "Delivery!",
+                            "imageId": "Ratnesh_Badges/Rx_Awards_2025/Icecream.png",
+                            "theme": "light"
+                          }
+                        }
+                      ]
+                    },
+                    "textBased": {},
+                    "textExtendedBadges": {}
+                  }
+                },
+                "aggregatedDiscountInfoV3": {
+                  "header": "50% OFF",
+                  "subHeader": "UPTO \u20b9100"
+                },
+                "differentiatedUi": {
+                  "displayType": "ADS_UI_DISPLAY_TYPE_ENUM_DEFAULT",
+                  "differentiatedUiMediaDetails": {
+                    "lottie": {},
+                    "video": {}
+                  }
+                },
+                "reviewsSummary": {},
+                "displayType": "RESTAURANT_DISPLAY_TYPE_DEFAULT",
+                "restaurantOfferPresentationInfo": {},
+                "externalRatings": {
+                  "aggregatedRating": {
+                    "rating": "4.0",
+                    "ratingCount": "396"
+                  },
+                  "source": "GOOGLE",
+                  "sourceIconImageId": "v1704440323/google_ratings/rating_google_tag"
+                },
+                "ratingsDisplayPreference": "RATINGS_DISPLAY_PREFERENCE_SHOW_SWIGGY"
+              },
+              "analytics": {
+                "context": "seo-data-a959c6ec-4ee6-47d2-a0ca-b1e8e323493b"
+              },
+              "cta": {
+                "link": "https://www.swiggy.com/city/surat/b-creamy-by-bismillah-adajan-gam-rest78254",
+                "type": "WEBLINK"
+              }
+            },
+            {
+              "info": {
+                "id": "143715",
+                "name": "Jalaram Locho & Khaman",
+                "cloudinaryImageId": "ewbovsuylb8e3ow3gcf2",
+                "locality": "Gotalavadi",
+                "areaName": "Gotalawadi, Katargam",
+                "costForTwo": "\u20b9250 for two",
+                "cuisines": [
+                  "Gujarati",
+                  "Snacks",
+                  "Street Food",
+                  "Fast Food",
+                  "Indian"
+                ],
+                "avgRating": 4.5,
+                "veg": true,
+                "parentId": "230558",
+                "avgRatingString": "4.5",
+                "totalRatingsString": "5.9K+",
+                "sla": {
+                  "deliveryTime": 31,
+                  "lastMileTravel": 3.9,
+                  "serviceability": "SERVICEABLE",
+                  "slaString": "29-34 mins",
+                  "lastMileTravelString": "3.9 km",
+                  "iconType": "ICON_TYPE_EMPTY"
+                },
+                "availability": {
+                  "nextCloseTime": "2026-04-03 06:30:00",
+                  "opened": true
+                },
+                "badges": {},
+                "isOpen": true,
+                "type": "F",
+                "badgesV2": {
+                  "entityBadges": {
+                    "imageBased": {},
+                    "textBased": {},
+                    "textExtendedBadges": {}
+                  }
+                },
+                "aggregatedDiscountInfoV3": {
+                  "header": "65% OFF",
+                  "subHeader": "UPTO \u20b9130"
+                },
+                "differentiatedUi": {
+                  "displayType": "ADS_UI_DISPLAY_TYPE_ENUM_DEFAULT",
+                  "differentiatedUiMediaDetails": {
+                    "lottie": {},
+                    "video": {}
+                  }
+                },
+                "reviewsSummary": {},
+                "displayType": "RESTAURANT_DISPLAY_TYPE_DEFAULT",
+                "restaurantOfferPresentationInfo": {},
+                "externalRatings": {
+                  "aggregatedRating": {
+                    "rating": "--"
+                  }
+                },
+                "ratingsDisplayPreference": "RATINGS_DISPLAY_PREFERENCE_SHOW_SWIGGY"
+              },
+              "analytics": {
+                "context": "seo-data-a959c6ec-4ee6-47d2-a0ca-b1e8e323493b"
+              },
+              "cta": {
+                "link": "https://www.swiggy.com/city/surat/jalaram-locho-and-khaman-gotalavadi-gotalawadi-katargam-rest143715",
+                "type": "WEBLINK"
+              }
+            },
+            {
+              "info": {
+                "id": "577252",
+                "name": "Jalaram Locho & Rasawala Khaman",
+                "cloudinaryImageId": "lzcmkkk8z0tv4hw9kquz",
+                "locality": "Gotalawadi",
+                "areaName": "Gotalawadi, Katargam",
+                "costForTwo": "\u20b9200 for two",
+                "cuisines": [
+                  "Gujarati",
+                  "Snacks",
+                  "Street Food",
+                  "Fast Food"
+                ],
+                "avgRating": 4.5,
+                "veg": true,
+                "parentId": "345715",
+                "avgRatingString": "4.5",
+                "totalRatingsString": "2.5K+",
+                "sla": {
+                  "deliveryTime": 27,
+                  "lastMileTravel": 3.9,
+                  "serviceability": "SERVICEABLE",
+                  "slaString": "24-29 mins",
+                  "lastMileTravelString": "3.9 km",
+                  "iconType": "ICON_TYPE_EMPTY"
+                },
+                "availability": {
+                  "nextCloseTime": "2026-04-03 06:30:00",
+                  "opened": true
+                },
+                "badges": {
+                  "imageBadges": [
+                    {
+                      "imageId": "v1695133679/badges/Pure_Veg111.png",
+                      "description": "pureveg"
+                    }
+                  ]
+                },
+                "isOpen": true,
+                "type": "F",
+                "badgesV2": {
+                  "entityBadges": {
+                    "imageBased": {
+                      "badgeObject": [
+                        {
+                          "attributes": {
+                            "description": "pureveg",
+                            "imageId": "v1695133679/badges/Pure_Veg111.png",
+                            "theme": "light"
+                          }
+                        }
+                      ]
+                    },
+                    "textBased": {},
+                    "textExtendedBadges": {}
+                  }
+                },
+                "aggregatedDiscountInfoV3": {
+                  "header": "65% OFF",
+                  "subHeader": "UPTO \u20b9120"
+                },
+                "differentiatedUi": {
+                  "displayType": "ADS_UI_DISPLAY_TYPE_ENUM_DEFAULT",
+                  "differentiatedUiMediaDetails": {
+                    "lottie": {},
+                    "video": {}
+                  }
+                },
+                "reviewsSummary": {},
+                "displayType": "RESTAURANT_DISPLAY_TYPE_DEFAULT",
+                "restaurantOfferPresentationInfo": {},
+                "externalRatings": {
+                  "aggregatedRating": {
+                    "rating": "--"
+                  }
+                },
+                "ratingsDisplayPreference": "RATINGS_DISPLAY_PREFERENCE_SHOW_SWIGGY"
+              },
+              "analytics": {
+                "context": "seo-data-a959c6ec-4ee6-47d2-a0ca-b1e8e323493b"
+              },
+              "cta": {
+                "link": "https://www.swiggy.com/city/surat/jalaram-locho-and-rasawala-khaman-gotalawadi-gotalawadi-katargam-rest577252",
+                "type": "WEBLINK"
+              }
+            },
+            {
+              "info": {
+                "id": "694195",
+                "name": "Gourmet Ice Cream Cakes by Baskin Robbins",
+                "cloudinaryImageId": "RX_THUMBNAIL/IMAGES/VENDOR/2025/2/12/59f05d77-868a-4e25-b57a-7688ca37dea1_694195.JPG",
+                "locality": "Madhuban Cricle",
+                "areaName": "Adajan",
+                "costForTwo": "\u20b9200 for two",
+                "cuisines": [
+                  "Ice Cream Cakes",
+                  "Desserts",
+                  "Ice Cream",
+                  "Bakery"
+                ],
+                "avgRating": 4.3,
+                "veg": true,
+                "parentId": "21932",
+                "avgRatingString": "4.3",
+                "totalRatingsString": "36",
+                "sla": {
+                  "deliveryTime": 38,
+                  "lastMileTravel": 9.1,
+                  "serviceability": "SERVICEABLE",
+                  "slaString": "35-40 mins",
+                  "lastMileTravelString": "9.1 km",
+                  "iconType": "ICON_TYPE_EMPTY"
+                },
+                "availability": {
+                  "nextCloseTime": "2026-04-04 05:59:00",
+                  "opened": true
+                },
+                "badges": {
+                  "imageBadges": [
+                    {
+                      "imageId": "newg.png",
+                      "description": "Gourmet"
+                    },
+                    {
+                      "imageId": "v1695133679/badges/Pure_Veg111.png",
+                      "description": "pureveg"
+                    }
+                  ]
+                },
+                "isOpen": true,
+                "type": "F",
+                "badgesV2": {
+                  "entityBadges": {
+                    "imageBased": {
+                      "badgeObject": [
+                        {
+                          "attributes": {
+                            "description": "Gourmet",
+                            "imageId": "newg.png",
+                            "theme": "light"
+                          }
+                        },
+                        {
+                          "attributes": {
+                            "description": "pureveg",
+                            "imageId": "v1695133679/badges/Pure_Veg111.png",
+                            "theme": "light"
+                          }
+                        }
+                      ]
+                    },
+                    "textBased": {},
+                    "textExtendedBadges": {}
+                  }
+                },
+                "aggregatedDiscountInfoV3": {
+                  "header": "\u20b9100 OFF",
+                  "subHeader": "ABOVE \u20b9999",
+                  "discountTag": "FLAT DEAL"
+                },
+                "differentiatedUi": {
+                  "displayType": "ADS_UI_DISPLAY_TYPE_ENUM_DEFAULT",
+                  "differentiatedUiMediaDetails": {
+                    "lottie": {},
+                    "video": {}
+                  }
+                },
+                "reviewsSummary": {},
+                "displayType": "RESTAURANT_DISPLAY_TYPE_DEFAULT",
+                "restaurantOfferPresentationInfo": {},
+                "externalRatings": {
+                  "aggregatedRating": {
+                    "rating": "--"
+                  }
+                },
+                "ratingsDisplayPreference": "RATINGS_DISPLAY_PREFERENCE_SHOW_SWIGGY"
+              },
+              "analytics": {
+                "context": "seo-data-a959c6ec-4ee6-47d2-a0ca-b1e8e323493b"
+              },
+              "cta": {
+                "link": "https://www.swiggy.com/city/surat/gourmet-ice-cream-cakes-by-baskin-robbins-madhuban-cricle-adajan-rest694195",
+                "type": "WEBLINK"
+              }
+            },
+            {
+              "info": {
+                "id": "694194",
+                "name": "Baskin Robbins - Ice Cream Desserts",
+                "cloudinaryImageId": "RX_THUMBNAIL/IMAGES/VENDOR/2025/4/24/8853ccf2-4789-4d7a-b6d2-00e549c8ed0e_694194.JPG",
+                "locality": "Madhuban Cricle",
+                "areaName": "Adajan",
+                "costForTwo": "\u20b9250 for two",
+                "cuisines": [
+                  "Desserts",
+                  "Ice Cream"
+                ],
+                "avgRating": 4.5,
+                "veg": true,
+                "parentId": "5588",
+                "avgRatingString": "4.5",
+                "totalRatingsString": "468",
+                "sla": {
+                  "deliveryTime": 41,
+                  "lastMileTravel": 9.1,
+                  "serviceability": "SERVICEABLE",
+                  "slaString": "40-45 mins",
+                  "lastMileTravelString": "9.1 km",
+                  "iconType": "ICON_TYPE_EMPTY"
+                },
+                "availability": {
+                  "nextCloseTime": "2026-04-04 05:59:00",
+                  "opened": true
+                },
+                "badges": {},
+                "isOpen": true,
+                "type": "F",
+                "badgesV2": {
+                  "entityBadges": {
+                    "imageBased": {},
+                    "textBased": {},
+                    "textExtendedBadges": {}
+                  }
+                },
+                "aggregatedDiscountInfoV3": {
+                  "header": "ITEMS",
+                  "subHeader": "AT \u20b951"
+                },
+                "differentiatedUi": {
+                  "displayType": "ADS_UI_DISPLAY_TYPE_ENUM_DEFAULT",
+                  "differentiatedUiMediaDetails": {
+                    "lottie": {},
+                    "video": {}
+                  }
+                },
+                "reviewsSummary": {},
+                "displayType": "RESTAURANT_DISPLAY_TYPE_DEFAULT",
+                "restaurantOfferPresentationInfo": {},
+                "externalRatings": {
+                  "aggregatedRating": {
+                    "rating": "--"
+                  }
+                },
+                "ratingsDisplayPreference": "RATINGS_DISPLAY_PREFERENCE_SHOW_SWIGGY"
+              },
+              "analytics": {
+                "context": "seo-data-a959c6ec-4ee6-47d2-a0ca-b1e8e323493b"
+              },
+              "cta": {
+                "link": "https://www.swiggy.com/city/surat/baskin-robbins-ice-cream-desserts-madhuban-cricle-adajan-rest694194",
+                "type": "WEBLINK"
+              }
+            },
+            {
+              "info": {
+                "id": "694196",
+                "name": "Baskin Robbins Happyness Shakes",
+                "cloudinaryImageId": "RX_THUMBNAIL/IMAGES/VENDOR/2025/2/12/12bcd836-86a8-4997-8efa-3f9132b36ac6_694196.jpg",
+                "locality": "Madhuban Cricle",
+                "areaName": "Adajan",
+                "costForTwo": "\u20b9250 for two",
+                "cuisines": [
+                  "Beverages",
+                  "Desserts"
+                ],
+                "avgRating": 4.1,
+                "veg": true,
+                "parentId": "322848",
+                "avgRatingString": "4.1",
+                "totalRatingsString": "9",
+                "sla": {
+                  "deliveryTime": 45,
+                  "lastMileTravel": 9.1,
+                  "serviceability": "SERVICEABLE",
+                  "slaString": "40-45 mins",
+                  "lastMileTravelString": "9.1 km",
+                  "iconType": "ICON_TYPE_EMPTY"
+                },
+                "availability": {
+                  "nextCloseTime": "2026-04-04 05:59:00",
+                  "opened": true
+                },
+                "badges": {
+                  "imageBadges": [
+                    {
+                      "imageId": "v1695133679/badges/Pure_Veg111.png",
+                      "description": "pureveg"
+                    }
+                  ]
+                },
+                "isOpen": true,
+                "type": "F",
+                "badgesV2": {
+                  "entityBadges": {
+                    "imageBased": {
+                      "badgeObject": [
+                        {
+                          "attributes": {
+                            "description": "pureveg",
+                            "imageId": "v1695133679/badges/Pure_Veg111.png",
+                            "theme": "light"
+                          }
+                        }
+                      ]
+                    },
+                    "textBased": {},
+                    "textExtendedBadges": {}
+                  }
+                },
+                "aggregatedDiscountInfoV3": {
+                  "header": "\u20b9100 OFF",
+                  "subHeader": "ABOVE \u20b9999",
+                  "discountTag": "FLAT DEAL"
+                },
+                "differentiatedUi": {
+                  "displayType": "ADS_UI_DISPLAY_TYPE_ENUM_DEFAULT",
+                  "differentiatedUiMediaDetails": {
+                    "lottie": {},
+                    "video": {}
+                  }
+                },
+                "reviewsSummary": {},
+                "displayType": "RESTAURANT_DISPLAY_TYPE_DEFAULT",
+                "restaurantOfferPresentationInfo": {},
+                "externalRatings": {
+                  "aggregatedRating": {
+                    "rating": "--"
+                  }
+                },
+                "ratingsDisplayPreference": "RATINGS_DISPLAY_PREFERENCE_SHOW_SWIGGY"
+              },
+              "analytics": {
+                "context": "seo-data-a959c6ec-4ee6-47d2-a0ca-b1e8e323493b"
+              },
+              "cta": {
+                "link": "https://www.swiggy.com/city/surat/baskin-robbins-happyness-shakes-madhuban-cricle-adajan-rest694196",
+                "type": "WEBLINK"
+              }
+            },
+            {
+              "info": {
+                "id": "228880",
+                "name": " Jalasai Locho & Khaman",
+                "cloudinaryImageId": "w7alozosyqmbniqxyzao",
+                "locality": "Gotalawadi",
+                "areaName": "Gotalawadi, Katargam",
+                "costForTwo": "\u20b9200 for two",
+                "cuisines": [
+                  "Gujarati",
+                  "Snacks",
+                  "Street Food",
+                  "Fast Food",
+                  "Indian"
+                ],
+                "avgRating": 4.5,
+                "veg": true,
+                "parentId": "418110",
+                "avgRatingString": "4.5",
+                "totalRatingsString": "1.5K+",
+                "sla": {
+                  "deliveryTime": 28,
+                  "lastMileTravel": 3.9,
+                  "serviceability": "SERVICEABLE",
+                  "slaString": "24-29 mins",
+                  "lastMileTravelString": "3.9 km",
+                  "iconType": "ICON_TYPE_EMPTY"
+                },
+                "availability": {
+                  "nextCloseTime": "2026-04-03 06:30:00",
+                  "opened": true
+                },
+                "badges": {
+                  "imageBadges": [
+                    {
+                      "imageId": "v1695133679/badges/Pure_Veg111.png",
+                      "description": "pureveg"
+                    }
+                  ]
+                },
+                "isOpen": true,
+                "type": "F",
+                "badgesV2": {
+                  "entityBadges": {
+                    "imageBased": {
+                      "badgeObject": [
+                        {
+                          "attributes": {
+                            "description": "pureveg",
+                            "imageId": "v1695133679/badges/Pure_Veg111.png",
+                            "theme": "light"
+                          }
+                        }
+                      ]
+                    },
+                    "textBased": {},
+                    "textExtendedBadges": {}
+                  }
+                },
+                "aggregatedDiscountInfoV3": {
+                  "header": "65% OFF",
+                  "subHeader": "UPTO \u20b9120"
+                },
+                "differentiatedUi": {
+                  "displayType": "ADS_UI_DISPLAY_TYPE_ENUM_DEFAULT",
+                  "differentiatedUiMediaDetails": {
+                    "lottie": {},
+                    "video": {}
+                  }
+                },
+                "reviewsSummary": {},
+                "displayType": "RESTAURANT_DISPLAY_TYPE_DEFAULT",
+                "restaurantOfferPresentationInfo": {},
+                "externalRatings": {
+                  "aggregatedRating": {
+                    "rating": "--"
+                  }
+                },
+                "ratingsDisplayPreference": "RATINGS_DISPLAY_PREFERENCE_SHOW_SWIGGY"
+              },
+              "analytics": {
+                "context": "seo-data-a959c6ec-4ee6-47d2-a0ca-b1e8e323493b"
+              },
+              "cta": {
+                "link": "https://www.swiggy.com/city/surat/-jalasai-locho-and-khaman-gotalawadi-gotalawadi-katargam-rest228880",
+                "type": "WEBLINK"
+              }
+            },
+            {
+              "@type": "type.googleapis.com/swiggy.presentation.food.v2.Restaurant",
+              "info": {
+                "id": "175281",
+                "name": "Jalaram Locho & Khaman",
+                "cloudinaryImageId": "ilmplqyvasqq0igkmobz",
+                "locality": "Gotalawadi",
+                "areaName": "Gotalawadi, Katargam",
+                "costForTwo": "\u20b9250 for two",
+                "cuisines": [
+                  "Gujarati",
+                  "Snacks",
+                  "Fast Food",
+                  "Street Food",
+                  "Indian"
+                ],
+                "avgRating": 4.4,
+                "veg": true,
+                "parentId": "230558",
+                "avgRatingString": "4.4",
+                "totalRatingsString": "4.8K+",
+                "sla": {
+                  "deliveryTime": 34,
+                  "lastMileTravel": 3.9,
+                  "serviceability": "SERVICEABLE",
+                  "slaString": "34-44 mins",
+                  "lastMileTravelString": "3.9 km",
+                  "iconType": "ICON_TYPE_EMPTY"
+                },
+                "availability": {
+                  "nextCloseTime": "2026-04-03 06:30:00",
+                  "opened": true
+                },
+                "badges": {},
+                "isOpen": true,
+                "type": "F",
+                "badgesV2": {
+                  "entityBadges": {
+                    "imageBased": {},
+                    "textBased": {},
+                    "textExtendedBadges": {}
+                  }
+                },
+                "aggregatedDiscountInfoV3": {
+                  "header": "65% OFF",
+                  "subHeader": "UPTO \u20b9120"
+                },
+                "orderabilityCommunication": {
+                  "title": {},
+                  "subTitle": {},
+                  "message": {},
+                  "customIcon": {}
+                },
+                "differentiatedUi": {
+                  "displayType": "ADS_UI_DISPLAY_TYPE_ENUM_DEFAULT",
+                  "differentiatedUiMediaDetails": {
+                    "mediaType": "ADS_MEDIA_ENUM_IMAGE",
+                    "lottie": {},
+                    "video": {}
+                  }
+                },
+                "reviewsSummary": {},
+                "displayType": "RESTAURANT_DISPLAY_TYPE_DEFAULT",
+                "restaurantOfferPresentationInfo": {},
+                "externalRatings": {
+                  "aggregatedRating": {
+                    "rating": "--"
+                  }
+                },
+                "ratingsDisplayPreference": "RATINGS_DISPLAY_PREFERENCE_SHOW_SWIGGY"
+              },
+              "analytics": {
+                "context": "seo-data-a959c6ec-4ee6-47d2-a0ca-b1e8e323493b"
+              },
+              "cta": {
+                "link": "https://www.swiggy.com/city/surat/jalaram-locho-and-khaman-gotalawadi-gotalawadi-katargam-rest175281",
+                "text": "RESTAURANT_MENU",
+                "type": "WEBLINK"
+              },
+              "widgetId": "collectionV5RestaurantListWidget_SimRestoRelevance_food_seo"
+            },
+            {
+              "@type": "type.googleapis.com/swiggy.presentation.food.v2.Restaurant",
+              "info": {
+                "id": "106965",
+                "name": "Gayatri Khaman Gitanjali Wala",
+                "cloudinaryImageId": "opqyakkwab1umhdxkzjg",
+                "locality": "Varachha",
+                "areaName": "Varachha",
+                "costForTwo": "\u20b9100 for two",
+                "cuisines": [
+                  "Gujarati"
+                ],
+                "avgRating": 4.6,
+                "veg": true,
+                "parentId": "472973",
+                "avgRatingString": "4.6",
+                "totalRatingsString": "2.3K+",
+                "sla": {
+                  "deliveryTime": 18,
+                  "lastMileTravel": 1.7,
+                  "serviceability": "SERVICEABLE",
+                  "slaString": "15-20 mins",
+                  "lastMileTravelString": "1.7 km",
+                  "iconType": "ICON_TYPE_EMPTY"
+                },
+                "availability": {
+                  "nextCloseTime": "2026-04-03 16:00:00",
+                  "opened": true
+                },
+                "badges": {
+                  "imageBadges": [
+                    {
+                      "imageId": "android/static-assets/icons/big_rx.png",
+                      "description": "bolt!"
+                    },
+                    {
+                      "imageId": "v1695133679/badges/Pure_Veg111.png",
+                      "description": "pureveg"
+                    }
+                  ]
+                },
+                "isOpen": true,
+                "aggregatedDiscountInfoV2": {},
+                "type": "F",
+                "badgesV2": {
+                  "entityBadges": {
+                    "imageBased": {
+                      "badgeObject": [
+                        {
+                          "attributes": {
+                            "description": "bolt!",
+                            "imageId": "android/static-assets/icons/big_rx.png"
+                          }
+                        },
+                        {
+                          "attributes": {
+                            "description": "pureveg",
+                            "imageId": "v1695133679/badges/Pure_Veg111.png",
+                            "theme": "light"
+                          }
+                        }
+                      ]
+                    },
+                    "textBased": {},
+                    "textExtendedBadges": {}
+                  }
+                },
+                "orderabilityCommunication": {
+                  "title": {},
+                  "subTitle": {},
+                  "message": {},
+                  "customIcon": {}
+                },
+                "differentiatedUi": {
+                  "displayType": "ADS_UI_DISPLAY_TYPE_ENUM_DEFAULT",
+                  "differentiatedUiMediaDetails": {
+                    "mediaType": "ADS_MEDIA_ENUM_IMAGE",
+                    "lottie": {},
+                    "video": {}
+                  }
+                },
+                "reviewsSummary": {},
+                "displayType": "RESTAURANT_DISPLAY_TYPE_DEFAULT",
+                "restaurantOfferPresentationInfo": {},
+                "externalRatings": {
+                  "aggregatedRating": {
+                    "rating": "4.3",
+                    "ratingCount": "1.1K+"
+                  },
+                  "source": "GOOGLE",
+                  "sourceIconImageId": "v1704440323/google_ratings/rating_google_tag"
+                },
+                "ratingsDisplayPreference": "RATINGS_DISPLAY_PREFERENCE_SHOW_SWIGGY"
+              },
+              "analytics": {
+                "context": "seo-data-a959c6ec-4ee6-47d2-a0ca-b1e8e323493b"
+              },
+              "cta": {
+                "link": "https://www.swiggy.com/city/surat/gayatri-khaman-gitanjali-wala-varachha-rest106965",
+                "text": "RESTAURANT_MENU",
+                "type": "WEBLINK"
+              },
+              "widgetId": "collectionV5RestaurantListWidget_SimRestoRelevance_food_seo"
+            },
+            {
+              "@type": "type.googleapis.com/swiggy.presentation.food.v2.Restaurant",
+              "info": {
+                "id": "503928",
+                "name": "Sai Nath Live Aalu Puri",
+                "cloudinaryImageId": "nt4yilydctcte8xx0sik",
+                "locality": "Mahavir Nagar",
+                "areaName": "Rander",
+                "costForTwo": "\u20b9200 for two",
+                "cuisines": [
+                  "Street Food",
+                  "Snacks",
+                  "Fast Food"
+                ],
+                "avgRating": 4.3,
+                "veg": true,
+                "parentId": "301834",
+                "avgRatingString": "4.3",
+                "totalRatingsString": "500",
+                "sla": {
+                  "deliveryTime": 52,
+                  "lastMileTravel": 7.5,
+                  "serviceability": "SERVICEABLE",
+                  "slaString": "50-60 mins",
+                  "lastMileTravelString": "7.5 km",
+                  "iconType": "ICON_TYPE_EMPTY"
+                },
+                "availability": {
+                  "nextCloseTime": "2026-04-03 21:00:00",
+                  "opened": true
+                },
+                "badges": {
+                  "imageBadges": [
+                    {
+                      "imageId": "v1695133679/badges/Pure_Veg111.png",
+                      "description": "pureveg"
+                    }
+                  ]
+                },
+                "isOpen": true,
+                "type": "F",
+                "badgesV2": {
+                  "entityBadges": {
+                    "imageBased": {
+                      "badgeObject": [
+                        {
+                          "attributes": {
+                            "description": "pureveg",
+                            "imageId": "v1695133679/badges/Pure_Veg111.png",
+                            "theme": "light"
+                          }
+                        }
+                      ]
+                    },
+                    "textBased": {},
+                    "textExtendedBadges": {}
+                  }
+                },
+                "aggregatedDiscountInfoV3": {
+                  "header": "20% OFF",
+                  "subHeader": "UPTO \u20b950"
+                },
+                "orderabilityCommunication": {
+                  "title": {},
+                  "subTitle": {},
+                  "message": {},
+                  "customIcon": {}
+                },
+                "differentiatedUi": {
+                  "displayType": "ADS_UI_DISPLAY_TYPE_ENUM_DEFAULT",
+                  "differentiatedUiMediaDetails": {
+                    "mediaType": "ADS_MEDIA_ENUM_IMAGE",
+                    "lottie": {},
+                    "video": {}
+                  }
+                },
+                "reviewsSummary": {},
+                "displayType": "RESTAURANT_DISPLAY_TYPE_DEFAULT",
+                "restaurantOfferPresentationInfo": {},
+                "externalRatings": {
+                  "aggregatedRating": {
+                    "rating": "--"
+                  }
+                },
+                "ratingsDisplayPreference": "RATINGS_DISPLAY_PREFERENCE_SHOW_SWIGGY"
+              },
+              "analytics": {
+                "context": "seo-data-a959c6ec-4ee6-47d2-a0ca-b1e8e323493b"
+              },
+              "cta": {
+                "link": "https://www.swiggy.com/city/surat/sai-nath-live-aalu-puri-mahavir-nagar-rander-rest503928",
+                "text": "RESTAURANT_MENU",
+                "type": "WEBLINK"
+              },
+              "widgetId": "collectionV5RestaurantListWidget_SimRestoRelevance_food_seo"
+            },
+            {
+              "@type": "type.googleapis.com/swiggy.presentation.food.v2.Restaurant",
+              "info": {
+                "id": "1280915",
+                "name": "Punjabi Swaad",
+                "cloudinaryImageId": "RX_THUMBNAIL/IMAGES/VENDOR/2025/12/8/36ac0f5e-145d-4efa-ae85-93d6ff0154fc_1280915.jpg",
+                "locality": "Athwa",
+                "areaName": "Piplod",
+                "costForTwo": "\u20b9100 for two",
+                "cuisines": [
+                  "Punjabi",
+                  "Snacks",
+                  "Healthy Food",
+                  "North Indian"
+                ],
+                "veg": true,
+                "parentId": "162511",
+                "avgRatingString": "NEW",
+                "sla": {
+                  "deliveryTime": 54,
+                  "lastMileTravel": 7.4,
+                  "serviceability": "SERVICEABLE",
+                  "slaString": "50-60 mins",
+                  "lastMileTravelString": "7.4 km",
+                  "iconType": "ICON_TYPE_EMPTY"
+                },
+                "availability": {
+                  "nextCloseTime": "2026-04-03 23:45:00",
+                  "opened": true
+                },
+                "badges": {},
+                "isOpen": true,
+                "type": "F",
+                "badgesV2": {
+                  "entityBadges": {
+                    "imageBased": {},
+                    "textBased": {},
+                    "textExtendedBadges": {}
+                  }
+                },
+                "aggregatedDiscountInfoV3": {
+                  "header": "\u20b940 OFF",
+                  "subHeader": "ABOVE \u20b9399",
+                  "discountTag": "FLAT DEAL"
+                },
+                "orderabilityCommunication": {
+                  "title": {},
+                  "subTitle": {},
+                  "message": {},
+                  "customIcon": {}
+                },
+                "differentiatedUi": {
+                  "displayType": "ADS_UI_DISPLAY_TYPE_ENUM_DEFAULT",
+                  "differentiatedUiMediaDetails": {
+                    "mediaType": "ADS_MEDIA_ENUM_IMAGE",
+                    "lottie": {},
+                    "video": {}
+                  }
+                },
+                "reviewsSummary": {},
+                "displayType": "RESTAURANT_DISPLAY_TYPE_DEFAULT",
+                "isNewlyOnboarded": true,
+                "restaurantOfferPresentationInfo": {},
+                "externalRatings": {
+                  "aggregatedRating": {
+                    "rating": "--"
+                  }
+                },
+                "ratingsDisplayPreference": "RATINGS_DISPLAY_PREFERENCE_SHOW_SWIGGY"
+              },
+              "analytics": {
+                "context": "seo-data-a959c6ec-4ee6-47d2-a0ca-b1e8e323493b"
+              },
+              "cta": {
+                "link": "https://www.swiggy.com/city/surat/punjabi-swaad-athwa-piplod-rest1280915",
+                "text": "RESTAURANT_MENU",
+                "type": "WEBLINK"
+              },
+              "widgetId": "collectionV5RestaurantListWidget_SimRestoRelevance_food_seo"
+            },
+            {
+              "@type": "type.googleapis.com/swiggy.presentation.food.v2.Restaurant",
+              "info": {
+                "id": "143460",
+                "name": "Om Sai Fast Food",
+                "cloudinaryImageId": "ogey3dxtt1tz3xump9hm",
+                "locality": "Athwa",
+                "areaName": "Piplod",
+                "costForTwo": "\u20b9200 for two",
+                "cuisines": [
+                  "Fast Food",
+                  "Burgers",
+                  "Pizzas",
+                  "Beverages"
+                ],
+                "avgRating": 3.5,
+                "veg": true,
+                "parentId": "151731",
+                "avgRatingString": "3.5",
+                "totalRatingsString": "915",
+                "sla": {
+                  "deliveryTime": 43,
+                  "lastMileTravel": 6.6,
+                  "serviceability": "SERVICEABLE",
+                  "slaString": "40-45 mins",
+                  "lastMileTravelString": "6.6 km",
+                  "iconType": "ICON_TYPE_EMPTY"
+                },
+                "availability": {
+                  "nextCloseTime": "2026-04-04 05:59:00",
+                  "opened": true
+                },
+                "badges": {
+                  "imageBadges": [
+                    {
+                      "imageId": "v1695133679/badges/Pure_Veg111.png",
+                      "description": "pureveg"
+                    }
+                  ]
+                },
+                "isOpen": true,
+                "type": "F",
+                "badgesV2": {
+                  "entityBadges": {
+                    "imageBased": {
+                      "badgeObject": [
+                        {
+                          "attributes": {
+                            "description": "pureveg",
+                            "imageId": "v1695133679/badges/Pure_Veg111.png",
+                            "theme": "light"
+                          }
+                        }
+                      ]
+                    },
+                    "textBased": {},
+                    "textExtendedBadges": {}
+                  }
+                },
+                "aggregatedDiscountInfoV3": {
+                  "header": "ITEMS",
+                  "subHeader": "AT \u20b999"
+                },
+                "orderabilityCommunication": {
+                  "title": {},
+                  "subTitle": {},
+                  "message": {},
+                  "customIcon": {}
+                },
+                "differentiatedUi": {
+                  "displayType": "ADS_UI_DISPLAY_TYPE_ENUM_DEFAULT",
+                  "differentiatedUiMediaDetails": {
+                    "mediaType": "ADS_MEDIA_ENUM_IMAGE",
+                    "lottie": {},
+                    "video": {}
+                  }
+                },
+                "reviewsSummary": {},
+                "displayType": "RESTAURANT_DISPLAY_TYPE_DEFAULT",
+                "restaurantOfferPresentationInfo": {},
+                "externalRatings": {
+                  "aggregatedRating": {
+                    "rating": "2.4",
+                    "ratingCount": "25"
+                  },
+                  "source": "GOOGLE",
+                  "sourceIconImageId": "v1704440323/google_ratings/rating_google_tag"
+                },
+                "ratingsDisplayPreference": "RATINGS_DISPLAY_PREFERENCE_SHOW_SWIGGY"
+              },
+              "analytics": {
+                "context": "seo-data-a959c6ec-4ee6-47d2-a0ca-b1e8e323493b"
+              },
+              "cta": {
+                "link": "https://www.swiggy.com/city/surat/om-sai-fast-food-athwa-piplod-rest143460",
+                "text": "RESTAURANT_MENU",
+                "type": "WEBLINK"
+              },
+              "widgetId": "collectionV5RestaurantListWidget_SimRestoRelevance_food_seo"
+            },
+            {
+              "@type": "type.googleapis.com/swiggy.presentation.food.v2.Restaurant",
+              "info": {
+                "id": "438397",
+                "name": "Sai Fast Food",
+                "cloudinaryImageId": "r49vsqma4ttlwl3cwvbi",
+                "locality": "Ghod Dod Road",
+                "areaName": "Piplod",
+                "costForTwo": "\u20b9200 for two",
+                "cuisines": [
+                  "Italian",
+                  "Beverages"
+                ],
+                "avgRating": 3.8,
+                "veg": true,
+                "parentId": "175062",
+                "avgRatingString": "3.8",
+                "totalRatingsString": "308",
+                "sla": {
+                  "deliveryTime": 46,
+                  "lastMileTravel": 6.6,
+                  "serviceability": "SERVICEABLE",
+                  "slaString": "45-50 mins",
+                  "lastMileTravelString": "6.6 km",
+                  "iconType": "ICON_TYPE_EMPTY"
+                },
+                "availability": {
+                  "nextCloseTime": "2026-04-04 05:59:00",
+                  "opened": true
+                },
+                "badges": {
+                  "imageBadges": [
+                    {
+                      "imageId": "v1695133679/badges/Pure_Veg111.png",
+                      "description": "pureveg"
+                    }
+                  ]
+                },
+                "isOpen": true,
+                "type": "F",
+                "badgesV2": {
+                  "entityBadges": {
+                    "imageBased": {
+                      "badgeObject": [
+                        {
+                          "attributes": {
+                            "description": "pureveg",
+                            "imageId": "v1695133679/badges/Pure_Veg111.png",
+                            "theme": "light"
+                          }
+                        }
+                      ]
+                    },
+                    "textBased": {},
+                    "textExtendedBadges": {}
+                  }
+                },
+                "aggregatedDiscountInfoV3": {
+                  "header": "ITEMS",
+                  "subHeader": "AT \u20b999"
+                },
+                "orderabilityCommunication": {
+                  "title": {},
+                  "subTitle": {},
+                  "message": {},
+                  "customIcon": {}
+                },
+                "differentiatedUi": {
+                  "displayType": "ADS_UI_DISPLAY_TYPE_ENUM_DEFAULT",
+                  "differentiatedUiMediaDetails": {
+                    "mediaType": "ADS_MEDIA_ENUM_IMAGE",
+                    "lottie": {},
+                    "video": {}
+                  }
+                },
+                "reviewsSummary": {},
+                "displayType": "RESTAURANT_DISPLAY_TYPE_DEFAULT",
+                "restaurantOfferPresentationInfo": {},
+                "externalRatings": {
+                  "aggregatedRating": {
+                    "rating": "--"
+                  }
+                },
+                "ratingsDisplayPreference": "RATINGS_DISPLAY_PREFERENCE_SHOW_SWIGGY"
+              },
+              "analytics": {
+                "context": "seo-data-a959c6ec-4ee6-47d2-a0ca-b1e8e323493b"
+              },
+              "cta": {
+                "link": "https://www.swiggy.com/city/surat/sai-fast-food-ghod-dod-road-piplod-rest438397",
+                "text": "RESTAURANT_MENU",
+                "type": "WEBLINK"
+              },
+              "widgetId": "collectionV5RestaurantListWidget_SimRestoRelevance_food_seo"
+            },
+            {
+              "@type": "type.googleapis.com/swiggy.presentation.food.v2.Restaurant",
+              "info": {
+                "id": "204234",
+                "name": "Limited Food",
+                "cloudinaryImageId": "xbdsz6wlly2osw85kymj",
+                "locality": "Rander Road",
+                "areaName": "Rander",
+                "costForTwo": "\u20b9300 for two",
+                "cuisines": [
+                  "Fast Food"
+                ],
+                "avgRating": 4.1,
+                "veg": true,
+                "parentId": "125221",
+                "avgRatingString": "4.1",
+                "totalRatingsString": "115",
+                "sla": {
+                  "deliveryTime": 41,
+                  "lastMileTravel": 7.5,
+                  "serviceability": "SERVICEABLE",
+                  "slaString": "40-45 mins",
+                  "lastMileTravelString": "7.5 km",
+                  "iconType": "ICON_TYPE_EMPTY"
+                },
+                "availability": {
+                  "nextCloseTime": "2026-04-03 21:00:00",
+                  "opened": true
+                },
+                "badges": {
+                  "imageBadges": [
+                    {
+                      "imageId": "v1695133679/badges/Pure_Veg111.png",
+                      "description": "pureveg"
+                    }
+                  ]
+                },
+                "isOpen": true,
+                "type": "F",
+                "badgesV2": {
+                  "entityBadges": {
+                    "imageBased": {
+                      "badgeObject": [
+                        {
+                          "attributes": {
+                            "description": "pureveg",
+                            "imageId": "v1695133679/badges/Pure_Veg111.png",
+                            "theme": "light"
+                          }
+                        }
+                      ]
+                    },
+                    "textBased": {},
+                    "textExtendedBadges": {}
+                  }
+                },
+                "aggregatedDiscountInfoV3": {
+                  "header": "ITEMS",
+                  "subHeader": "AT \u20b929"
+                },
+                "orderabilityCommunication": {
+                  "title": {},
+                  "subTitle": {},
+                  "message": {},
+                  "customIcon": {}
+                },
+                "differentiatedUi": {
+                  "displayType": "ADS_UI_DISPLAY_TYPE_ENUM_DEFAULT",
+                  "differentiatedUiMediaDetails": {
+                    "mediaType": "ADS_MEDIA_ENUM_IMAGE",
+                    "lottie": {},
+                    "video": {}
+                  }
+                },
+                "reviewsSummary": {},
+                "displayType": "RESTAURANT_DISPLAY_TYPE_DEFAULT",
+                "restaurantOfferPresentationInfo": {},
+                "externalRatings": {
+                  "aggregatedRating": {
+                    "rating": "--"
+                  }
+                },
+                "ratingsDisplayPreference": "RATINGS_DISPLAY_PREFERENCE_SHOW_SWIGGY"
+              },
+              "analytics": {
+                "context": "seo-data-a959c6ec-4ee6-47d2-a0ca-b1e8e323493b"
+              },
+              "cta": {
+                "link": "https://www.swiggy.com/city/surat/limited-food-road-rander-rest204234",
+                "text": "RESTAURANT_MENU",
+                "type": "WEBLINK"
+              },
+              "widgetId": "collectionV5RestaurantListWidget_SimRestoRelevance_food_seo"
+            }
+          ]
+        }
+      }
+    },
+    {
+      "card": {
+        "card": {
+          "dishes": [
+            {
+              "card": {
+                "card": {
+                  "dish": {
+                    "info": {
+                      "id": "d_78254_Milk",
+                      "name": "Milkshakes",
+                      "category": "Milkshakes",
+                      "restaurant": {
+                        "info": {
+                          "id": "78254",
+                          "name": "B Creamy By Bismillah",
+                          "sla": {
+                            "deliveryTime": 43,
+                            "lastMileTravel": 8.1,
+                            "serviceability": "SERVICEABLE",
+                            "slaString": "40-45 mins",
+                            "lastMileTravelString": "8.1 km",
+                            "iconType": "ICON_TYPE_EMPTY"
+                          }
+                        }
+                      },
+                      "imageId": "e9ae2a83e3390411cac68abc76004585",
+                      "isVeg": 1,
+                      "price": 15000
+                    }
+                  }
+                }
+              }
+            },
+            {
+              "card": {
+                "card": {
+                  "dish": {
+                    "info": {
+                      "id": "d_78254_Ice ",
+                      "name": "Ice Cream",
+                      "category": "Ice Cream",
+                      "restaurant": {
+                        "info": {
+                          "id": "78254",
+                          "name": "B Creamy By Bismillah",
+                          "sla": {
+                            "deliveryTime": 43,
+                            "lastMileTravel": 8.1,
+                            "serviceability": "SERVICEABLE",
+                            "slaString": "40-45 mins",
+                            "lastMileTravelString": "8.1 km",
+                            "iconType": "ICON_TYPE_EMPTY"
+                          }
+                        }
+                      },
+                      "imageId": "e9ae2a83e3390411cac68abc76004585",
+                      "isVeg": 1,
+                      "price": 15000
+                    }
+                  }
+                }
+              }
+            },
+            {
+              "card": {
+                "card": {
+                  "dish": {
+                    "info": {
+                      "id": "d_143715_Guja",
+                      "name": "Gujarati",
+                      "category": "Gujarati",
+                      "restaurant": {
+                        "info": {
+                          "id": "143715",
+                          "name": "Jalaram Locho & Khaman",
+                          "sla": {
+                            "deliveryTime": 31,
+                            "lastMileTravel": 3.9,
+                            "serviceability": "SERVICEABLE",
+                            "slaString": "29-34 mins",
+                            "lastMileTravelString": "3.9 km",
+                            "iconType": "ICON_TYPE_EMPTY"
+                          }
+                        }
+                      },
+                      "imageId": "ewbovsuylb8e3ow3gcf2",
+                      "isVeg": 1,
+                      "price": 15000
+                    }
+                  }
+                }
+              }
+            },
+            {
+              "card": {
+                "card": {
+                  "dish": {
+                    "info": {
+                      "id": "d_143715_Snac",
+                      "name": "Snacks",
+                      "category": "Snacks",
+                      "restaurant": {
+                        "info": {
+                          "id": "143715",
+                          "name": "Jalaram Locho & Khaman",
+                          "sla": {
+                            "deliveryTime": 31,
+                            "lastMileTravel": 3.9,
+                            "serviceability": "SERVICEABLE",
+                            "slaString": "29-34 mins",
+                            "lastMileTravelString": "3.9 km",
+                            "iconType": "ICON_TYPE_EMPTY"
+                          }
+                        }
+                      },
+                      "imageId": "ewbovsuylb8e3ow3gcf2",
+                      "isVeg": 1,
+                      "price": 15000
+                    }
+                  }
+                }
+              }
+            },
+            {
+              "card": {
+                "card": {
+                  "dish": {
+                    "info": {
+                      "id": "d_577252_Guja",
+                      "name": "Gujarati",
+                      "category": "Gujarati",
+                      "restaurant": {
+                        "info": {
+                          "id": "577252",
+                          "name": "Jalaram Locho & Rasawala Khaman",
+                          "sla": {
+                            "deliveryTime": 27,
+                            "lastMileTravel": 3.9,
+                            "serviceability": "SERVICEABLE",
+                            "slaString": "24-29 mins",
+                            "lastMileTravelString": "3.9 km",
+                            "iconType": "ICON_TYPE_EMPTY"
+                          }
+                        }
+                      },
+                      "imageId": "lzcmkkk8z0tv4hw9kquz",
+                      "isVeg": 1,
+                      "price": 15000
+                    }
+                  }
+                }
+              }
+            },
+            {
+              "card": {
+                "card": {
+                  "dish": {
+                    "info": {
+                      "id": "d_577252_Snac",
+                      "name": "Snacks",
+                      "category": "Snacks",
+                      "restaurant": {
+                        "info": {
+                          "id": "577252",
+                          "name": "Jalaram Locho & Rasawala Khaman",
+                          "sla": {
+                            "deliveryTime": 27,
+                            "lastMileTravel": 3.9,
+                            "serviceability": "SERVICEABLE",
+                            "slaString": "24-29 mins",
+                            "lastMileTravelString": "3.9 km",
+                            "iconType": "ICON_TYPE_EMPTY"
+                          }
+                        }
+                      },
+                      "imageId": "lzcmkkk8z0tv4hw9kquz",
+                      "isVeg": 1,
+                      "price": 15000
+                    }
+                  }
+                }
+              }
+            },
+            {
+              "card": {
+                "card": {
+                  "dish": {
+                    "info": {
+                      "id": "d_694195_Ice ",
+                      "name": "Ice Cream Cakes",
+                      "category": "Ice Cream Cakes",
+                      "restaurant": {
+                        "info": {
+                          "id": "694195",
+                          "name": "Gourmet Ice Cream Cakes by Baskin Robbins",
+                          "sla": {
+                            "deliveryTime": 38,
+                            "lastMileTravel": 9.1,
+                            "serviceability": "SERVICEABLE",
+                            "slaString": "35-40 mins",
+                            "lastMileTravelString": "9.1 km",
+                            "iconType": "ICON_TYPE_EMPTY"
+                          }
+                        }
+                      },
+                      "imageId": "RX_THUMBNAIL/IMAGES/VENDOR/2025/2/12/59f05d77-868a-4e25-b57a-7688ca37dea1_694195.JPG",
+                      "isVeg": 1,
+                      "price": 15000
+                    }
+                  }
+                }
+              }
+            },
+            {
+              "card": {
+                "card": {
+                  "dish": {
+                    "info": {
+                      "id": "d_694195_Dess",
+                      "name": "Desserts",
+                      "category": "Desserts",
+                      "restaurant": {
+                        "info": {
+                          "id": "694195",
+                          "name": "Gourmet Ice Cream Cakes by Baskin Robbins",
+                          "sla": {
+                            "deliveryTime": 38,
+                            "lastMileTravel": 9.1,
+                            "serviceability": "SERVICEABLE",
+                            "slaString": "35-40 mins",
+                            "lastMileTravelString": "9.1 km",
+                            "iconType": "ICON_TYPE_EMPTY"
+                          }
+                        }
+                      },
+                      "imageId": "RX_THUMBNAIL/IMAGES/VENDOR/2025/2/12/59f05d77-868a-4e25-b57a-7688ca37dea1_694195.JPG",
+                      "isVeg": 1,
+                      "price": 15000
+                    }
+                  }
+                }
+              }
+            },
+            {
+              "card": {
+                "card": {
+                  "dish": {
+                    "info": {
+                      "id": "d_694194_Dess",
+                      "name": "Desserts",
+                      "category": "Desserts",
+                      "restaurant": {
+                        "info": {
+                          "id": "694194",
+                          "name": "Baskin Robbins - Ice Cream Desserts",
+                          "sla": {
+                            "deliveryTime": 41,
+                            "lastMileTravel": 9.1,
+                            "serviceability": "SERVICEABLE",
+                            "slaString": "40-45 mins",
+                            "lastMileTravelString": "9.1 km",
+                            "iconType": "ICON_TYPE_EMPTY"
+                          }
+                        }
+                      },
+                      "imageId": "RX_THUMBNAIL/IMAGES/VENDOR/2025/4/24/8853ccf2-4789-4d7a-b6d2-00e549c8ed0e_694194.JPG",
+                      "isVeg": 1,
+                      "price": 15000
+                    }
+                  }
+                }
+              }
+            },
+            {
+              "card": {
+                "card": {
+                  "dish": {
+                    "info": {
+                      "id": "d_694194_Ice ",
+                      "name": "Ice Cream",
+                      "category": "Ice Cream",
+                      "restaurant": {
+                        "info": {
+                          "id": "694194",
+                          "name": "Baskin Robbins - Ice Cream Desserts",
+                          "sla": {
+                            "deliveryTime": 41,
+                            "lastMileTravel": 9.1,
+                            "serviceability": "SERVICEABLE",
+                            "slaString": "40-45 mins",
+                            "lastMileTravelString": "9.1 km",
+                            "iconType": "ICON_TYPE_EMPTY"
+                          }
+                        }
+                      },
+                      "imageId": "RX_THUMBNAIL/IMAGES/VENDOR/2025/4/24/8853ccf2-4789-4d7a-b6d2-00e549c8ed0e_694194.JPG",
+                      "isVeg": 1,
+                      "price": 15000
+                    }
+                  }
+                }
+              }
+            },
+            {
+              "card": {
+                "card": {
+                  "dish": {
+                    "info": {
+                      "id": "d_694196_Beve",
+                      "name": "Beverages",
+                      "category": "Beverages",
+                      "restaurant": {
+                        "info": {
+                          "id": "694196",
+                          "name": "Baskin Robbins Happyness Shakes",
+                          "sla": {
+                            "deliveryTime": 45,
+                            "lastMileTravel": 9.1,
+                            "serviceability": "SERVICEABLE",
+                            "slaString": "40-45 mins",
+                            "lastMileTravelString": "9.1 km",
+                            "iconType": "ICON_TYPE_EMPTY"
+                          }
+                        }
+                      },
+                      "imageId": "RX_THUMBNAIL/IMAGES/VENDOR/2025/2/12/12bcd836-86a8-4997-8efa-3f9132b36ac6_694196.jpg",
+                      "isVeg": 1,
+                      "price": 15000
+                    }
+                  }
+                }
+              }
+            },
+            {
+              "card": {
+                "card": {
+                  "dish": {
+                    "info": {
+                      "id": "d_694196_Dess",
+                      "name": "Desserts",
+                      "category": "Desserts",
+                      "restaurant": {
+                        "info": {
+                          "id": "694196",
+                          "name": "Baskin Robbins Happyness Shakes",
+                          "sla": {
+                            "deliveryTime": 45,
+                            "lastMileTravel": 9.1,
+                            "serviceability": "SERVICEABLE",
+                            "slaString": "40-45 mins",
+                            "lastMileTravelString": "9.1 km",
+                            "iconType": "ICON_TYPE_EMPTY"
+                          }
+                        }
+                      },
+                      "imageId": "RX_THUMBNAIL/IMAGES/VENDOR/2025/2/12/12bcd836-86a8-4997-8efa-3f9132b36ac6_694196.jpg",
+                      "isVeg": 1,
+                      "price": 15000
+                    }
+                  }
+                }
+              }
+            },
+            {
+              "card": {
+                "card": {
+                  "dish": {
+                    "info": {
+                      "id": "d_228880_Guja",
+                      "name": "Gujarati",
+                      "category": "Gujarati",
+                      "restaurant": {
+                        "info": {
+                          "id": "228880",
+                          "name": " Jalasai Locho & Khaman",
+                          "sla": {
+                            "deliveryTime": 28,
+                            "lastMileTravel": 3.9,
+                            "serviceability": "SERVICEABLE",
+                            "slaString": "24-29 mins",
+                            "lastMileTravelString": "3.9 km",
+                            "iconType": "ICON_TYPE_EMPTY"
+                          }
+                        }
+                      },
+                      "imageId": "w7alozosyqmbniqxyzao",
+                      "isVeg": 1,
+                      "price": 15000
+                    }
+                  }
+                }
+              }
+            },
+            {
+              "card": {
+                "card": {
+                  "dish": {
+                    "info": {
+                      "id": "d_228880_Snac",
+                      "name": "Snacks",
+                      "category": "Snacks",
+                      "restaurant": {
+                        "info": {
+                          "id": "228880",
+                          "name": " Jalasai Locho & Khaman",
+                          "sla": {
+                            "deliveryTime": 28,
+                            "lastMileTravel": 3.9,
+                            "serviceability": "SERVICEABLE",
+                            "slaString": "24-29 mins",
+                            "lastMileTravelString": "3.9 km",
+                            "iconType": "ICON_TYPE_EMPTY"
+                          }
+                        }
+                      },
+                      "imageId": "w7alozosyqmbniqxyzao",
+                      "isVeg": 1,
+                      "price": 15000
+                    }
+                  }
+                }
+              }
+            },
+            {
+              "card": {
+                "card": {
+                  "dish": {
+                    "info": {
+                      "id": "d_175281_Guja",
+                      "name": "Gujarati",
+                      "category": "Gujarati",
+                      "restaurant": {
+                        "info": {
+                          "id": "175281",
+                          "name": "Jalaram Locho & Khaman",
+                          "sla": {
+                            "deliveryTime": 34,
+                            "lastMileTravel": 3.9,
+                            "serviceability": "SERVICEABLE",
+                            "slaString": "34-44 mins",
+                            "lastMileTravelString": "3.9 km",
+                            "iconType": "ICON_TYPE_EMPTY"
+                          }
+                        }
+                      },
+                      "imageId": "ilmplqyvasqq0igkmobz",
+                      "isVeg": 1,
+                      "price": 15000
+                    }
+                  }
+                }
+              }
+            },
+            {
+              "card": {
+                "card": {
+                  "dish": {
+                    "info": {
+                      "id": "d_175281_Snac",
+                      "name": "Snacks",
+                      "category": "Snacks",
+                      "restaurant": {
+                        "info": {
+                          "id": "175281",
+                          "name": "Jalaram Locho & Khaman",
+                          "sla": {
+                            "deliveryTime": 34,
+                            "lastMileTravel": 3.9,
+                            "serviceability": "SERVICEABLE",
+                            "slaString": "34-44 mins",
+                            "lastMileTravelString": "3.9 km",
+                            "iconType": "ICON_TYPE_EMPTY"
+                          }
+                        }
+                      },
+                      "imageId": "ilmplqyvasqq0igkmobz",
+                      "isVeg": 1,
+                      "price": 15000
+                    }
+                  }
+                }
+              }
+            },
+            {
+              "card": {
+                "card": {
+                  "dish": {
+                    "info": {
+                      "id": "d_106965_Guja",
+                      "name": "Gujarati",
+                      "category": "Gujarati",
+                      "restaurant": {
+                        "info": {
+                          "id": "106965",
+                          "name": "Gayatri Khaman Gitanjali Wala",
+                          "sla": {
+                            "deliveryTime": 18,
+                            "lastMileTravel": 1.7,
+                            "serviceability": "SERVICEABLE",
+                            "slaString": "15-20 mins",
+                            "lastMileTravelString": "1.7 km",
+                            "iconType": "ICON_TYPE_EMPTY"
+                          }
+                        }
+                      },
+                      "imageId": "opqyakkwab1umhdxkzjg",
+                      "isVeg": 1,
+                      "price": 15000
+                    }
+                  }
+                }
+              }
+            },
+            {
+              "card": {
+                "card": {
+                  "dish": {
+                    "info": {
+                      "id": "d_503928_Stre",
+                      "name": "Street Food",
+                      "category": "Street Food",
+                      "restaurant": {
+                        "info": {
+                          "id": "503928",
+                          "name": "Sai Nath Live Aalu Puri",
+                          "sla": {
+                            "deliveryTime": 52,
+                            "lastMileTravel": 7.5,
+                            "serviceability": "SERVICEABLE",
+                            "slaString": "50-60 mins",
+                            "lastMileTravelString": "7.5 km",
+                            "iconType": "ICON_TYPE_EMPTY"
+                          }
+                        }
+                      },
+                      "imageId": "nt4yilydctcte8xx0sik",
+                      "isVeg": 1,
+                      "price": 15000
+                    }
+                  }
+                }
+              }
+            },
+            {
+              "card": {
+                "card": {
+                  "dish": {
+                    "info": {
+                      "id": "d_503928_Snac",
+                      "name": "Snacks",
+                      "category": "Snacks",
+                      "restaurant": {
+                        "info": {
+                          "id": "503928",
+                          "name": "Sai Nath Live Aalu Puri",
+                          "sla": {
+                            "deliveryTime": 52,
+                            "lastMileTravel": 7.5,
+                            "serviceability": "SERVICEABLE",
+                            "slaString": "50-60 mins",
+                            "lastMileTravelString": "7.5 km",
+                            "iconType": "ICON_TYPE_EMPTY"
+                          }
+                        }
+                      },
+                      "imageId": "nt4yilydctcte8xx0sik",
+                      "isVeg": 1,
+                      "price": 15000
+                    }
+                  }
+                }
+              }
+            },
+            {
+              "card": {
+                "card": {
+                  "dish": {
+                    "info": {
+                      "id": "d_1280915_Punj",
+                      "name": "Punjabi",
+                      "category": "Punjabi",
+                      "restaurant": {
+                        "info": {
+                          "id": "1280915",
+                          "name": "Punjabi Swaad",
+                          "sla": {
+                            "deliveryTime": 54,
+                            "lastMileTravel": 7.4,
+                            "serviceability": "SERVICEABLE",
+                            "slaString": "50-60 mins",
+                            "lastMileTravelString": "7.4 km",
+                            "iconType": "ICON_TYPE_EMPTY"
+                          }
+                        }
+                      },
+                      "imageId": "RX_THUMBNAIL/IMAGES/VENDOR/2025/12/8/36ac0f5e-145d-4efa-ae85-93d6ff0154fc_1280915.jpg",
+                      "isVeg": 1,
+                      "price": 15000
+                    }
+                  }
+                }
+              }
+            }
+          ]
+        }
+      }
+    }
+  ]
+}

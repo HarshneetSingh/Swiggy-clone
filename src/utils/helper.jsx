@@ -1,5 +1,5 @@
 import { useContext, useEffect, useState } from "react";
-import { useOutletContext, useSearchParams, useLocation, useHistory } from "react-router-dom";
+import { useOutletContext, useSearchParams, useLocation } from "react-router-dom";
 import LocationContext from "./LocationContext";
 import SortFilterContext from "./SortFilterContext";
 import MenuCard from "../components/body/bodyInnerComps/RestaurantMenuUi/MenuCard";
@@ -18,41 +18,48 @@ export const  SideCardShimmer=(props) =>{
 export const CardShimmer = () => {
     return (
         <>
-            <div className="w-64">
+            <div className="w-full">
                 <div className="w-full mb-5 h-40 bg-shimmerColor" ></div>
                 <div className="w-2/4 my-3 h-tenpx bg-shimmerColor"></div>
                 <div className="w-2/5  h-tenpx bg-shimmerColor"></div>
-
             </div>
-
         </>
     )
 }
-export const loadMenu = (card) => {
+export const loadMenu = (card, restaurantName) => {
     const item = card?.card?.info
     return (
         <>
-            <MenuCard item={item} />
+            <MenuCard item={item} restaurantName={restaurantName} />
             <hr className='my-5 mt-10' />
-
         </>
-
     )
 }
 export const filterData = (allRestaurants, input) => {
 
     let result = allRestaurants.filter((restaurant) => {
 
-        return restaurant?.data?.data?.name?.toLowerCase()?.includes(input?.toLowerCase());
+        return restaurant?.info?.name?.toLowerCase()?.includes(input?.toLowerCase());
     })
 
     return result;
 }
-export const restroSorting = async (sortKey, setFilteredRestaurants, location, filter) => {
+const SORT_MOCKS = {
+    relevance: () => import('../mocks/sort_relevance.json'),
+    deliveryTimeAsc: () => import('../mocks/sort_deliveryTimeAsc.json'),
+    modelBasedRatingDesc: () => import('../mocks/sort_modelBasedRatingDesc.json'),
+    costForTwoAsc: () => import('../mocks/sort_costForTwoAsc.json'),
+    costForTwoDesc: () => import('../mocks/sort_costForTwoDesc.json'),
+}
 
-    const data = await fetch(` https://www.swiggy.com/dapi/restaurants/list/v5?lat=${location.lat}&lng=${location.lng}&sortBy=${sortKey}${(filter === undefined) ? '' : "&filters=" + filter}&page_type=DESKTOP_WEB_LISTING`)
-    const json = await data.json();
-    setFilteredRestaurants(json?.data);
+export const restroSorting = async (sortKey, setFilteredRestaurants, location, filter) => {
+    const key = sortKey || 'relevance'
+    const loader = SORT_MOCKS[key] || SORT_MOCKS['relevance']
+    const mod = await loader()
+    const json = mod.default || mod
+    if (json?.data) {
+        setFilteredRestaurants(json.data)
+    }
 }
 export const searchLogo = <svg viewBox="5 -1 12 25" height="17" width="17" ><path d="M17.6671481,17.1391632 L22.7253317,22.1973467 L20.9226784,24 L15.7041226,18.7814442 C14.1158488,19.8024478 12.225761,20.3946935 10.1973467,20.3946935 C4.56550765,20.3946935 0,15.8291858 0,10.1973467 C0,4.56550765 4.56550765,0 10.1973467,0 C15.8291858,0 20.3946935,4.56550765 20.3946935,10.1973467 C20.3946935,12.8789625 19.3595949,15.3188181 17.6671481,17.1391632 Z M10.1973467,17.8453568 C14.4212261,17.8453568 17.8453568,14.4212261 17.8453568,10.1973467 C17.8453568,5.97346742 14.4212261,2.54933669 10.1973467,2.54933669 C5.97346742,2.54933669 2.54933669,5.97346742 2.54933669,10.1973467 C2.54933669,14.4212261 5.97346742,17.8453568 10.1973467,17.8453568 Z"></path></svg>
 

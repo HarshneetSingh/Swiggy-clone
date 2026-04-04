@@ -1,0 +1,251 @@
+{
+  "statusCode": 0,
+  "data": {
+    "statusMessage": "done successfully",
+    "cards": [
+      {
+        "card": {
+          "card": {
+            "@type": "type.googleapis.com/swiggy.gandalf.widgets.v2.TextBoxV2",
+            "text": "Sai Nath Live Aalu Puri"
+          }
+        }
+      },
+      {
+        "card": {
+          "card": {
+            "@type": "type.googleapis.com/swiggy.gandalf.widgets.v2.RestaurantBlTab",
+            "tabs": [{ "id": "Order Online", "title": "Order Online" }]
+          }
+        }
+      },
+      {
+        "card": {
+          "card": {
+            "@type": "type.googleapis.com/swiggy.presentation.food.v2.Restaurant",
+            "info": {
+              "id": "503928",
+              "name": "Sai Nath Live Aalu Puri",
+              "cloudinaryImageId": "nt4yilydctcte8xx0sik",
+              "locality": "Mahavir Nagar",
+              "areaName": "Rander",
+              "costForTwo": "₹200 for two",
+              "costForTwoMessage": "₹200 for two",
+              "cuisines": ["Street Food", "Snacks"],
+              "avgRating": 4.3,
+              "avgRatingString": "4.3",
+              "totalRatingsString": "500 ratings",
+              "sla": {
+                "deliveryTime": 49,
+                "slaString": "45-50 MINS",
+                "lastMileTravelString": "7.5 km"
+              },
+              "feeDetails": {
+                "icon": "fees_dish",
+                "message": "₹30 Delivery fee"
+              }
+            }
+          }
+        }
+      },
+      {
+        "card": {
+          "card": {
+            "@type": "type.googleapis.com/swiggy.gandalf.widgets.v2.GridWidget",
+            "gridElements": {
+              "infoWithStyle": {
+                "@type": "type.googleapis.com/swiggy.presentation.food.v2.OfferInfoWithStyle",
+                "offers": [
+                  {
+                    "info": {
+                      "header": "20% OFF UPTO ₹50",
+                      "couponCode": "USE TRYNEW",
+                      "description": "ABOVE ₹159",
+                      "offerLogo": "offers/generic"
+                    }
+                  },
+                  {
+                    "info": {
+                      "header": "10% OFF UPTO ₹100",
+                      "couponCode": "USE HSBC100",
+                      "description": "ABOVE ₹799",
+                      "offerLogo": "offers/generic"
+                    }
+                  }
+                ]
+              }
+            }
+          }
+        }
+      },
+      {
+        "groupedCard": {
+          "cardGroupMap": {
+            "REGULAR": {
+              "cards": [
+                {
+                  "card": {
+                    "card": {
+                      "@type": "type.googleapis.com/swiggy.presentation.food.v2.MenuVegFilterAndBadge",
+                      "isPureVeg": true
+                    }
+                  }
+                },
+                {
+                  "card": {
+                    "card": {
+                      "@type": "type.googleapis.com/swiggy.presentation.food.v2.ItemCategory",
+                      "title": "Recommended",
+                      "itemCards": [
+                        {
+                          "card": {
+                            "@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+                            "info": {
+                              "id": "86939711",
+                              "name": "Alu Puri",
+                              "category": "Aalu Puri",
+                              "description": "A satisfying and flavorful vegetarian dish that combines soft puris with a delectable potato filling.",
+                              "imageId": "1e3e9525dbcf5ae3dc9f81ce3bfff112",
+                              "inStock": 1,
+                              "isVeg": 1,
+                              "price": 3000,
+                              "ratings": {
+                                "aggregatedRating": { "rating": "4.2", "ratingCount": "281 ratings" }
+                              }
+                            }
+                          }
+                        },
+                        {
+                          "card": {
+                            "@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+                            "info": {
+                              "id": "86939712",
+                              "name": "Cheese Alupuri",
+                              "category": "Aalu Puri",
+                              "description": "Indulge in this mouthwatering fusion of creamy cheese and flavorful Aalu Puri.",
+                              "imageId": "f5d665a321e4b6149a43171090c3dd52",
+                              "inStock": 1,
+                              "isVeg": 1,
+                              "isBestseller": true,
+                              "price": 6500,
+                              "ratings": {
+                                "aggregatedRating": { "rating": "4.5", "ratingCount": "137 ratings" }
+                              }
+                            }
+                          }
+                        },
+                        {
+                          "card": {
+                            "@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+                            "info": {
+                              "id": "86939726",
+                              "name": "Classic Maggi",
+                              "category": "Maggi",
+                              "description": "A mouthwatering and timeless veggie dish. Serves 1-2",
+                              "imageId": "636d5b68929e37488c2361ec09c3d2fe",
+                              "inStock": 1,
+                              "isVeg": 1,
+                              "isBestseller": true,
+                              "price": 6000,
+                              "ratings": {
+                                "aggregatedRating": { "rating": "4.2", "ratingCount": "17 ratings" }
+                              }
+                            }
+                          }
+                        },
+                        {
+                          "card": {
+                            "@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+                            "info": {
+                              "id": "86939722",
+                              "name": "Double Cheese Alupuri",
+                              "category": "Aalu Puri",
+                              "description": "A cheese-filled delight that combines the rich flavors of Aalu Puri.",
+                              "imageId": "fda094c55e7354b6000bfb388182a11e",
+                              "inStock": 1,
+                              "isVeg": 1,
+                              "isBestseller": true,
+                              "price": 8000,
+                              "ratings": {
+                                "aggregatedRating": { "rating": "4.3", "ratingCount": "32 ratings" }
+                              }
+                            }
+                          }
+                        }
+                      ]
+                    }
+                  }
+                },
+                {
+                  "card": {
+                    "card": {
+                      "@type": "type.googleapis.com/swiggy.presentation.food.v2.ItemCategory",
+                      "title": "Aalu Puri",
+                      "itemCards": [
+                        {
+                          "card": {
+                            "@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+                            "info": {
+                              "id": "86939713",
+                              "name": "Schezwan Alupuri",
+                              "category": "Aalu Puri",
+                              "description": "Delicious and flavorful Indian dish served with fluffy puris and a tantalizing sauce.",
+                              "imageId": "1827a7c5940b724c852feb0697a1997c",
+                              "inStock": 1,
+                              "isVeg": 1,
+                              "price": 4000,
+                              "ratings": {
+                                "aggregatedRating": { "rating": "3.8", "ratingCount": "22 ratings" }
+                              }
+                            }
+                          }
+                        },
+                        {
+                          "card": {
+                            "@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+                            "info": {
+                              "id": "86939715",
+                              "name": "Crunchy Alupuri",
+                              "category": "Aalu Puri",
+                              "description": "A mouthwatering combination of crispy and flavorful puris.",
+                              "imageId": "d7838348b0209a176399066c882c0d27",
+                              "inStock": 1,
+                              "isVeg": 1,
+                              "price": 4000,
+                              "ratings": {
+                                "aggregatedRating": { "rating": "4.5", "ratingCount": "93 ratings" }
+                              }
+                            }
+                          }
+                        }
+                      ]
+                    }
+                  }
+                },
+                {
+                  "card": {
+                    "card": {
+                      "@type": "type.googleapis.com/swiggy.presentation.food.v2.RestaurantLicenseInfo",
+                      "imageId": "fssai_final_ckf0id",
+                      "text": "FSSAI Lic. No. 10016011003099"
+                    }
+                  }
+                },
+                {
+                  "card": {
+                    "card": {
+                      "@type": "type.googleapis.com/swiggy.presentation.food.v2.RestaurantAddress",
+                      "name": "Sai Nath Live Aalu Puri",
+                      "area": "Rander",
+                      "completeAddress": "SHOP NO 1 SEJAL COMPLEX MAHAVIR NAGAR RUPALI CINEMA RAM NAGAR SURAT"
+                    }
+                  }
+                }
+              ]
+            }
+          }
+        }
+      }
+    ]
+  }
+}

@@ -12,7 +12,7 @@ const OfferColumn = (props) => {
               const cardDetail = card?.data
               return (
 
-                <Link to={`collections/${cardDetail?.link}?type=rcv2`} key={cardDetail?.bannerId}><div className=' w-[260] animate-[fadeIn_100ms_linear_1] h-[260] hover:scale-105 hover:duration-700 hover:transition-[cubic-bezier(0.22, 0.61, 0.36, 1)] hover:ease-in-out'><img src={`https://res.cloudinary.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_520,h_520/${cardDetail?.creativeId}`} alt="" /></div></Link>
+                <Link to={`collections/${cardDetail?.link}?type=rcv2`} key={cardDetail?.bannerId}><div className='w-[260px] animate-[fadeIn_100ms_linear_1] h-[260px] hover:scale-105 hover:duration-700 hover:transition-[cubic-bezier(0.22, 0.61, 0.36, 1)] hover:ease-in-out'><img src={`https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_520,h_520/${cardDetail?.creativeId}`} alt="" onError={(e) => { e.target.onerror = null; e.target.style.visibility = 'hidden' }} /></div></Link>
 
               )
             })

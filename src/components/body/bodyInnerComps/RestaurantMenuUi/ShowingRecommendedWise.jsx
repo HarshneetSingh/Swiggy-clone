@@ -2,10 +2,9 @@ import React, { useState } from 'react'
 import { loadMenu } from '../../../../utils/helper'
 
 const ShowingRecommendedWise = (props) => {
-    const { topPicks, Title, itemCards, index, showVeg } = props
+    const { topPicks, Title, itemCards, index, showVeg, restaurantName } = props
     const [isVisible, setIsVisible] = useState(true)
     const VegCard = itemCards?.filter((card) => card?.card?.info?.itemAttribute?.vegClassifier === 'VEG')
-    console.log(VegCard)
     return (
         <>
 
@@ -28,9 +27,9 @@ const ShowingRecommendedWise = (props) => {
                     {
                         (isVisible)
                             ? (showVeg) ? VegCard.map((card) => {
-                              return <div key={card?.card?.info?.id}>{ loadMenu(card)}</div>
+                              return <div key={card?.card?.info?.id}>{ loadMenu(card, restaurantName)}</div>
                             }) : itemCards.map((card) => {
-                               return <div key={card?.card?.info?.id}>{ loadMenu(card)}</div>
+                               return <div key={card?.card?.info?.id}>{ loadMenu(card, restaurantName)}</div>
                             })
                             :
                             ""

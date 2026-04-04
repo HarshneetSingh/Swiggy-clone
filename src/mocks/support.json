@@ -1,0 +1,12 @@
+{
+  "issueTypes": {
+    "data": [
+      { "type": "my-orders", "title": "My Orders" },
+      { "type": "payment-issues", "title": "Payment Issues" },
+      { "type": "account-issues", "title": "Account Issues" },
+      { "type": "swiggy-one", "title": "Swiggy One" },
+      { "type": "partner-onboarding", "title": "Partner Onboarding" },
+      { "type": "contact-us", "title": "Contact Us" }
+    ]
+  }
+}

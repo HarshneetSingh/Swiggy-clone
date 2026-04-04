@@ -2,7 +2,7 @@ import React, { useState } from 'react'
 import { loadMenu } from '../../../../utils/helper'
 
 const ShowingCategoryWise = (props) => {
-    const { Title, itemCards, showVeg } = props
+    const { Title, itemCards, showVeg, restaurantName } = props
 
 
     return (
@@ -34,10 +34,10 @@ const ShowingCategoryWise = (props) => {
                             <div>
                                 {(isVisible) ?
                                     (showVeg) ? VegCard.map((card) => {
-                                        return <div key={card?.card?.info?.id}>{loadMenu(card)}</div>
+                                        return <div key={card?.card?.info?.id}>{loadMenu(card, restaurantName)}</div>
                                     }) :
                                         itemCards.map((card) => {
-                                            return <div key={card?.card?.info?.id}>{loadMenu(card)}</div>
+                                            return <div key={card?.card?.info?.id}>{loadMenu(card, restaurantName)}</div>
                                         })
                                     :
                                     ""

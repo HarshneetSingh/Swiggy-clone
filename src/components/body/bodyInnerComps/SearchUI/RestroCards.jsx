@@ -7,11 +7,11 @@ const RestroCards = (props) => {
     const Availability = info?.availability?.hasOwnProperty('opened')
 
     return (
-        <div className='w-[405px] flex h-[156px] overflow-hidden items-center bg-white ' >
+        <div className='w-full flex h-[156px] overflow-hidden items-center bg-white ' >
 
-            <Link className='flex  items-center px-4 gap-x-3 pb-5  ' to={`/restaurant/${name}-${info?.id}`}>
+            <Link className='flex  items-center px-4 gap-x-3 pb-5  ' to={`/restaurant/${name}-${info?.id}`} state={{ restaurantInfo: info }}>
                 <div className={`w-[88px] relative animate-[fadeIn_200ms_linear_1] after:content-[' hello'] after:rounded-lg    after:w-[88px] after:absolute after:top-0 after:left-0 after:right-0 after:bottom-0  after:bg-[#ebe8570c]} after:bg-blend-overlay`}>
-                    <img className='rounded-lg' src={`https://res.cloudinary.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_264,h_288,${(Availability && info?.availability?.opened === true) ? '' : 'e_grayscale,'}c_fill/${info?.cloudinaryImageId}`} alt="" />
+                    <img className='rounded-lg' src={`https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_264,h_288,${(Availability && info?.availability?.opened === true) ? '' : 'e_grayscale,'}c_fill/${info?.cloudinaryImageId}`} alt="" onError={(e) => { e.target.onerror = null; e.target.style.visibility = 'hidden' }} />
 
                     {
                         info?.promoted && (
@@ -57,7 +57,7 @@ const RestroCards = (props) => {
                                 <p className='mx-1'>•</p>
                                 <p>{info?.sla?.slaString}</p>
                                 <p className='mx-1'>•</p>
-                                <p className=''>{info?.costForTwoMessage}</p>
+                                <p className=''>{info?.costForTwo || info?.costForTwoMessage}</p>
                             </div>
                         )
                     }

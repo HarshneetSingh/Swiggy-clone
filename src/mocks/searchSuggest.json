@@ -1,0 +1,1815 @@
+{
+  "suggestions": [
+    {
+      "text": "Pizza",
+      "highlightedText": "{{Pizza}}",
+      "suggestionType": "SUGGESTION_TYPE_LOW_CONFIDENCE",
+      "type": "DISH",
+      "marketplace": {
+        "marketplaceId": "SWIGGY",
+        "businessLineId": "FOOD"
+      },
+      "tagToDisplay": "Dish",
+      "cloudinaryId": "Autosuggest/Top%20200%20queries/Pizza.png",
+      "tagToDisplayColor": "#686B78",
+      "metadata": "{\"type\":\"DISH\",\"data\":{\"vegIdentifier\":\"NA\",\"cloudinaryId\":\"Autosuggest/Top%20200%20queries/Pizza.png\",\"dishFamilyId\":\"846647\",\"dishFamilyIds\":[\"846647\"]},\"businessCategory\":\"SWIGGY_FOOD\",\"displayLabel\":\"Dish\"}",
+      "cta": {
+        "text": "Pizza",
+        "type": "DEEPLINK",
+        "link": "swiggy://explore?query=Pizza&metadata=%7B%22type%22%3A%22DISH%22%2C%22data%22%3A%7B%22vegIdentifier%22%3A%22NA%22%2C%22cloudinaryId%22%3A%22Autosuggest%2FTop%2520200%2520queries%2FPizza.png%22%2C%22dishFamilyId%22%3A%22846647%22%2C%22dishFamilyIds%22%3A%5B%22846647%22%5D%7D%2C%22businessCategory%22%3A%22SWIGGY_FOOD%22%2C%22displayLabel%22%3A%22Dish%22%7D&marketplace=%7B%22marketplaceId%22%3A%22SWIGGY%22%2C%22businessLineId%22%3A%22FOOD%22%7D"
+      },
+      "category": "Food",
+      "categoryColor": "#686B78",
+      "subCategory": "Dish",
+      "subCategoryColor": "#686B78"
+    },
+    {
+      "text": "Domino's Pizza",
+      "highlightedText": "Domino's {{Pizza}}",
+      "suggestionType": "SUGGESTION_TYPE_LOW_CONFIDENCE",
+      "type": "RESTAURANT",
+      "marketplace": {
+        "marketplaceId": "SWIGGY",
+        "businessLineId": "FOOD"
+      },
+      "tagToDisplay": "Restaurant",
+      "tagToDisplayColor": "#686B78",
+      "cloudinaryId": "RX_THUMBNAIL/IMAGES/VENDOR/2026/3/27/c3c1086d-81d6-42e4-bdba-e451ff2b530b_66585.JPG",
+      "metadata": "{\"type\":\"RESTAURANT\",\"data\":{\"parentId\":2456,\"primaryRestaurantId\":66585,\"cloudinaryId\":\"RX_THUMBNAIL/IMAGES/VENDOR/2026/3/27/c3c1086d-81d6-42e4-bdba-e451ff2b530b_66585.JPG\",\"brandId\":2456,\"dishFamilyId\":\"846647\",\"enabled_flag\":1},\"businessCategory\":\"SWIGGY_FOOD\",\"displayLabel\":\"Restaurant\"}",
+      "cta": {
+        "text": "Domino's Pizza",
+        "type": "DEEPLINK",
+        "link": "swiggy://explore?query=Domino%27s%20Pizza&metadata=%7B%22type%22%3A%22RESTAURANT%22%2C%22data%22%3A%7B%22parentId%22%3A2456%2C%22primaryRestaurantId%22%3A66585%2C%22cloudinaryId%22%3A%22RX_THUMBNAIL%2FIMAGES%2FVENDOR%2F2026%2F3%2F27%2Fc3c1086d-81d6-42e4-bdba-e451ff2b530b_66585.JPG%22%2C%22brandId%22%3A2456%2C%22dishFamilyId%22%3A%22846647%22%2C%22enabled_flag%22%3A1%7D%2C%22businessCategory%22%3A%22SWIGGY_FOOD%22%2C%22displayLabel%22%3A%22Restaurant%22%7D&marketplace=%7B%22marketplaceId%22%3A%22SWIGGY%22%2C%22businessLineId%22%3A%22FOOD%22%7D"
+      },
+      "category": "Food",
+      "categoryColor": "#686B78",
+      "subCategory": "Restaurant",
+      "subCategoryColor": "#686B78",
+      "restaurantId": 0,
+      "disabled": false
+    },
+    {
+      "text": "La Pino'z Pizza",
+      "highlightedText": "La Pino'z {{Pizza}}",
+      "suggestionType": "SUGGESTION_TYPE_LOW_CONFIDENCE",
+      "type": "RESTAURANT",
+      "marketplace": {
+        "marketplaceId": "SWIGGY",
+        "businessLineId": "FOOD"
+      },
+      "tagToDisplay": "Restaurant",
+      "tagToDisplayColor": "#686B78",
+      "cloudinaryId": "yicxiximjyxdbtjpuhmx",
+      "metadata": "{\"type\":\"RESTAURANT\",\"data\":{\"parentId\":4961,\"primaryRestaurantId\":66217,\"cloudinaryId\":\"yicxiximjyxdbtjpuhmx\",\"brandId\":4961,\"dishFamilyId\":\"846647\",\"enabled_flag\":1},\"businessCategory\":\"SWIGGY_FOOD\",\"displayLabel\":\"Restaurant\"}",
+      "cta": {
+        "text": "La Pino'z Pizza",
+        "type": "DEEPLINK",
+        "link": "swiggy://explore?query=La%20Pino%27z%20Pizza&metadata=%7B%22type%22%3A%22RESTAURANT%22%2C%22data%22%3A%7B%22parentId%22%3A4961%2C%22primaryRestaurantId%22%3A66217%2C%22cloudinaryId%22%3A%22yicxiximjyxdbtjpuhmx%22%2C%22brandId%22%3A4961%2C%22dishFamilyId%22%3A%22846647%22%2C%22enabled_flag%22%3A1%7D%2C%22businessCategory%22%3A%22SWIGGY_FOOD%22%2C%22displayLabel%22%3A%22Restaurant%22%7D&marketplace=%7B%22marketplaceId%22%3A%22SWIGGY%22%2C%22businessLineId%22%3A%22FOOD%22%7D"
+      },
+      "category": "Food",
+      "categoryColor": "#686B78",
+      "subCategory": "Restaurant",
+      "subCategoryColor": "#686B78",
+      "restaurantId": 0,
+      "disabled": false
+    },
+    {
+      "text": "Healthy eatzzz-Bowls, Salads, Healthy Pizza & More",
+      "highlightedText": "Healthy eatzzz-Bowls, Salads, Healthy {{Pizza}} & More",
+      "suggestionType": "SUGGESTION_TYPE_LOW_CONFIDENCE",
+      "type": "RESTAURANT",
+      "marketplace": {
+        "marketplaceId": "SWIGGY",
+        "businessLineId": "FOOD"
+      },
+      "tagToDisplay": "Restaurant",
+      "tagToDisplayColor": "#686B78",
+      "cloudinaryId": "RX_THUMBNAIL/IMAGES/VENDOR/2024/10/22/60c91b22-e062-4a05-bdf3-b7c39a0d2900_87334.jpg",
+      "metadata": "{\"type\":\"RESTAURANT\",\"data\":{\"parentId\":525007,\"primaryRestaurantId\":87334,\"cloudinaryId\":\"RX_THUMBNAIL/IMAGES/VENDOR/2024/10/22/60c91b22-e062-4a05-bdf3-b7c39a0d2900_87334.jpg\",\"brandId\":525007,\"dishFamilyId\":\"846492\",\"enabled_flag\":1},\"businessCategory\":\"SWIGGY_FOOD\",\"displayLabel\":\"Restaurant\"}",
+      "cta": {
+        "text": "Healthy eatzzz-Bowls, Salads, Healthy Pizza & More",
+        "type": "DEEPLINK",
+        "link": "swiggy://explore?query=Healthy%20eatzzz-Bowls%2C%20Salads%2C%20Healthy%20Pizza%20%26%20More&metadata=%7B%22type%22%3A%22RESTAURANT%22%2C%22data%22%3A%7B%22parentId%22%3A525007%2C%22primaryRestaurantId%22%3A87334%2C%22cloudinaryId%22%3A%22RX_THUMBNAIL%2FIMAGES%2FVENDOR%2F2024%2F10%2F22%2F60c91b22-e062-4a05-bdf3-b7c39a0d2900_87334.jpg%22%2C%22brandId%22%3A525007%2C%22dishFamilyId%22%3A%22846492%22%2C%22enabled_flag%22%3A1%7D%2C%22businessCategory%22%3A%22SWIGGY_FOOD%22%2C%22displayLabel%22%3A%22Restaurant%22%7D&marketplace=%7B%22marketplaceId%22%3A%22SWIGGY%22%2C%22businessLineId%22%3A%22FOOD%22%7D"
+      },
+      "category": "Food",
+      "categoryColor": "#686B78",
+      "subCategory": "Restaurant",
+      "subCategoryColor": "#686B78",
+      "restaurantId": 0,
+      "disabled": false
+    },
+    {
+      "text": "Margherita Pizza",
+      "highlightedText": "Margherita {{Pizza}}",
+      "suggestionType": "SUGGESTION_TYPE_LOW_CONFIDENCE",
+      "type": "DISH",
+      "marketplace": {
+        "marketplaceId": "SWIGGY",
+        "businessLineId": "FOOD"
+      },
+      "tagToDisplay": "Dish",
+      "cloudinaryId": "xyfhhog5f0zwahuyqjng",
+      "tagToDisplayColor": "#686B78",
+      "metadata": "{\"type\":\"DISH\",\"data\":{\"vegIdentifier\":\"VEG\",\"cloudinaryId\":\"xyfhhog5f0zwahuyqjng\",\"dishFamilyId\":\"846647\",\"dishPreparationStyleId\":\"74cd1c27-29fc-41fd-9424-f8058d5e0d76\",\"dishFamilyIds\":[\"846647\"],\"dishPreparationStyleIds\":[\"74cd1c27-29fc-41fd-9424-f8058d5e0d76\"]},\"businessCategory\":\"SWIGGY_FOOD\",\"displayLabel\":\"Dish\"}",
+      "cta": {
+        "text": "Margherita Pizza",
+        "type": "DEEPLINK",
+        "link": "swiggy://explore?query=Margherita%20Pizza&metadata=%7B%22type%22%3A%22DISH%22%2C%22data%22%3A%7B%22vegIdentifier%22%3A%22VEG%22%2C%22cloudinaryId%22%3A%22xyfhhog5f0zwahuyqjng%22%2C%22dishFamilyId%22%3A%22846647%22%2C%22dishPreparationStyleId%22%3A%2274cd1c27-29fc-41fd-9424-f8058d5e0d76%22%2C%22dishFamilyIds%22%3A%5B%22846647%22%5D%2C%22dishPreparationStyleIds%22%3A%5B%2274cd1c27-29fc-41fd-9424-f8058d5e0d76%22%5D%7D%2C%22businessCategory%22%3A%22SWIGGY_FOOD%22%2C%22displayLabel%22%3A%22Dish%22%7D&marketplace=%7B%22marketplaceId%22%3A%22SWIGGY%22%2C%22businessLineId%22%3A%22FOOD%22%7D"
+      },
+      "category": "Food",
+      "categoryColor": "#686B78",
+      "subCategory": "Dish",
+      "subCategoryColor": "#686B78"
+    },
+    {
+      "text": "Pizza Hut",
+      "highlightedText": "{{Pizza}} Hut",
+      "suggestionType": "SUGGESTION_TYPE_LOW_CONFIDENCE",
+      "type": "RESTAURANT",
+      "marketplace": {
+        "marketplaceId": "SWIGGY",
+        "businessLineId": "FOOD"
+      },
+      "tagToDisplay": "Restaurant",
+      "tagToDisplayColor": "#686B78",
+      "cloudinaryId": "RX_THUMBNAIL/IMAGES/VENDOR/2026/2/12/88737063-c759-472f-953e-83531da92141_72605.JPG",
+      "metadata": "{\"type\":\"RESTAURANT\",\"data\":{\"parentId\":721,\"primaryRestaurantId\":72605,\"cloudinaryId\":\"RX_THUMBNAIL/IMAGES/VENDOR/2026/2/12/88737063-c759-472f-953e-83531da92141_72605.JPG\",\"brandId\":721,\"dishFamilyId\":\"846647\",\"enabled_flag\":1},\"businessCategory\":\"SWIGGY_FOOD\",\"displayLabel\":\"Restaurant\"}",
+      "cta": {
+        "text": "Pizza Hut",
+        "type": "DEEPLINK",
+        "link": "swiggy://explore?query=Pizza%20Hut&metadata=%7B%22type%22%3A%22RESTAURANT%22%2C%22data%22%3A%7B%22parentId%22%3A721%2C%22primaryRestaurantId%22%3A72605%2C%22cloudinaryId%22%3A%22RX_THUMBNAIL%2FIMAGES%2FVENDOR%2F2026%2F2%2F12%2F88737063-c759-472f-953e-83531da92141_72605.JPG%22%2C%22brandId%22%3A721%2C%22dishFamilyId%22%3A%22846647%22%2C%22enabled_flag%22%3A1%7D%2C%22businessCategory%22%3A%22SWIGGY_FOOD%22%2C%22displayLabel%22%3A%22Restaurant%22%7D&marketplace=%7B%22marketplaceId%22%3A%22SWIGGY%22%2C%22businessLineId%22%3A%22FOOD%22%7D"
+      },
+      "category": "Food",
+      "categoryColor": "#686B78",
+      "subCategory": "Restaurant",
+      "subCategoryColor": "#686B78",
+      "restaurantId": 0,
+      "disabled": false
+    },
+    {
+      "text": "Spicy Pizza",
+      "highlightedText": "Spicy {{Pizza}}",
+      "suggestionType": "SUGGESTION_TYPE_LOW_CONFIDENCE",
+      "type": "DISH",
+      "marketplace": {
+        "marketplaceId": "SWIGGY",
+        "businessLineId": "FOOD"
+      },
+      "tagToDisplay": "Dish",
+      "cloudinaryId": "isvjagltlpxpefgalnn3",
+      "tagToDisplayColor": "#686B78",
+      "metadata": "{\"type\":\"DISH\",\"data\":{\"vegIdentifier\":\"NA\",\"cloudinaryId\":\"isvjagltlpxpefgalnn3\",\"dishFamilyId\":\"846647\",\"dishPreparationStyleId\":\"849336\",\"dishFamilyIds\":[\"846647\"],\"dishPreparationStyleIds\":[\"849336\"]},\"businessCategory\":\"SWIGGY_FOOD\",\"displayLabel\":\"Dish\"}",
+      "cta": {
+        "text": "Spicy Pizza",
+        "type": "DEEPLINK",
+        "link": "swiggy://explore?query=Spicy%20Pizza&metadata=%7B%22type%22%3A%22DISH%22%2C%22data%22%3A%7B%22vegIdentifier%22%3A%22NA%22%2C%22cloudinaryId%22%3A%22isvjagltlpxpefgalnn3%22%2C%22dishFamilyId%22%3A%22846647%22%2C%22dishPreparationStyleId%22%3A%22849336%22%2C%22dishFamilyIds%22%3A%5B%22846647%22%5D%2C%22dishPreparationStyleIds%22%3A%5B%22849336%22%5D%7D%2C%22businessCategory%22%3A%22SWIGGY_FOOD%22%2C%22displayLabel%22%3A%22Dish%22%7D&marketplace=%7B%22marketplaceId%22%3A%22SWIGGY%22%2C%22businessLineId%22%3A%22FOOD%22%7D"
+      },
+      "category": "Food",
+      "categoryColor": "#686B78",
+      "subCategory": "Dish",
+      "subCategoryColor": "#686B78"
+    },
+    {
+      "text": "Tandoori Pizza",
+      "highlightedText": "Tandoori {{Pizza}}",
+      "suggestionType": "SUGGESTION_TYPE_LOW_CONFIDENCE",
+      "type": "DISH",
+      "marketplace": {
+        "marketplaceId": "SWIGGY",
+        "businessLineId": "FOOD"
+      },
+      "tagToDisplay": "Dish",
+      "cloudinaryId": "xz3m1ved7pqyngkx2meu",
+      "tagToDisplayColor": "#686B78",
+      "metadata": "{\"type\":\"DISH\",\"data\":{\"vegIdentifier\":\"NA\",\"cloudinaryId\":\"xz3m1ved7pqyngkx2meu\",\"dishFamilyId\":\"846647\",\"dishPreparationStyleId\":\"849327\",\"dishFamilyIds\":[\"846647\"],\"dishPreparationStyleIds\":[\"849327\"]},\"businessCategory\":\"SWIGGY_FOOD\",\"displayLabel\":\"Dish\"}",
+      "cta": {
+        "text": "Tandoori Pizza",
+        "type": "DEEPLINK",
+        "link": "swiggy://explore?query=Tandoori%20Pizza&metadata=%7B%22type%22%3A%22DISH%22%2C%22data%22%3A%7B%22vegIdentifier%22%3A%22NA%22%2C%22cloudinaryId%22%3A%22xz3m1ved7pqyngkx2meu%22%2C%22dishFamilyId%22%3A%22846647%22%2C%22dishPreparationStyleId%22%3A%22849327%22%2C%22dishFamilyIds%22%3A%5B%22846647%22%5D%2C%22dishPreparationStyleIds%22%3A%5B%22849327%22%5D%7D%2C%22businessCategory%22%3A%22SWIGGY_FOOD%22%2C%22displayLabel%22%3A%22Dish%22%7D&marketplace=%7B%22marketplaceId%22%3A%22SWIGGY%22%2C%22businessLineId%22%3A%22FOOD%22%7D"
+      },
+      "category": "Food",
+      "categoryColor": "#686B78",
+      "subCategory": "Dish",
+      "subCategoryColor": "#686B78"
+    },
+    {
+      "text": "Pan Pizza",
+      "highlightedText": "Pan {{Pizza}}",
+      "suggestionType": "SUGGESTION_TYPE_LOW_CONFIDENCE",
+      "type": "DISH",
+      "marketplace": {
+        "marketplaceId": "SWIGGY",
+        "businessLineId": "FOOD"
+      },
+      "tagToDisplay": "Dish",
+      "cloudinaryId": "jglvp1ukthp8f2lbn61k",
+      "tagToDisplayColor": "#686B78",
+      "metadata": "{\"type\":\"DISH\",\"data\":{\"vegIdentifier\":\"NA\",\"cloudinaryId\":\"jglvp1ukthp8f2lbn61k\",\"dishFamilyId\":\"846647\",\"dishPreparationStyleId\":\"849351\",\"dishFamilyIds\":[\"846647\"],\"dishPreparationStyleIds\":[\"849351\"]},\"businessCategory\":\"SWIGGY_FOOD\",\"displayLabel\":\"Dish\"}",
+      "cta": {
+        "text": "Pan Pizza",
+        "type": "DEEPLINK",
+        "link": "swiggy://explore?query=Pan%20Pizza&metadata=%7B%22type%22%3A%22DISH%22%2C%22data%22%3A%7B%22vegIdentifier%22%3A%22NA%22%2C%22cloudinaryId%22%3A%22jglvp1ukthp8f2lbn61k%22%2C%22dishFamilyId%22%3A%22846647%22%2C%22dishPreparationStyleId%22%3A%22849351%22%2C%22dishFamilyIds%22%3A%5B%22846647%22%5D%2C%22dishPreparationStyleIds%22%3A%5B%22849351%22%5D%7D%2C%22businessCategory%22%3A%22SWIGGY_FOOD%22%2C%22displayLabel%22%3A%22Dish%22%7D&marketplace=%7B%22marketplaceId%22%3A%22SWIGGY%22%2C%22businessLineId%22%3A%22FOOD%22%7D"
+      },
+      "category": "Food",
+      "categoryColor": "#686B78",
+      "subCategory": "Dish",
+      "subCategoryColor": "#686B78"
+    },
+    {
+      "text": "Paprika Pizza",
+      "highlightedText": "Paprika {{Pizza}}",
+      "suggestionType": "SUGGESTION_TYPE_LOW_CONFIDENCE",
+      "type": "DISH",
+      "marketplace": {
+        "marketplaceId": "SWIGGY",
+        "businessLineId": "FOOD"
+      },
+      "tagToDisplay": "Dish",
+      "cloudinaryId": "ezigx85muuwpi6lx5jh2",
+      "tagToDisplayColor": "#686B78",
+      "metadata": "{\"type\":\"DISH\",\"data\":{\"vegIdentifier\":\"NA\",\"cloudinaryId\":\"ezigx85muuwpi6lx5jh2\",\"dishFamilyId\":\"846647\",\"dishFamilyIds\":[\"846647\"],\"dishPreparationStyleIds\":[\"f5917306-c538-4643-a9f1-51135d16511e\"]},\"businessCategory\":\"SWIGGY_FOOD\",\"displayLabel\":\"Dish\"}",
+      "cta": {
+        "text": "Paprika Pizza",
+        "type": "DEEPLINK",
+        "link": "swiggy://explore?query=Paprika%20Pizza&metadata=%7B%22type%22%3A%22DISH%22%2C%22data%22%3A%7B%22vegIdentifier%22%3A%22NA%22%2C%22cloudinaryId%22%3A%22ezigx85muuwpi6lx5jh2%22%2C%22dishFamilyId%22%3A%22846647%22%2C%22dishFamilyIds%22%3A%5B%22846647%22%5D%2C%22dishPreparationStyleIds%22%3A%5B%22f5917306-c538-4643-a9f1-51135d16511e%22%5D%7D%2C%22businessCategory%22%3A%22SWIGGY_FOOD%22%2C%22displayLabel%22%3A%22Dish%22%7D&marketplace=%7B%22marketplaceId%22%3A%22SWIGGY%22%2C%22businessLineId%22%3A%22FOOD%22%7D"
+      },
+      "category": "Food",
+      "categoryColor": "#686B78",
+      "subCategory": "Dish",
+      "subCategoryColor": "#686B78"
+    },
+    {
+      "text": "Burger",
+      "highlightedText": "{{Burger}}",
+      "suggestionType": "SUGGESTION_TYPE_LOW_CONFIDENCE",
+      "type": "DISH",
+      "marketplace": {
+        "marketplaceId": "SWIGGY",
+        "businessLineId": "FOOD"
+      },
+      "tagToDisplay": "Dish",
+      "cloudinaryId": "Autosuggest/Top%20200%20queries/Burger.png",
+      "tagToDisplayColor": "#686B78",
+      "metadata": "{\"type\":\"DISH\",\"data\":{\"vegIdentifier\":\"VEG\",\"cloudinaryId\":\"Autosuggest/Top%20200%20queries/Burger.png\",\"dishFamilyId\":\"846649\",\"dishFamilyIds\":[\"846649\"]},\"businessCategory\":\"SWIGGY_FOOD\",\"displayLabel\":\"Dish\"}",
+      "cta": {
+        "text": "Burger",
+        "type": "DEEPLINK",
+        "link": "swiggy://explore?query=Burger&metadata=%7B%22type%22%3A%22DISH%22%2C%22data%22%3A%7B%22vegIdentifier%22%3A%22VEG%22%2C%22cloudinaryId%22%3A%22Autosuggest%2FTop%2520200%2520queries%2FBurger.png%22%2C%22dishFamilyId%22%3A%22846649%22%2C%22dishFamilyIds%22%3A%5B%22846649%22%5D%7D%2C%22businessCategory%22%3A%22SWIGGY_FOOD%22%2C%22displayLabel%22%3A%22Dish%22%7D&marketplace=%7B%22marketplaceId%22%3A%22SWIGGY%22%2C%22businessLineId%22%3A%22FOOD%22%7D"
+      },
+      "category": "Food",
+      "categoryColor": "#686B78",
+      "subCategory": "Dish",
+      "subCategoryColor": "#686B78"
+    },
+    {
+      "text": "Burger King",
+      "highlightedText": "{{Burger}} King",
+      "suggestionType": "SUGGESTION_TYPE_LOW_CONFIDENCE",
+      "type": "RESTAURANT",
+      "marketplace": {
+        "marketplaceId": "SWIGGY",
+        "businessLineId": "FOOD"
+      },
+      "tagToDisplay": "Restaurant",
+      "tagToDisplayColor": "#686B78",
+      "cloudinaryId": "RX_THUMBNAIL/IMAGES/VENDOR/2025/6/18/ebae2b11-d77e-4358-9fcc-0fd99ca9b7d5_66592.jpg",
+      "metadata": "{\"type\":\"RESTAURANT\",\"data\":{\"parentId\":166,\"primaryRestaurantId\":66592,\"cloudinaryId\":\"RX_THUMBNAIL/IMAGES/VENDOR/2025/6/18/ebae2b11-d77e-4358-9fcc-0fd99ca9b7d5_66592.jpg\",\"brandId\":166,\"dishFamilyId\":\"846649\",\"enabled_flag\":1},\"businessCategory\":\"SWIGGY_FOOD\",\"displayLabel\":\"Restaurant\"}",
+      "cta": {
+        "text": "Burger King",
+        "type": "DEEPLINK",
+        "link": "swiggy://explore?query=Burger%20King&metadata=%7B%22type%22%3A%22RESTAURANT%22%2C%22data%22%3A%7B%22parentId%22%3A166%2C%22primaryRestaurantId%22%3A66592%2C%22cloudinaryId%22%3A%22RX_THUMBNAIL%2FIMAGES%2FVENDOR%2F2025%2F6%2F18%2Febae2b11-d77e-4358-9fcc-0fd99ca9b7d5_66592.jpg%22%2C%22brandId%22%3A166%2C%22dishFamilyId%22%3A%22846649%22%2C%22enabled_flag%22%3A1%7D%2C%22businessCategory%22%3A%22SWIGGY_FOOD%22%2C%22displayLabel%22%3A%22Restaurant%22%7D&marketplace=%7B%22marketplaceId%22%3A%22SWIGGY%22%2C%22businessLineId%22%3A%22FOOD%22%7D"
+      },
+      "category": "Food",
+      "categoryColor": "#686B78",
+      "subCategory": "Restaurant",
+      "subCategoryColor": "#686B78",
+      "restaurantId": 0,
+      "disabled": false
+    },
+    {
+      "text": "Crispy Veg Burger",
+      "highlightedText": "Crispy Veg {{Burger}}",
+      "suggestionType": "SUGGESTION_TYPE_LOW_CONFIDENCE",
+      "type": "DISH",
+      "marketplace": {
+        "marketplaceId": "SWIGGY",
+        "businessLineId": "FOOD"
+      },
+      "tagToDisplay": "Dish",
+      "cloudinaryId": "h6z30nbngm03msrpc2g2",
+      "tagToDisplayColor": "#686B78",
+      "metadata": "{\"type\":\"DISH\",\"data\":{\"vegIdentifier\":\"NA\",\"cloudinaryId\":\"h6z30nbngm03msrpc2g2\",\"dishFamilyId\":\"846649\",\"dishFamilyIds\":[\"846649\"]},\"businessCategory\":\"SWIGGY_FOOD\",\"displayLabel\":\"Dish\"}",
+      "cta": {
+        "text": "Crispy Veg Burger",
+        "type": "DEEPLINK",
+        "link": "swiggy://explore?query=Crispy%20Veg%20Burger&metadata=%7B%22type%22%3A%22DISH%22%2C%22data%22%3A%7B%22vegIdentifier%22%3A%22NA%22%2C%22cloudinaryId%22%3A%22h6z30nbngm03msrpc2g2%22%2C%22dishFamilyId%22%3A%22846649%22%2C%22dishFamilyIds%22%3A%5B%22846649%22%5D%7D%2C%22businessCategory%22%3A%22SWIGGY_FOOD%22%2C%22displayLabel%22%3A%22Dish%22%7D&marketplace=%7B%22marketplaceId%22%3A%22SWIGGY%22%2C%22businessLineId%22%3A%22FOOD%22%7D"
+      },
+      "category": "Food",
+      "categoryColor": "#686B78",
+      "subCategory": "Dish",
+      "subCategoryColor": "#686B78"
+    },
+    {
+      "text": "Wendy's Burgers",
+      "highlightedText": "Wendy's {{Burger}}s",
+      "suggestionType": "SUGGESTION_TYPE_LOW_CONFIDENCE",
+      "type": "RESTAURANT",
+      "marketplace": {
+        "marketplaceId": "SWIGGY",
+        "businessLineId": "FOOD"
+      },
+      "tagToDisplay": "Restaurant",
+      "tagToDisplayColor": "#686B78",
+      "cloudinaryId": "RX_THUMBNAIL/IMAGES/VENDOR/2025/1/11/6a328a84-014a-402d-9a6a-3dd634b0239e_565293.JPG",
+      "metadata": "{\"type\":\"RESTAURANT\",\"data\":{\"parentId\":972,\"primaryRestaurantId\":565293,\"cloudinaryId\":\"RX_THUMBNAIL/IMAGES/VENDOR/2025/1/11/6a328a84-014a-402d-9a6a-3dd634b0239e_565293.JPG\",\"brandId\":972,\"dishFamilyId\":\"846649\",\"enabled_flag\":1},\"businessCategory\":\"SWIGGY_FOOD\",\"displayLabel\":\"Restaurant\"}",
+      "cta": {
+        "text": "Wendy's Burgers",
+        "type": "DEEPLINK",
+        "link": "swiggy://explore?query=Wendy%27s%20Burgers&metadata=%7B%22type%22%3A%22RESTAURANT%22%2C%22data%22%3A%7B%22parentId%22%3A972%2C%22primaryRestaurantId%22%3A565293%2C%22cloudinaryId%22%3A%22RX_THUMBNAIL%2FIMAGES%2FVENDOR%2F2025%2F1%2F11%2F6a328a84-014a-402d-9a6a-3dd634b0239e_565293.JPG%22%2C%22brandId%22%3A972%2C%22dishFamilyId%22%3A%22846649%22%2C%22enabled_flag%22%3A1%7D%2C%22businessCategory%22%3A%22SWIGGY_FOOD%22%2C%22displayLabel%22%3A%22Restaurant%22%7D&marketplace=%7B%22marketplaceId%22%3A%22SWIGGY%22%2C%22businessLineId%22%3A%22FOOD%22%7D"
+      },
+      "category": "Food",
+      "categoryColor": "#686B78",
+      "subCategory": "Restaurant",
+      "subCategoryColor": "#686B78",
+      "restaurantId": 0,
+      "disabled": false
+    },
+    {
+      "text": "Burger House",
+      "highlightedText": "{{Burger}} House",
+      "suggestionType": "SUGGESTION_TYPE_LOW_CONFIDENCE",
+      "type": "RESTAURANT",
+      "marketplace": {
+        "marketplaceId": "SWIGGY",
+        "businessLineId": "FOOD"
+      },
+      "tagToDisplay": "Restaurant",
+      "tagToDisplayColor": "#686B78",
+      "cloudinaryId": "orj4n9wbiek6umsgosuz",
+      "metadata": "{\"type\":\"RESTAURANT\",\"data\":{\"parentId\":4475,\"primaryRestaurantId\":579931,\"cloudinaryId\":\"orj4n9wbiek6umsgosuz\",\"brandId\":4475,\"dishFamilyId\":\"846649\",\"enabled_flag\":1},\"businessCategory\":\"SWIGGY_FOOD\",\"displayLabel\":\"Restaurant\"}",
+      "cta": {
+        "text": "Burger House",
+        "type": "DEEPLINK",
+        "link": "swiggy://explore?query=Burger%20House&metadata=%7B%22type%22%3A%22RESTAURANT%22%2C%22data%22%3A%7B%22parentId%22%3A4475%2C%22primaryRestaurantId%22%3A579931%2C%22cloudinaryId%22%3A%22orj4n9wbiek6umsgosuz%22%2C%22brandId%22%3A4475%2C%22dishFamilyId%22%3A%22846649%22%2C%22enabled_flag%22%3A1%7D%2C%22businessCategory%22%3A%22SWIGGY_FOOD%22%2C%22displayLabel%22%3A%22Restaurant%22%7D&marketplace=%7B%22marketplaceId%22%3A%22SWIGGY%22%2C%22businessLineId%22%3A%22FOOD%22%7D"
+      },
+      "category": "Food",
+      "categoryColor": "#686B78",
+      "subCategory": "Restaurant",
+      "subCategoryColor": "#686B78",
+      "restaurantId": 0,
+      "disabled": false
+    },
+    {
+      "text": "Grilled Chicken Burger",
+      "highlightedText": "Grilled Chicken {{Burger}}",
+      "suggestionType": "SUGGESTION_TYPE_LOW_CONFIDENCE",
+      "type": "DISH",
+      "marketplace": {
+        "marketplaceId": "SWIGGY",
+        "businessLineId": "FOOD"
+      },
+      "tagToDisplay": "Dish",
+      "cloudinaryId": "FOOD_CATALOG/IMAGES/CMS/2025/12/8/9b17cd09-e500-41a8-a5bd-b9d95dd1021c_f7ebd861-8fd3-4400-917a-90bc40bc958c.png_compressed",
+      "tagToDisplayColor": "#686B78",
+      "metadata": "{\"type\":\"DISH\",\"data\":{\"vegIdentifier\":\"NONVEG\",\"cloudinaryId\":\"FOOD_CATALOG/IMAGES/CMS/2025/12/8/9b17cd09-e500-41a8-a5bd-b9d95dd1021c_f7ebd861-8fd3-4400-917a-90bc40bc958c.png_compressed\",\"dishFamilyId\":\"846649\",\"dishFamilyIds\":[\"846649\"],\"dishPreparationStyleIds\":[\"849358\"],\"dishTypeIds\":[\"847565\"]},\"businessCategory\":\"SWIGGY_FOOD\",\"displayLabel\":\"Dish\"}",
+      "cta": {
+        "text": "Grilled Chicken Burger",
+        "type": "DEEPLINK",
+        "link": "swiggy://explore?query=Grilled%20Chicken%20Burger&metadata=%7B%22type%22%3A%22DISH%22%2C%22data%22%3A%7B%22vegIdentifier%22%3A%22NONVEG%22%2C%22cloudinaryId%22%3A%22FOOD_CATALOG%2FIMAGES%2FCMS%2F2025%2F12%2F8%2F9b17cd09-e500-41a8-a5bd-b9d95dd1021c_f7ebd861-8fd3-4400-917a-90bc40bc958c.png_compressed%22%2C%22dishFamilyId%22%3A%22846649%22%2C%22dishFamilyIds%22%3A%5B%22846649%22%5D%2C%22dishPreparationStyleIds%22%3A%5B%22849358%22%5D%2C%22dishTypeIds%22%3A%5B%22847565%22%5D%7D%2C%22businessCategory%22%3A%22SWIGGY_FOOD%22%2C%22displayLabel%22%3A%22Dish%22%7D&marketplace=%7B%22marketplaceId%22%3A%22SWIGGY%22%2C%22businessLineId%22%3A%22FOOD%22%7D"
+      },
+      "category": "Food",
+      "categoryColor": "#686B78",
+      "subCategory": "Dish",
+      "subCategoryColor": "#686B78"
+    },
+    {
+      "text": "Crispy Chicken Burger",
+      "highlightedText": "Crispy Chicken {{Burger}}",
+      "suggestionType": "SUGGESTION_TYPE_LOW_CONFIDENCE",
+      "type": "DISH",
+      "marketplace": {
+        "marketplaceId": "SWIGGY",
+        "businessLineId": "FOOD"
+      },
+      "tagToDisplay": "Dish",
+      "cloudinaryId": "FOOD_CATALOG/IMAGES/CMS/2025/11/20/62d2a821-d442-4204-9800-fc1a79c7627c_b39ac354-cb40-4115-aa49-e35e74793f0b.jpg",
+      "tagToDisplayColor": "#686B78",
+      "metadata": "{\"type\":\"DISH\",\"data\":{\"vegIdentifier\":\"NONVEG\",\"cloudinaryId\":\"FOOD_CATALOG/IMAGES/CMS/2025/11/20/62d2a821-d442-4204-9800-fc1a79c7627c_b39ac354-cb40-4115-aa49-e35e74793f0b.jpg\",\"dishFamilyId\":\"846649\",\"dishFamilyIds\":[\"846649\"],\"dishPreparationStyleIds\":[\"849365\"],\"dishTypeIds\":[\"847565\"]},\"businessCategory\":\"SWIGGY_FOOD\",\"displayLabel\":\"Dish\"}",
+      "cta": {
+        "text": "Crispy Chicken Burger",
+        "type": "DEEPLINK",
+        "link": "swiggy://explore?query=Crispy%20Chicken%20Burger&metadata=%7B%22type%22%3A%22DISH%22%2C%22data%22%3A%7B%22vegIdentifier%22%3A%22NONVEG%22%2C%22cloudinaryId%22%3A%22FOOD_CATALOG%2FIMAGES%2FCMS%2F2025%2F11%2F20%2F62d2a821-d442-4204-9800-fc1a79c7627c_b39ac354-cb40-4115-aa49-e35e74793f0b.jpg%22%2C%22dishFamilyId%22%3A%22846649%22%2C%22dishFamilyIds%22%3A%5B%22846649%22%5D%2C%22dishPreparationStyleIds%22%3A%5B%22849365%22%5D%2C%22dishTypeIds%22%3A%5B%22847565%22%5D%7D%2C%22businessCategory%22%3A%22SWIGGY_FOOD%22%2C%22displayLabel%22%3A%22Dish%22%7D&marketplace=%7B%22marketplaceId%22%3A%22SWIGGY%22%2C%22businessLineId%22%3A%22FOOD%22%7D"
+      },
+      "category": "Food",
+      "categoryColor": "#686B78",
+      "subCategory": "Dish",
+      "subCategoryColor": "#686B78"
+    },
+    {
+      "text": "Veg Bun Burger",
+      "highlightedText": "Veg Bun {{Burger}}",
+      "suggestionType": "SUGGESTION_TYPE_LOW_CONFIDENCE",
+      "type": "DISH",
+      "marketplace": {
+        "marketplaceId": "SWIGGY",
+        "businessLineId": "FOOD"
+      },
+      "tagToDisplay": "Dish",
+      "cloudinaryId": "FOOD_CATALOG/IMAGES/CMS/2025/11/20/5cdc0592-60c5-4111-8a5d-bd6561dea768_52ca8d02-9b38-4c5b-b81b-2466febf03ab.jpg",
+      "tagToDisplayColor": "#686B78",
+      "metadata": "{\"type\":\"DISH\",\"data\":{\"vegIdentifier\":\"NA\",\"cloudinaryId\":\"FOOD_CATALOG/IMAGES/CMS/2025/11/20/5cdc0592-60c5-4111-8a5d-bd6561dea768_52ca8d02-9b38-4c5b-b81b-2466febf03ab.jpg\",\"dishFamilyId\":\"846649\",\"dishFamilyIds\":[\"846649\"],\"dishTypeIds\":[\"847558\"]},\"businessCategory\":\"SWIGGY_FOOD\",\"displayLabel\":\"Dish\"}",
+      "cta": {
+        "text": "Veg Bun Burger",
+        "type": "DEEPLINK",
+        "link": "swiggy://explore?query=Veg%20Bun%20Burger&metadata=%7B%22type%22%3A%22DISH%22%2C%22data%22%3A%7B%22vegIdentifier%22%3A%22NA%22%2C%22cloudinaryId%22%3A%22FOOD_CATALOG%2FIMAGES%2FCMS%2F2025%2F11%2F20%2F5cdc0592-60c5-4111-8a5d-bd6561dea768_52ca8d02-9b38-4c5b-b81b-2466febf03ab.jpg%22%2C%22dishFamilyId%22%3A%22846649%22%2C%22dishFamilyIds%22%3A%5B%22846649%22%5D%2C%22dishTypeIds%22%3A%5B%22847558%22%5D%7D%2C%22businessCategory%22%3A%22SWIGGY_FOOD%22%2C%22displayLabel%22%3A%22Dish%22%7D&marketplace=%7B%22marketplaceId%22%3A%22SWIGGY%22%2C%22businessLineId%22%3A%22FOOD%22%7D"
+      },
+      "category": "Food",
+      "categoryColor": "#686B78",
+      "subCategory": "Dish",
+      "subCategoryColor": "#686B78"
+    },
+    {
+      "text": "Veg Burger Pizza",
+      "highlightedText": "Veg {{Burger}} Pizza",
+      "suggestionType": "SUGGESTION_TYPE_LOW_CONFIDENCE",
+      "type": "DISH",
+      "marketplace": {
+        "marketplaceId": "SWIGGY",
+        "businessLineId": "FOOD"
+      },
+      "tagToDisplay": "Dish",
+      "cloudinaryId": "FOOD_CATALOG/IMAGES/CMS/2025/7/22/a610af1f-af37-42b8-8fe8-667879077cf8_368adb3d-ee98-4070-b509-991bbc29df5c.jpg",
+      "tagToDisplayColor": "#686B78",
+      "metadata": "{\"type\":\"DISH\",\"data\":{\"vegIdentifier\":\"NA\",\"cloudinaryId\":\"FOOD_CATALOG/IMAGES/CMS/2025/7/22/a610af1f-af37-42b8-8fe8-667879077cf8_368adb3d-ee98-4070-b509-991bbc29df5c.jpg\",\"dishFamilyId\":\"846649\",\"dishFamilyIds\":[\"846649\"],\"dishPreparationStyleIds\":[\"849354\"],\"dishTypeIds\":[\"847558\"]},\"businessCategory\":\"SWIGGY_FOOD\",\"displayLabel\":\"Dish\"}",
+      "cta": {
+        "text": "Veg Burger Pizza",
+        "type": "DEEPLINK",
+        "link": "swiggy://explore?query=Veg%20Burger%20Pizza&metadata=%7B%22type%22%3A%22DISH%22%2C%22data%22%3A%7B%22vegIdentifier%22%3A%22NA%22%2C%22cloudinaryId%22%3A%22FOOD_CATALOG%2FIMAGES%2FCMS%2F2025%2F7%2F22%2Fa610af1f-af37-42b8-8fe8-667879077cf8_368adb3d-ee98-4070-b509-991bbc29df5c.jpg%22%2C%22dishFamilyId%22%3A%22846649%22%2C%22dishFamilyIds%22%3A%5B%22846649%22%5D%2C%22dishPreparationStyleIds%22%3A%5B%22849354%22%5D%2C%22dishTypeIds%22%3A%5B%22847558%22%5D%7D%2C%22businessCategory%22%3A%22SWIGGY_FOOD%22%2C%22displayLabel%22%3A%22Dish%22%7D&marketplace=%7B%22marketplaceId%22%3A%22SWIGGY%22%2C%22businessLineId%22%3A%22FOOD%22%7D"
+      },
+      "category": "Food",
+      "categoryColor": "#686B78",
+      "subCategory": "Dish",
+      "subCategoryColor": "#686B78"
+    },
+    {
+      "text": "Veg Combo Burger",
+      "highlightedText": "Veg Combo {{Burger}}",
+      "suggestionType": "SUGGESTION_TYPE_LOW_CONFIDENCE",
+      "type": "DISH",
+      "marketplace": {
+        "marketplaceId": "SWIGGY",
+        "businessLineId": "FOOD"
+      },
+      "tagToDisplay": "Dish",
+      "cloudinaryId": "FOOD_CATALOG/IMAGES/CMS/2025/9/3/e068c81e-c2c2-459d-99f4-398d601b0dd6_f5729da9-cf75-4186-b03e-006357138661.jpg",
+      "tagToDisplayColor": "#686B78",
+      "metadata": "{\"type\":\"DISH\",\"data\":{\"vegIdentifier\":\"NA\",\"cloudinaryId\":\"FOOD_CATALOG/IMAGES/CMS/2025/9/3/e068c81e-c2c2-459d-99f4-398d601b0dd6_f5729da9-cf75-4186-b03e-006357138661.jpg\"},\"businessCategory\":\"SWIGGY_FOOD\",\"displayLabel\":\"Dish\"}",
+      "cta": {
+        "text": "Veg Combo Burger",
+        "type": "DEEPLINK",
+        "link": "swiggy://explore?query=Veg%20Combo%20Burger&metadata=%7B%22type%22%3A%22DISH%22%2C%22data%22%3A%7B%22vegIdentifier%22%3A%22NA%22%2C%22cloudinaryId%22%3A%22FOOD_CATALOG%2FIMAGES%2FCMS%2F2025%2F9%2F3%2Fe068c81e-c2c2-459d-99f4-398d601b0dd6_f5729da9-cf75-4186-b03e-006357138661.jpg%22%7D%2C%22businessCategory%22%3A%22SWIGGY_FOOD%22%2C%22displayLabel%22%3A%22Dish%22%7D&marketplace=%7B%22marketplaceId%22%3A%22SWIGGY%22%2C%22businessLineId%22%3A%22FOOD%22%7D"
+      },
+      "category": "Food",
+      "categoryColor": "#686B78",
+      "subCategory": "Dish",
+      "subCategoryColor": "#686B78"
+    },
+    {
+      "text": "Biryani",
+      "highlightedText": "{{Biryani}}",
+      "suggestionType": "SUGGESTION_TYPE_LOW_CONFIDENCE",
+      "type": "DISH",
+      "marketplace": {
+        "marketplaceId": "SWIGGY",
+        "businessLineId": "FOOD"
+      },
+      "tagToDisplay": "Dish",
+      "cloudinaryId": "Autosuggest/Top%20200%20queries/Biryani.png",
+      "tagToDisplayColor": "#686B78",
+      "metadata": "{\"type\":\"DISH\",\"data\":{\"vegIdentifier\":\"NA\",\"cloudinaryId\":\"Autosuggest/Top%20200%20queries/Biryani.png\",\"dishFamilyId\":\"846613\",\"dishFamilyIds\":[\"846613\"]},\"businessCategory\":\"SWIGGY_FOOD\",\"displayLabel\":\"Dish\"}",
+      "cta": {
+        "text": "Biryani",
+        "type": "DEEPLINK",
+        "link": "swiggy://explore?query=Biryani&metadata=%7B%22type%22%3A%22DISH%22%2C%22data%22%3A%7B%22vegIdentifier%22%3A%22NA%22%2C%22cloudinaryId%22%3A%22Autosuggest%2FTop%2520200%2520queries%2FBiryani.png%22%2C%22dishFamilyId%22%3A%22846613%22%2C%22dishFamilyIds%22%3A%5B%22846613%22%5D%7D%2C%22businessCategory%22%3A%22SWIGGY_FOOD%22%2C%22displayLabel%22%3A%22Dish%22%7D&marketplace=%7B%22marketplaceId%22%3A%22SWIGGY%22%2C%22businessLineId%22%3A%22FOOD%22%7D"
+      },
+      "category": "Food",
+      "categoryColor": "#686B78",
+      "subCategory": "Dish",
+      "subCategoryColor": "#686B78"
+    },
+    {
+      "text": "Radhe Dhokla-(Punjabi, Chinese, Thali & Biryani)",
+      "highlightedText": "Radhe Dhokla-(Punjabi, Chinese, Thali & {{Biryani}})",
+      "suggestionType": "SUGGESTION_TYPE_LOW_CONFIDENCE",
+      "type": "RESTAURANT",
+      "marketplace": {
+        "marketplaceId": "SWIGGY",
+        "businessLineId": "FOOD"
+      },
+      "tagToDisplay": "Restaurant",
+      "tagToDisplayColor": "#686B78",
+      "cloudinaryId": "RX_THUMBNAIL/IMAGES/VENDOR/2026/3/12/4f6b3ea4-8f6d-477c-81cc-dd241cbaa985_70341.jpg",
+      "metadata": "{\"type\":\"RESTAURANT\",\"data\":{\"parentId\":521471,\"primaryRestaurantId\":70341,\"cloudinaryId\":\"RX_THUMBNAIL/IMAGES/VENDOR/2026/3/12/4f6b3ea4-8f6d-477c-81cc-dd241cbaa985_70341.jpg\",\"brandId\":521471,\"dishFamilyId\":\"846650\",\"enabled_flag\":1},\"businessCategory\":\"SWIGGY_FOOD\",\"displayLabel\":\"Restaurant\"}",
+      "cta": {
+        "text": "Radhe Dhokla-(Punjabi, Chinese, Thali & Biryani)",
+        "type": "DEEPLINK",
+        "link": "swiggy://explore?query=Radhe%20Dhokla-%28Punjabi%2C%20Chinese%2C%20Thali%20%26%20Biryani%29&metadata=%7B%22type%22%3A%22RESTAURANT%22%2C%22data%22%3A%7B%22parentId%22%3A521471%2C%22primaryRestaurantId%22%3A70341%2C%22cloudinaryId%22%3A%22RX_THUMBNAIL%2FIMAGES%2FVENDOR%2F2026%2F3%2F12%2F4f6b3ea4-8f6d-477c-81cc-dd241cbaa985_70341.jpg%22%2C%22brandId%22%3A521471%2C%22dishFamilyId%22%3A%22846650%22%2C%22enabled_flag%22%3A1%7D%2C%22businessCategory%22%3A%22SWIGGY_FOOD%22%2C%22displayLabel%22%3A%22Restaurant%22%7D&marketplace=%7B%22marketplaceId%22%3A%22SWIGGY%22%2C%22businessLineId%22%3A%22FOOD%22%7D"
+      },
+      "category": "Food",
+      "categoryColor": "#686B78",
+      "subCategory": "Restaurant",
+      "subCategoryColor": "#686B78",
+      "restaurantId": 0,
+      "disabled": false
+    },
+    {
+      "text": "Al Khalifa Biryani",
+      "highlightedText": "Al Khalifa {{Biryani}}",
+      "suggestionType": "SUGGESTION_TYPE_LOW_CONFIDENCE",
+      "type": "RESTAURANT",
+      "marketplace": {
+        "marketplaceId": "SWIGGY",
+        "businessLineId": "FOOD"
+      },
+      "tagToDisplay": "Restaurant",
+      "tagToDisplayColor": "#686B78",
+      "cloudinaryId": "immekmi1euwn90vv8upa",
+      "metadata": "{\"type\":\"RESTAURANT\",\"data\":{\"parentId\":334361,\"primaryRestaurantId\":556044,\"cloudinaryId\":\"immekmi1euwn90vv8upa\",\"brandId\":334361,\"dishFamilyId\":\"846613\",\"enabled_flag\":1},\"businessCategory\":\"SWIGGY_FOOD\",\"displayLabel\":\"Restaurant\"}",
+      "cta": {
+        "text": "Al Khalifa Biryani",
+        "type": "DEEPLINK",
+        "link": "swiggy://explore?query=Al%20Khalifa%20Biryani&metadata=%7B%22type%22%3A%22RESTAURANT%22%2C%22data%22%3A%7B%22parentId%22%3A334361%2C%22primaryRestaurantId%22%3A556044%2C%22cloudinaryId%22%3A%22immekmi1euwn90vv8upa%22%2C%22brandId%22%3A334361%2C%22dishFamilyId%22%3A%22846613%22%2C%22enabled_flag%22%3A1%7D%2C%22businessCategory%22%3A%22SWIGGY_FOOD%22%2C%22displayLabel%22%3A%22Restaurant%22%7D&marketplace=%7B%22marketplaceId%22%3A%22SWIGGY%22%2C%22businessLineId%22%3A%22FOOD%22%7D"
+      },
+      "category": "Food",
+      "categoryColor": "#686B78",
+      "subCategory": "Restaurant",
+      "subCategoryColor": "#686B78",
+      "restaurantId": 0,
+      "disabled": false
+    },
+    {
+      "text": "Shalimar Biryani & Tava Fry",
+      "highlightedText": "Shalimar {{Biryani}} & Tava Fry",
+      "suggestionType": "SUGGESTION_TYPE_LOW_CONFIDENCE",
+      "type": "RESTAURANT",
+      "marketplace": {
+        "marketplaceId": "SWIGGY",
+        "businessLineId": "FOOD"
+      },
+      "tagToDisplay": "Restaurant",
+      "tagToDisplayColor": "#686B78",
+      "cloudinaryId": "d8d0e69b0dec0e6b58d37891107374aa",
+      "metadata": "{\"type\":\"RESTAURANT\",\"data\":{\"parentId\":9881,\"primaryRestaurantId\":77602,\"cloudinaryId\":\"d8d0e69b0dec0e6b58d37891107374aa\",\"brandId\":9881,\"dishFamilyId\":\"846613\",\"enabled_flag\":1},\"businessCategory\":\"SWIGGY_FOOD\",\"displayLabel\":\"Restaurant\"}",
+      "cta": {
+        "text": "Shalimar Biryani & Tava Fry",
+        "type": "DEEPLINK",
+        "link": "swiggy://explore?query=Shalimar%20Biryani%20%26%20Tava%20Fry&metadata=%7B%22type%22%3A%22RESTAURANT%22%2C%22data%22%3A%7B%22parentId%22%3A9881%2C%22primaryRestaurantId%22%3A77602%2C%22cloudinaryId%22%3A%22d8d0e69b0dec0e6b58d37891107374aa%22%2C%22brandId%22%3A9881%2C%22dishFamilyId%22%3A%22846613%22%2C%22enabled_flag%22%3A1%7D%2C%22businessCategory%22%3A%22SWIGGY_FOOD%22%2C%22displayLabel%22%3A%22Restaurant%22%7D&marketplace=%7B%22marketplaceId%22%3A%22SWIGGY%22%2C%22businessLineId%22%3A%22FOOD%22%7D"
+      },
+      "category": "Food",
+      "categoryColor": "#686B78",
+      "subCategory": "Restaurant",
+      "subCategoryColor": "#686B78",
+      "restaurantId": 0,
+      "disabled": false
+    },
+    {
+      "text": "Chicken Dum Biryani",
+      "highlightedText": "Chicken Dum {{Biryani}}",
+      "suggestionType": "SUGGESTION_TYPE_LOW_CONFIDENCE",
+      "type": "DISH",
+      "marketplace": {
+        "marketplaceId": "SWIGGY",
+        "businessLineId": "FOOD"
+      },
+      "tagToDisplay": "Dish",
+      "cloudinaryId": "Autosuggest/Top%20200%20queries/Chicken%20Dum%20Biryani.png",
+      "tagToDisplayColor": "#686B78",
+      "metadata": "{\"type\":\"DISH\",\"data\":{\"vegIdentifier\":\"NONVEG\",\"cloudinaryId\":\"Autosuggest/Top%20200%20queries/Chicken%20Dum%20Biryani.png\",\"dishFamilyId\":\"846613\",\"dishFamilyIds\":[\"846613\"],\"dishPreparationStyleIds\":[\"849037\"],\"dishTypeIds\":[\"847329\"]},\"businessCategory\":\"SWIGGY_FOOD\",\"displayLabel\":\"Dish\"}",
+      "cta": {
+        "text": "Chicken Dum Biryani",
+        "type": "DEEPLINK",
+        "link": "swiggy://explore?query=Chicken%20Dum%20Biryani&metadata=%7B%22type%22%3A%22DISH%22%2C%22data%22%3A%7B%22vegIdentifier%22%3A%22NONVEG%22%2C%22cloudinaryId%22%3A%22Autosuggest%2FTop%2520200%2520queries%2FChicken%2520Dum%2520Biryani.png%22%2C%22dishFamilyId%22%3A%22846613%22%2C%22dishFamilyIds%22%3A%5B%22846613%22%5D%2C%22dishPreparationStyleIds%22%3A%5B%22849037%22%5D%2C%22dishTypeIds%22%3A%5B%22847329%22%5D%7D%2C%22businessCategory%22%3A%22SWIGGY_FOOD%22%2C%22displayLabel%22%3A%22Dish%22%7D&marketplace=%7B%22marketplaceId%22%3A%22SWIGGY%22%2C%22businessLineId%22%3A%22FOOD%22%7D"
+      },
+      "category": "Food",
+      "categoryColor": "#686B78",
+      "subCategory": "Dish",
+      "subCategoryColor": "#686B78"
+    },
+    {
+      "text": "Chicken Biryani",
+      "highlightedText": "Chicken {{Biryani}}",
+      "suggestionType": "SUGGESTION_TYPE_LOW_CONFIDENCE",
+      "type": "DISH",
+      "marketplace": {
+        "marketplaceId": "SWIGGY",
+        "businessLineId": "FOOD"
+      },
+      "tagToDisplay": "Dish",
+      "cloudinaryId": "gxghope8gkvkyyhicv0p",
+      "tagToDisplayColor": "#686B78",
+      "metadata": "{\"type\":\"DISH\",\"data\":{\"vegIdentifier\":\"NONVEG\",\"cloudinaryId\":\"gxghope8gkvkyyhicv0p\",\"dishFamilyId\":\"846613\",\"dishTypeId\":\"847329\",\"dishFamilyIds\":[\"846613\"],\"dishTypeIds\":[\"847329\"]},\"businessCategory\":\"SWIGGY_FOOD\",\"displayLabel\":\"Dish\"}",
+      "cta": {
+        "text": "Chicken Biryani",
+        "type": "DEEPLINK",
+        "link": "swiggy://explore?query=Chicken%20Biryani&metadata=%7B%22type%22%3A%22DISH%22%2C%22data%22%3A%7B%22vegIdentifier%22%3A%22NONVEG%22%2C%22cloudinaryId%22%3A%22gxghope8gkvkyyhicv0p%22%2C%22dishFamilyId%22%3A%22846613%22%2C%22dishTypeId%22%3A%22847329%22%2C%22dishFamilyIds%22%3A%5B%22846613%22%5D%2C%22dishTypeIds%22%3A%5B%22847329%22%5D%7D%2C%22businessCategory%22%3A%22SWIGGY_FOOD%22%2C%22displayLabel%22%3A%22Dish%22%7D&marketplace=%7B%22marketplaceId%22%3A%22SWIGGY%22%2C%22businessLineId%22%3A%22FOOD%22%7D"
+      },
+      "category": "Food",
+      "categoryColor": "#686B78",
+      "subCategory": "Dish",
+      "subCategoryColor": "#686B78"
+    },
+    {
+      "text": "Veg Biryani",
+      "highlightedText": "Veg {{Biryani}}",
+      "suggestionType": "SUGGESTION_TYPE_LOW_CONFIDENCE",
+      "type": "DISH",
+      "marketplace": {
+        "marketplaceId": "SWIGGY",
+        "businessLineId": "FOOD"
+      },
+      "tagToDisplay": "Dish",
+      "cloudinaryId": "Autosuggest/Top%20200%20queries/Veg%20Biryani.png",
+      "tagToDisplayColor": "#686B78",
+      "metadata": "{\"type\":\"DISH\",\"data\":{\"vegIdentifier\":\"VEG\",\"cloudinaryId\":\"Autosuggest/Top%20200%20queries/Veg%20Biryani.png\",\"dishFamilyId\":\"846613\",\"dishTypeId\":\"847318\",\"dishFamilyIds\":[\"846613\"],\"dishTypeIds\":[\"847318\"]},\"businessCategory\":\"SWIGGY_FOOD\",\"displayLabel\":\"Dish\"}",
+      "cta": {
+        "text": "Veg Biryani",
+        "type": "DEEPLINK",
+        "link": "swiggy://explore?query=Veg%20Biryani&metadata=%7B%22type%22%3A%22DISH%22%2C%22data%22%3A%7B%22vegIdentifier%22%3A%22VEG%22%2C%22cloudinaryId%22%3A%22Autosuggest%2FTop%2520200%2520queries%2FVeg%2520Biryani.png%22%2C%22dishFamilyId%22%3A%22846613%22%2C%22dishTypeId%22%3A%22847318%22%2C%22dishFamilyIds%22%3A%5B%22846613%22%5D%2C%22dishTypeIds%22%3A%5B%22847318%22%5D%7D%2C%22businessCategory%22%3A%22SWIGGY_FOOD%22%2C%22displayLabel%22%3A%22Dish%22%7D&marketplace=%7B%22marketplaceId%22%3A%22SWIGGY%22%2C%22businessLineId%22%3A%22FOOD%22%7D"
+      },
+      "category": "Food",
+      "categoryColor": "#686B78",
+      "subCategory": "Dish",
+      "subCategoryColor": "#686B78"
+    },
+    {
+      "text": "Behrouz Biryani",
+      "highlightedText": "Behrouz {{Biryani}}",
+      "suggestionType": "SUGGESTION_TYPE_LOW_CONFIDENCE",
+      "type": "RESTAURANT",
+      "marketplace": {
+        "marketplaceId": "SWIGGY",
+        "businessLineId": "FOOD"
+      },
+      "tagToDisplay": "Restaurant",
+      "tagToDisplayColor": "#686B78",
+      "cloudinaryId": "89fccaa76f2f760e2742b9e53d32bb69",
+      "metadata": "{\"type\":\"RESTAURANT\",\"data\":{\"parentId\":1803,\"primaryRestaurantId\":169030,\"cloudinaryId\":\"89fccaa76f2f760e2742b9e53d32bb69\",\"brandId\":1803,\"dishFamilyId\":\"846613\",\"enabled_flag\":1},\"businessCategory\":\"SWIGGY_FOOD\",\"displayLabel\":\"Restaurant\"}",
+      "cta": {
+        "text": "Behrouz Biryani",
+        "type": "DEEPLINK",
+        "link": "swiggy://explore?query=Behrouz%20Biryani&metadata=%7B%22type%22%3A%22RESTAURANT%22%2C%22data%22%3A%7B%22parentId%22%3A1803%2C%22primaryRestaurantId%22%3A169030%2C%22cloudinaryId%22%3A%2289fccaa76f2f760e2742b9e53d32bb69%22%2C%22brandId%22%3A1803%2C%22dishFamilyId%22%3A%22846613%22%2C%22enabled_flag%22%3A1%7D%2C%22businessCategory%22%3A%22SWIGGY_FOOD%22%2C%22displayLabel%22%3A%22Restaurant%22%7D&marketplace=%7B%22marketplaceId%22%3A%22SWIGGY%22%2C%22businessLineId%22%3A%22FOOD%22%7D"
+      },
+      "category": "Food",
+      "categoryColor": "#686B78",
+      "subCategory": "Restaurant",
+      "subCategoryColor": "#686B78",
+      "restaurantId": 0,
+      "disabled": false
+    },
+    {
+      "text": "Dum Safar Biryani",
+      "highlightedText": "Dum Safar {{Biryani}}",
+      "suggestionType": "SUGGESTION_TYPE_LOW_CONFIDENCE",
+      "type": "RESTAURANT",
+      "marketplace": {
+        "marketplaceId": "SWIGGY",
+        "businessLineId": "FOOD"
+      },
+      "tagToDisplay": "Restaurant",
+      "tagToDisplayColor": "#686B78",
+      "cloudinaryId": "47eee43e59a6d49b0f6d9a2b0e523f47",
+      "metadata": "{\"type\":\"RESTAURANT\",\"data\":{\"parentId\":351013,\"primaryRestaurantId\":639457,\"cloudinaryId\":\"47eee43e59a6d49b0f6d9a2b0e523f47\",\"brandId\":351013,\"dishFamilyId\":\"846613\",\"enabled_flag\":1},\"businessCategory\":\"SWIGGY_FOOD\",\"displayLabel\":\"Restaurant\"}",
+      "cta": {
+        "text": "Dum Safar Biryani",
+        "type": "DEEPLINK",
+        "link": "swiggy://explore?query=Dum%20Safar%20Biryani&metadata=%7B%22type%22%3A%22RESTAURANT%22%2C%22data%22%3A%7B%22parentId%22%3A351013%2C%22primaryRestaurantId%22%3A639457%2C%22cloudinaryId%22%3A%2247eee43e59a6d49b0f6d9a2b0e523f47%22%2C%22brandId%22%3A351013%2C%22dishFamilyId%22%3A%22846613%22%2C%22enabled_flag%22%3A1%7D%2C%22businessCategory%22%3A%22SWIGGY_FOOD%22%2C%22displayLabel%22%3A%22Restaurant%22%7D&marketplace=%7B%22marketplaceId%22%3A%22SWIGGY%22%2C%22businessLineId%22%3A%22FOOD%22%7D"
+      },
+      "category": "Food",
+      "categoryColor": "#686B78",
+      "subCategory": "Restaurant",
+      "subCategoryColor": "#686B78",
+      "restaurantId": 0,
+      "disabled": false
+    },
+    {
+      "text": "Paneer Tikka Biryani",
+      "highlightedText": "Paneer Tikka {{Biryani}}",
+      "suggestionType": "SUGGESTION_TYPE_LOW_CONFIDENCE",
+      "type": "DISH",
+      "marketplace": {
+        "marketplaceId": "SWIGGY",
+        "businessLineId": "FOOD"
+      },
+      "tagToDisplay": "Dish",
+      "cloudinaryId": "b12dd0884a105f4299e441baccdff70b",
+      "tagToDisplayColor": "#686B78",
+      "metadata": "{\"type\":\"DISH\",\"data\":{\"vegIdentifier\":\"VEG\",\"cloudinaryId\":\"b12dd0884a105f4299e441baccdff70b\",\"dishFamilyId\":\"846613\",\"dishFamilyIds\":[\"846613\"],\"dishPreparationStyleIds\":[\"849042\"],\"dishTypeIds\":[\"847320\"]},\"businessCategory\":\"SWIGGY_FOOD\",\"displayLabel\":\"Dish\"}",
+      "cta": {
+        "text": "Paneer Tikka Biryani",
+        "type": "DEEPLINK",
+        "link": "swiggy://explore?query=Paneer%20Tikka%20Biryani&metadata=%7B%22type%22%3A%22DISH%22%2C%22data%22%3A%7B%22vegIdentifier%22%3A%22VEG%22%2C%22cloudinaryId%22%3A%22b12dd0884a105f4299e441baccdff70b%22%2C%22dishFamilyId%22%3A%22846613%22%2C%22dishFamilyIds%22%3A%5B%22846613%22%5D%2C%22dishPreparationStyleIds%22%3A%5B%22849042%22%5D%2C%22dishTypeIds%22%3A%5B%22847320%22%5D%7D%2C%22businessCategory%22%3A%22SWIGGY_FOOD%22%2C%22displayLabel%22%3A%22Dish%22%7D&marketplace=%7B%22marketplaceId%22%3A%22SWIGGY%22%2C%22businessLineId%22%3A%22FOOD%22%7D"
+      },
+      "category": "Food",
+      "categoryColor": "#686B78",
+      "subCategory": "Dish",
+      "subCategoryColor": "#686B78"
+    },
+    {
+      "text": "Chinese",
+      "highlightedText": "{{Chinese}}",
+      "cloudinaryId": "vg9oscvcwc4wzo4dgzpy",
+      "suggestionType": "SUGGESTION_TYPE_LOW_CONFIDENCE",
+      "type": "CUISINE",
+      "marketplace": {
+        "marketplaceId": "SWIGGY",
+        "businessLineId": "FOOD"
+      },
+      "tagToDisplay": "Cuisine",
+      "tagToDisplayColor": "#686B78",
+      "metadata": "{\"type\":\"CUISINE\",\"data\":{\"cloudinaryId\":\"vg9oscvcwc4wzo4dgzpy\"},\"businessCategory\":\"SWIGGY_FOOD\",\"displayLabel\":\"Cuisine\"}",
+      "cta": {
+        "text": "Chinese",
+        "type": "DEEPLINK",
+        "link": "swiggy://explore?query=Chinese&metadata=%7B%22type%22%3A%22CUISINE%22%2C%22data%22%3A%7B%22cloudinaryId%22%3A%22vg9oscvcwc4wzo4dgzpy%22%7D%2C%22businessCategory%22%3A%22SWIGGY_FOOD%22%2C%22displayLabel%22%3A%22Cuisine%22%7D&marketplace=%7B%22marketplaceId%22%3A%22SWIGGY%22%2C%22businessLineId%22%3A%22FOOD%22%7D"
+      },
+      "category": "Food",
+      "categoryColor": "#686B78",
+      "subCategory": "Cuisine",
+      "subCategoryColor": "#686B78"
+    },
+    {
+      "text": "Trishiv Chinese Corner",
+      "highlightedText": "Trishiv {{Chinese}} Corner",
+      "suggestionType": "SUGGESTION_TYPE_LOW_CONFIDENCE",
+      "type": "RESTAURANT",
+      "marketplace": {
+        "marketplaceId": "SWIGGY",
+        "businessLineId": "FOOD"
+      },
+      "tagToDisplay": "Restaurant",
+      "tagToDisplayColor": "#686B78",
+      "cloudinaryId": "u0dtbonch7uykdkpnjja",
+      "metadata": "{\"type\":\"RESTAURANT\",\"data\":{\"parentId\":10847,\"primaryRestaurantId\":89168,\"cloudinaryId\":\"u0dtbonch7uykdkpnjja\",\"brandId\":10847,\"dishFamilyId\":\"846498\",\"enabled_flag\":1},\"businessCategory\":\"SWIGGY_FOOD\",\"displayLabel\":\"Restaurant\"}",
+      "cta": {
+        "text": "Trishiv Chinese Corner",
+        "type": "DEEPLINK",
+        "link": "swiggy://explore?query=Trishiv%20Chinese%20Corner&metadata=%7B%22type%22%3A%22RESTAURANT%22%2C%22data%22%3A%7B%22parentId%22%3A10847%2C%22primaryRestaurantId%22%3A89168%2C%22cloudinaryId%22%3A%22u0dtbonch7uykdkpnjja%22%2C%22brandId%22%3A10847%2C%22dishFamilyId%22%3A%22846498%22%2C%22enabled_flag%22%3A1%7D%2C%22businessCategory%22%3A%22SWIGGY_FOOD%22%2C%22displayLabel%22%3A%22Restaurant%22%7D&marketplace=%7B%22marketplaceId%22%3A%22SWIGGY%22%2C%22businessLineId%22%3A%22FOOD%22%7D"
+      },
+      "category": "Food",
+      "categoryColor": "#686B78",
+      "subCategory": "Restaurant",
+      "subCategoryColor": "#686B78",
+      "restaurantId": 0,
+      "disabled": false
+    },
+    {
+      "text": "Jakaas Chinese Food",
+      "highlightedText": "Jakaas {{Chinese}} Food",
+      "suggestionType": "SUGGESTION_TYPE_LOW_CONFIDENCE",
+      "type": "RESTAURANT",
+      "marketplace": {
+        "marketplaceId": "SWIGGY",
+        "businessLineId": "FOOD"
+      },
+      "tagToDisplay": "Restaurant",
+      "tagToDisplayColor": "#686B78",
+      "cloudinaryId": "ngajktrkoa9iins4iwxh",
+      "metadata": "{\"type\":\"RESTAURANT\",\"data\":{\"parentId\":542707,\"primaryRestaurantId\":76475,\"cloudinaryId\":\"ngajktrkoa9iins4iwxh\",\"brandId\":542707,\"dishFamilyId\":\"846498\",\"enabled_flag\":1},\"businessCategory\":\"SWIGGY_FOOD\",\"displayLabel\":\"Restaurant\"}",
+      "cta": {
+        "text": "Jakaas Chinese Food",
+        "type": "DEEPLINK",
+        "link": "swiggy://explore?query=Jakaas%20Chinese%20Food&metadata=%7B%22type%22%3A%22RESTAURANT%22%2C%22data%22%3A%7B%22parentId%22%3A542707%2C%22primaryRestaurantId%22%3A76475%2C%22cloudinaryId%22%3A%22ngajktrkoa9iins4iwxh%22%2C%22brandId%22%3A542707%2C%22dishFamilyId%22%3A%22846498%22%2C%22enabled_flag%22%3A1%7D%2C%22businessCategory%22%3A%22SWIGGY_FOOD%22%2C%22displayLabel%22%3A%22Restaurant%22%7D&marketplace=%7B%22marketplaceId%22%3A%22SWIGGY%22%2C%22businessLineId%22%3A%22FOOD%22%7D"
+      },
+      "category": "Food",
+      "categoryColor": "#686B78",
+      "subCategory": "Restaurant",
+      "subCategoryColor": "#686B78",
+      "restaurantId": 0,
+      "disabled": false
+    },
+    {
+      "text": "Chinese Wok",
+      "highlightedText": "{{Chinese}} Wok",
+      "suggestionType": "SUGGESTION_TYPE_LOW_CONFIDENCE",
+      "type": "RESTAURANT",
+      "marketplace": {
+        "marketplaceId": "SWIGGY",
+        "businessLineId": "FOOD"
+      },
+      "tagToDisplay": "Restaurant",
+      "tagToDisplayColor": "#686B78",
+      "cloudinaryId": "b4817ea5bb972089f419c6f14e5a0bdd",
+      "metadata": "{\"type\":\"RESTAURANT\",\"data\":{\"parentId\":61955,\"primaryRestaurantId\":790814,\"cloudinaryId\":\"b4817ea5bb972089f419c6f14e5a0bdd\",\"brandId\":61955,\"dishFamilyId\":\"846630\",\"enabled_flag\":1},\"businessCategory\":\"SWIGGY_FOOD\",\"displayLabel\":\"Restaurant\"}",
+      "cta": {
+        "text": "Chinese Wok",
+        "type": "DEEPLINK",
+        "link": "swiggy://explore?query=Chinese%20Wok&metadata=%7B%22type%22%3A%22RESTAURANT%22%2C%22data%22%3A%7B%22parentId%22%3A61955%2C%22primaryRestaurantId%22%3A790814%2C%22cloudinaryId%22%3A%22b4817ea5bb972089f419c6f14e5a0bdd%22%2C%22brandId%22%3A61955%2C%22dishFamilyId%22%3A%22846630%22%2C%22enabled_flag%22%3A1%7D%2C%22businessCategory%22%3A%22SWIGGY_FOOD%22%2C%22displayLabel%22%3A%22Restaurant%22%7D&marketplace=%7B%22marketplaceId%22%3A%22SWIGGY%22%2C%22businessLineId%22%3A%22FOOD%22%7D"
+      },
+      "category": "Food",
+      "categoryColor": "#686B78",
+      "subCategory": "Restaurant",
+      "subCategoryColor": "#686B78",
+      "restaurantId": 0,
+      "disabled": false
+    },
+    {
+      "text": "Trishul Chinese",
+      "highlightedText": "Trishul {{Chinese}}",
+      "suggestionType": "SUGGESTION_TYPE_LOW_CONFIDENCE",
+      "type": "RESTAURANT",
+      "marketplace": {
+        "marketplaceId": "SWIGGY",
+        "businessLineId": "FOOD"
+      },
+      "tagToDisplay": "Restaurant",
+      "tagToDisplayColor": "#686B78",
+      "cloudinaryId": "RX_THUMBNAIL/IMAGES/VENDOR/2025/9/26/da3cbd22-29be-4d1b-a0c5-d507177fe317_1195729.jpg",
+      "metadata": "{\"type\":\"RESTAURANT\",\"data\":{\"parentId\":683563,\"primaryRestaurantId\":1195729,\"cloudinaryId\":\"RX_THUMBNAIL/IMAGES/VENDOR/2025/9/26/da3cbd22-29be-4d1b-a0c5-d507177fe317_1195729.jpg\",\"brandId\":683563,\"dishFamilyId\":\"846498\",\"enabled_flag\":1},\"businessCategory\":\"SWIGGY_FOOD\",\"displayLabel\":\"Restaurant\"}",
+      "cta": {
+        "text": "Trishul Chinese",
+        "type": "DEEPLINK",
+        "link": "swiggy://explore?query=Trishul%20Chinese&metadata=%7B%22type%22%3A%22RESTAURANT%22%2C%22data%22%3A%7B%22parentId%22%3A683563%2C%22primaryRestaurantId%22%3A1195729%2C%22cloudinaryId%22%3A%22RX_THUMBNAIL%2FIMAGES%2FVENDOR%2F2025%2F9%2F26%2Fda3cbd22-29be-4d1b-a0c5-d507177fe317_1195729.jpg%22%2C%22brandId%22%3A683563%2C%22dishFamilyId%22%3A%22846498%22%2C%22enabled_flag%22%3A1%7D%2C%22businessCategory%22%3A%22SWIGGY_FOOD%22%2C%22displayLabel%22%3A%22Restaurant%22%7D&marketplace=%7B%22marketplaceId%22%3A%22SWIGGY%22%2C%22businessLineId%22%3A%22FOOD%22%7D"
+      },
+      "category": "Food",
+      "categoryColor": "#686B78",
+      "subCategory": "Restaurant",
+      "subCategoryColor": "#686B78",
+      "restaurantId": 0,
+      "disabled": false
+    },
+    {
+      "text": "Chinese Combo",
+      "highlightedText": "{{Chinese}} Combo",
+      "suggestionType": "SUGGESTION_TYPE_LOW_CONFIDENCE",
+      "type": "DISH",
+      "marketplace": {
+        "marketplaceId": "SWIGGY",
+        "businessLineId": "FOOD"
+      },
+      "tagToDisplay": "Dish",
+      "cloudinaryId": "ada0bc1b8bef40accb4cd8b40f271753",
+      "tagToDisplayColor": "#686B78",
+      "metadata": "{\"type\":\"DISH\",\"data\":{\"vegIdentifier\":\"NA\",\"cloudinaryId\":\"ada0bc1b8bef40accb4cd8b40f271753\"},\"businessCategory\":\"SWIGGY_FOOD\",\"displayLabel\":\"Dish\"}",
+      "cta": {
+        "text": "Chinese Combo",
+        "type": "DEEPLINK",
+        "link": "swiggy://explore?query=Chinese%20Combo&metadata=%7B%22type%22%3A%22DISH%22%2C%22data%22%3A%7B%22vegIdentifier%22%3A%22NA%22%2C%22cloudinaryId%22%3A%22ada0bc1b8bef40accb4cd8b40f271753%22%7D%2C%22businessCategory%22%3A%22SWIGGY_FOOD%22%2C%22displayLabel%22%3A%22Dish%22%7D&marketplace=%7B%22marketplaceId%22%3A%22SWIGGY%22%2C%22businessLineId%22%3A%22FOOD%22%7D"
+      },
+      "category": "Food",
+      "categoryColor": "#686B78",
+      "subCategory": "Dish",
+      "subCategoryColor": "#686B78"
+    },
+    {
+      "text": "Chinese Gravy",
+      "highlightedText": "{{Chinese}} Gravy",
+      "suggestionType": "SUGGESTION_TYPE_LOW_CONFIDENCE",
+      "type": "DISH",
+      "marketplace": {
+        "marketplaceId": "SWIGGY",
+        "businessLineId": "FOOD"
+      },
+      "tagToDisplay": "Dish",
+      "cloudinaryId": "rh1xjy2tn7vvhhfszr5v",
+      "tagToDisplayColor": "#686B78",
+      "metadata": "{\"type\":\"DISH\",\"data\":{\"vegIdentifier\":\"NA\",\"cloudinaryId\":\"rh1xjy2tn7vvhhfszr5v\",\"dishPreparationStyleIds\":[\"6a5c980e-f075-4640-b7a6-160ca2ef40dd\"]},\"businessCategory\":\"SWIGGY_FOOD\",\"displayLabel\":\"Dish\"}",
+      "cta": {
+        "text": "Chinese Gravy",
+        "type": "DEEPLINK",
+        "link": "swiggy://explore?query=Chinese%20Gravy&metadata=%7B%22type%22%3A%22DISH%22%2C%22data%22%3A%7B%22vegIdentifier%22%3A%22NA%22%2C%22cloudinaryId%22%3A%22rh1xjy2tn7vvhhfszr5v%22%2C%22dishPreparationStyleIds%22%3A%5B%226a5c980e-f075-4640-b7a6-160ca2ef40dd%22%5D%7D%2C%22businessCategory%22%3A%22SWIGGY_FOOD%22%2C%22displayLabel%22%3A%22Dish%22%7D&marketplace=%7B%22marketplaceId%22%3A%22SWIGGY%22%2C%22businessLineId%22%3A%22FOOD%22%7D"
+      },
+      "category": "Food",
+      "categoryColor": "#686B78",
+      "subCategory": "Dish",
+      "subCategoryColor": "#686B78"
+    },
+    {
+      "text": "Chinese Samosa",
+      "highlightedText": "{{Chinese}} Samosa",
+      "suggestionType": "SUGGESTION_TYPE_LOW_CONFIDENCE",
+      "type": "DISH",
+      "marketplace": {
+        "marketplaceId": "SWIGGY",
+        "businessLineId": "FOOD"
+      },
+      "tagToDisplay": "Dish",
+      "cloudinaryId": "iohorzq5y76dkbjijew0",
+      "tagToDisplayColor": "#686B78",
+      "metadata": "{\"type\":\"DISH\",\"data\":{\"vegIdentifier\":\"NA\",\"cloudinaryId\":\"iohorzq5y76dkbjijew0\",\"dishFamilyId\":\"846527\",\"dishFamilyIds\":[\"846527\"],\"dishPreparationStyleIds\":[\"848670\"]},\"businessCategory\":\"SWIGGY_FOOD\",\"displayLabel\":\"Dish\"}",
+      "cta": {
+        "text": "Chinese Samosa",
+        "type": "DEEPLINK",
+        "link": "swiggy://explore?query=Chinese%20Samosa&metadata=%7B%22type%22%3A%22DISH%22%2C%22data%22%3A%7B%22vegIdentifier%22%3A%22NA%22%2C%22cloudinaryId%22%3A%22iohorzq5y76dkbjijew0%22%2C%22dishFamilyId%22%3A%22846527%22%2C%22dishFamilyIds%22%3A%5B%22846527%22%5D%2C%22dishPreparationStyleIds%22%3A%5B%22848670%22%5D%7D%2C%22businessCategory%22%3A%22SWIGGY_FOOD%22%2C%22displayLabel%22%3A%22Dish%22%7D&marketplace=%7B%22marketplaceId%22%3A%22SWIGGY%22%2C%22businessLineId%22%3A%22FOOD%22%7D"
+      },
+      "category": "Food",
+      "categoryColor": "#686B78",
+      "subCategory": "Dish",
+      "subCategoryColor": "#686B78"
+    },
+    {
+      "text": "Chinese Bhel",
+      "highlightedText": "{{Chinese}} Bhel",
+      "suggestionType": "SUGGESTION_TYPE_LOW_CONFIDENCE",
+      "type": "DISH",
+      "marketplace": {
+        "marketplaceId": "SWIGGY",
+        "businessLineId": "FOOD"
+      },
+      "tagToDisplay": "Dish",
+      "cloudinaryId": "siysdrdog6f9fqk5wyts",
+      "tagToDisplayColor": "#686B78",
+      "metadata": "{\"type\":\"DISH\",\"data\":{\"vegIdentifier\":\"VEG\",\"cloudinaryId\":\"siysdrdog6f9fqk5wyts\",\"dishFamilyId\":\"846546\",\"dishFamilyIds\":[\"846546\"],\"dishPreparationStyleIds\":[\"848728\"]},\"businessCategory\":\"SWIGGY_FOOD\",\"displayLabel\":\"Dish\"}",
+      "cta": {
+        "text": "Chinese Bhel",
+        "type": "DEEPLINK",
+        "link": "swiggy://explore?query=Chinese%20Bhel&metadata=%7B%22type%22%3A%22DISH%22%2C%22data%22%3A%7B%22vegIdentifier%22%3A%22VEG%22%2C%22cloudinaryId%22%3A%22siysdrdog6f9fqk5wyts%22%2C%22dishFamilyId%22%3A%22846546%22%2C%22dishFamilyIds%22%3A%5B%22846546%22%5D%2C%22dishPreparationStyleIds%22%3A%5B%22848728%22%5D%7D%2C%22businessCategory%22%3A%22SWIGGY_FOOD%22%2C%22displayLabel%22%3A%22Dish%22%7D&marketplace=%7B%22marketplaceId%22%3A%22SWIGGY%22%2C%22businessLineId%22%3A%22FOOD%22%7D"
+      },
+      "category": "Food",
+      "categoryColor": "#686B78",
+      "subCategory": "Dish",
+      "subCategoryColor": "#686B78"
+    },
+    {
+      "text": "Coffee",
+      "highlightedText": "{{Coffee}}",
+      "suggestionType": "SUGGESTION_TYPE_LOW_CONFIDENCE",
+      "type": "DISH",
+      "marketplace": {
+        "marketplaceId": "SWIGGY",
+        "businessLineId": "FOOD"
+      },
+      "tagToDisplay": "Dish",
+      "cloudinaryId": "Autosuggest/Top%20200%20queries/coffee.png",
+      "tagToDisplayColor": "#686B78",
+      "metadata": "{\"type\":\"DISH\",\"data\":{\"vegIdentifier\":\"VEG\",\"cloudinaryId\":\"Autosuggest/Top%20200%20queries/coffee.png\",\"dishFamilyId\":\"846683\",\"dishFamilyIds\":[\"846683\"]},\"businessCategory\":\"SWIGGY_FOOD\",\"displayLabel\":\"Dish\"}",
+      "cta": {
+        "text": "Coffee",
+        "type": "DEEPLINK",
+        "link": "swiggy://explore?query=Coffee&metadata=%7B%22type%22%3A%22DISH%22%2C%22data%22%3A%7B%22vegIdentifier%22%3A%22VEG%22%2C%22cloudinaryId%22%3A%22Autosuggest%2FTop%2520200%2520queries%2Fcoffee.png%22%2C%22dishFamilyId%22%3A%22846683%22%2C%22dishFamilyIds%22%3A%5B%22846683%22%5D%7D%2C%22businessCategory%22%3A%22SWIGGY_FOOD%22%2C%22displayLabel%22%3A%22Dish%22%7D&marketplace=%7B%22marketplaceId%22%3A%22SWIGGY%22%2C%22businessLineId%22%3A%22FOOD%22%7D"
+      },
+      "category": "Food",
+      "categoryColor": "#686B78",
+      "subCategory": "Dish",
+      "subCategoryColor": "#686B78"
+    },
+    {
+      "text": "Starbucks Coffee",
+      "highlightedText": "Starbucks {{Coffee}}",
+      "suggestionType": "SUGGESTION_TYPE_LOW_CONFIDENCE",
+      "type": "RESTAURANT",
+      "marketplace": {
+        "marketplaceId": "SWIGGY",
+        "businessLineId": "FOOD"
+      },
+      "tagToDisplay": "Restaurant",
+      "tagToDisplayColor": "#686B78",
+      "cloudinaryId": "RX_THUMBNAIL/IMAGES/VENDOR/2026/3/26/7d056548-d22f-4758-ba15-bb6798183cad_236434.JPG",
+      "metadata": "{\"type\":\"RESTAURANT\",\"data\":{\"parentId\":195515,\"primaryRestaurantId\":236434,\"cloudinaryId\":\"RX_THUMBNAIL/IMAGES/VENDOR/2026/3/26/7d056548-d22f-4758-ba15-bb6798183cad_236434.JPG\",\"brandId\":195515,\"dishFamilyId\":\"846683\",\"enabled_flag\":1},\"businessCategory\":\"SWIGGY_FOOD\",\"displayLabel\":\"Restaurant\"}",
+      "cta": {
+        "text": "Starbucks Coffee",
+        "type": "DEEPLINK",
+        "link": "swiggy://explore?query=Starbucks%20Coffee&metadata=%7B%22type%22%3A%22RESTAURANT%22%2C%22data%22%3A%7B%22parentId%22%3A195515%2C%22primaryRestaurantId%22%3A236434%2C%22cloudinaryId%22%3A%22RX_THUMBNAIL%2FIMAGES%2FVENDOR%2F2026%2F3%2F26%2F7d056548-d22f-4758-ba15-bb6798183cad_236434.JPG%22%2C%22brandId%22%3A195515%2C%22dishFamilyId%22%3A%22846683%22%2C%22enabled_flag%22%3A1%7D%2C%22businessCategory%22%3A%22SWIGGY_FOOD%22%2C%22displayLabel%22%3A%22Restaurant%22%7D&marketplace=%7B%22marketplaceId%22%3A%22SWIGGY%22%2C%22businessLineId%22%3A%22FOOD%22%7D"
+      },
+      "category": "Food",
+      "categoryColor": "#686B78",
+      "subCategory": "Restaurant",
+      "subCategoryColor": "#686B78",
+      "restaurantId": 0,
+      "disabled": false
+    },
+    {
+      "text": "NBC - Nothing Before Coffee",
+      "highlightedText": "NBC - Nothing Before {{Coffee}}",
+      "suggestionType": "SUGGESTION_TYPE_LOW_CONFIDENCE",
+      "type": "RESTAURANT",
+      "marketplace": {
+        "marketplaceId": "SWIGGY",
+        "businessLineId": "FOOD"
+      },
+      "tagToDisplay": "Restaurant",
+      "tagToDisplayColor": "#686B78",
+      "cloudinaryId": "RX_THUMBNAIL/IMAGES/VENDOR/2025/5/2/56fd75b5-623b-4679-9496-f1cb8fc8ad1e_616352.jpg",
+      "metadata": "{\"type\":\"RESTAURANT\",\"data\":{\"parentId\":372155,\"primaryRestaurantId\":616352,\"cloudinaryId\":\"RX_THUMBNAIL/IMAGES/VENDOR/2025/5/2/56fd75b5-623b-4679-9496-f1cb8fc8ad1e_616352.jpg\",\"brandId\":372155,\"dishFamilyId\":\"846683\",\"enabled_flag\":1},\"businessCategory\":\"SWIGGY_FOOD\",\"displayLabel\":\"Restaurant\"}",
+      "cta": {
+        "text": "NBC - Nothing Before Coffee",
+        "type": "DEEPLINK",
+        "link": "swiggy://explore?query=NBC%20-%20Nothing%20Before%20Coffee&metadata=%7B%22type%22%3A%22RESTAURANT%22%2C%22data%22%3A%7B%22parentId%22%3A372155%2C%22primaryRestaurantId%22%3A616352%2C%22cloudinaryId%22%3A%22RX_THUMBNAIL%2FIMAGES%2FVENDOR%2F2025%2F5%2F2%2F56fd75b5-623b-4679-9496-f1cb8fc8ad1e_616352.jpg%22%2C%22brandId%22%3A372155%2C%22dishFamilyId%22%3A%22846683%22%2C%22enabled_flag%22%3A1%7D%2C%22businessCategory%22%3A%22SWIGGY_FOOD%22%2C%22displayLabel%22%3A%22Restaurant%22%7D&marketplace=%7B%22marketplaceId%22%3A%22SWIGGY%22%2C%22businessLineId%22%3A%22FOOD%22%7D"
+      },
+      "category": "Food",
+      "categoryColor": "#686B78",
+      "subCategory": "Restaurant",
+      "subCategoryColor": "#686B78",
+      "restaurantId": 0,
+      "disabled": false
+    },
+    {
+      "text": "Livestream Coffee Piplod",
+      "highlightedText": "Livestream {{Coffee}} Piplod",
+      "suggestionType": "SUGGESTION_TYPE_LOW_CONFIDENCE",
+      "type": "RESTAURANT",
+      "marketplace": {
+        "marketplaceId": "SWIGGY",
+        "businessLineId": "FOOD"
+      },
+      "tagToDisplay": "Restaurant",
+      "tagToDisplayColor": "#686B78",
+      "cloudinaryId": "RX_THUMBNAIL/IMAGES/VENDOR/2025/2/8/9420837e-5dc3-4932-8962-eb7574644a7b_819787 (1).jpg",
+      "metadata": "{\"type\":\"RESTAURANT\",\"data\":{\"parentId\":489251,\"primaryRestaurantId\":819787,\"cloudinaryId\":\"RX_THUMBNAIL/IMAGES/VENDOR/2025/2/8/9420837e-5dc3-4932-8962-eb7574644a7b_819787 (1).jpg\",\"brandId\":489251,\"dishFamilyId\":\"846683\",\"enabled_flag\":1},\"businessCategory\":\"SWIGGY_FOOD\",\"displayLabel\":\"Restaurant\"}",
+      "cta": {
+        "text": "Livestream Coffee Piplod",
+        "type": "DEEPLINK",
+        "link": "swiggy://explore?query=Livestream%20Coffee%20Piplod&metadata=%7B%22type%22%3A%22RESTAURANT%22%2C%22data%22%3A%7B%22parentId%22%3A489251%2C%22primaryRestaurantId%22%3A819787%2C%22cloudinaryId%22%3A%22RX_THUMBNAIL%2FIMAGES%2FVENDOR%2F2025%2F2%2F8%2F9420837e-5dc3-4932-8962-eb7574644a7b_819787%20%281%29.jpg%22%2C%22brandId%22%3A489251%2C%22dishFamilyId%22%3A%22846683%22%2C%22enabled_flag%22%3A1%7D%2C%22businessCategory%22%3A%22SWIGGY_FOOD%22%2C%22displayLabel%22%3A%22Restaurant%22%7D&marketplace=%7B%22marketplaceId%22%3A%22SWIGGY%22%2C%22businessLineId%22%3A%22FOOD%22%7D"
+      },
+      "category": "Food",
+      "categoryColor": "#686B78",
+      "subCategory": "Restaurant",
+      "subCategoryColor": "#686B78",
+      "restaurantId": 0,
+      "disabled": false
+    },
+    {
+      "text": "Livestream Coffee Pal",
+      "highlightedText": "Livestream {{Coffee}} Pal",
+      "suggestionType": "SUGGESTION_TYPE_LOW_CONFIDENCE",
+      "type": "RESTAURANT",
+      "marketplace": {
+        "marketplaceId": "SWIGGY",
+        "businessLineId": "FOOD"
+      },
+      "tagToDisplay": "Restaurant",
+      "tagToDisplayColor": "#686B78",
+      "cloudinaryId": "RX_THUMBNAIL/IMAGES/VENDOR/2025/2/21/19499ea9-39f2-4b5e-9aad-67139c354573_1049633.jpg",
+      "metadata": "{\"type\":\"RESTAURANT\",\"data\":{\"parentId\":610258,\"primaryRestaurantId\":1049633,\"cloudinaryId\":\"RX_THUMBNAIL/IMAGES/VENDOR/2025/2/21/19499ea9-39f2-4b5e-9aad-67139c354573_1049633.jpg\",\"brandId\":610258,\"enabled_flag\":1},\"businessCategory\":\"SWIGGY_FOOD\",\"displayLabel\":\"Restaurant\"}",
+      "cta": {
+        "text": "Livestream Coffee Pal",
+        "type": "DEEPLINK",
+        "link": "swiggy://explore?query=Livestream%20Coffee%20Pal&metadata=%7B%22type%22%3A%22RESTAURANT%22%2C%22data%22%3A%7B%22parentId%22%3A610258%2C%22primaryRestaurantId%22%3A1049633%2C%22cloudinaryId%22%3A%22RX_THUMBNAIL%2FIMAGES%2FVENDOR%2F2025%2F2%2F21%2F19499ea9-39f2-4b5e-9aad-67139c354573_1049633.jpg%22%2C%22brandId%22%3A610258%2C%22enabled_flag%22%3A1%7D%2C%22businessCategory%22%3A%22SWIGGY_FOOD%22%2C%22displayLabel%22%3A%22Restaurant%22%7D&marketplace=%7B%22marketplaceId%22%3A%22SWIGGY%22%2C%22businessLineId%22%3A%22FOOD%22%7D"
+      },
+      "category": "Food",
+      "categoryColor": "#686B78",
+      "subCategory": "Restaurant",
+      "subCategoryColor": "#686B78",
+      "restaurantId": 0,
+      "disabled": false
+    },
+    {
+      "text": "Filter Coffee",
+      "highlightedText": "Filter {{Coffee}}",
+      "suggestionType": "SUGGESTION_TYPE_LOW_CONFIDENCE",
+      "type": "DISH",
+      "marketplace": {
+        "marketplaceId": "SWIGGY",
+        "businessLineId": "FOOD"
+      },
+      "tagToDisplay": "Dish",
+      "cloudinaryId": "oldxwtq5foo31xl0jyfi",
+      "tagToDisplayColor": "#686B78",
+      "metadata": "{\"type\":\"DISH\",\"data\":{\"vegIdentifier\":\"NA\",\"cloudinaryId\":\"oldxwtq5foo31xl0jyfi\",\"dishFamilyId\":\"846683\",\"dishFamilyIds\":[\"846683\"],\"dishPreparationStyleIds\":[\"849513\"]},\"businessCategory\":\"SWIGGY_FOOD\",\"displayLabel\":\"Dish\"}",
+      "cta": {
+        "text": "Filter Coffee",
+        "type": "DEEPLINK",
+        "link": "swiggy://explore?query=Filter%20Coffee&metadata=%7B%22type%22%3A%22DISH%22%2C%22data%22%3A%7B%22vegIdentifier%22%3A%22NA%22%2C%22cloudinaryId%22%3A%22oldxwtq5foo31xl0jyfi%22%2C%22dishFamilyId%22%3A%22846683%22%2C%22dishFamilyIds%22%3A%5B%22846683%22%5D%2C%22dishPreparationStyleIds%22%3A%5B%22849513%22%5D%7D%2C%22businessCategory%22%3A%22SWIGGY_FOOD%22%2C%22displayLabel%22%3A%22Dish%22%7D&marketplace=%7B%22marketplaceId%22%3A%22SWIGGY%22%2C%22businessLineId%22%3A%22FOOD%22%7D"
+      },
+      "category": "Food",
+      "categoryColor": "#686B78",
+      "subCategory": "Dish",
+      "subCategoryColor": "#686B78"
+    },
+    {
+      "text": "Cold Coffee",
+      "highlightedText": "Cold {{Coffee}}",
+      "suggestionType": "SUGGESTION_TYPE_LOW_CONFIDENCE",
+      "type": "DISH",
+      "marketplace": {
+        "marketplaceId": "SWIGGY",
+        "businessLineId": "FOOD"
+      },
+      "tagToDisplay": "Dish",
+      "cloudinaryId": "rrlgw7897wioxwninbf5",
+      "tagToDisplayColor": "#686B78",
+      "metadata": "{\"type\":\"DISH\",\"data\":{\"vegIdentifier\":\"VEG\",\"cloudinaryId\":\"rrlgw7897wioxwninbf5\",\"dishFamilyId\":\"846694\",\"dishFamilyIds\":[\"846694\"]},\"businessCategory\":\"SWIGGY_FOOD\",\"displayLabel\":\"Dish\"}",
+      "cta": {
+        "text": "Cold Coffee",
+        "type": "DEEPLINK",
+        "link": "swiggy://explore?query=Cold%20Coffee&metadata=%7B%22type%22%3A%22DISH%22%2C%22data%22%3A%7B%22vegIdentifier%22%3A%22VEG%22%2C%22cloudinaryId%22%3A%22rrlgw7897wioxwninbf5%22%2C%22dishFamilyId%22%3A%22846694%22%2C%22dishFamilyIds%22%3A%5B%22846694%22%5D%7D%2C%22businessCategory%22%3A%22SWIGGY_FOOD%22%2C%22displayLabel%22%3A%22Dish%22%7D&marketplace=%7B%22marketplaceId%22%3A%22SWIGGY%22%2C%22businessLineId%22%3A%22FOOD%22%7D"
+      },
+      "category": "Food",
+      "categoryColor": "#686B78",
+      "subCategory": "Dish",
+      "subCategoryColor": "#686B78"
+    },
+    {
+      "text": "Classic Cold Coffee",
+      "highlightedText": "Classic Cold {{Coffee}}",
+      "suggestionType": "SUGGESTION_TYPE_LOW_CONFIDENCE",
+      "type": "DISH",
+      "marketplace": {
+        "marketplaceId": "SWIGGY",
+        "businessLineId": "FOOD"
+      },
+      "tagToDisplay": "Dish",
+      "cloudinaryId": "FOOD_CATALOG/IMAGES/CMS/2024/3/11/6af1b2a3-541f-4cbc-ae80-99292cf0822d_1841bad1-2b9f-48e4-aabc-346ef25dfd4a.jpg_compressed",
+      "tagToDisplayColor": "#686B78",
+      "metadata": "{\"type\":\"DISH\",\"data\":{\"vegIdentifier\":\"VEG\",\"cloudinaryId\":\"FOOD_CATALOG/IMAGES/CMS/2024/3/11/6af1b2a3-541f-4cbc-ae80-99292cf0822d_1841bad1-2b9f-48e4-aabc-346ef25dfd4a.jpg_compressed\",\"dishFamilyId\":\"846694\",\"dishFamilyIds\":[\"846694\"]},\"businessCategory\":\"SWIGGY_FOOD\",\"displayLabel\":\"Dish\"}",
+      "cta": {
+        "text": "Classic Cold Coffee",
+        "type": "DEEPLINK",
+        "link": "swiggy://explore?query=Classic%20Cold%20Coffee&metadata=%7B%22type%22%3A%22DISH%22%2C%22data%22%3A%7B%22vegIdentifier%22%3A%22VEG%22%2C%22cloudinaryId%22%3A%22FOOD_CATALOG%2FIMAGES%2FCMS%2F2024%2F3%2F11%2F6af1b2a3-541f-4cbc-ae80-99292cf0822d_1841bad1-2b9f-48e4-aabc-346ef25dfd4a.jpg_compressed%22%2C%22dishFamilyId%22%3A%22846694%22%2C%22dishFamilyIds%22%3A%5B%22846694%22%5D%7D%2C%22businessCategory%22%3A%22SWIGGY_FOOD%22%2C%22displayLabel%22%3A%22Dish%22%7D&marketplace=%7B%22marketplaceId%22%3A%22SWIGGY%22%2C%22businessLineId%22%3A%22FOOD%22%7D"
+      },
+      "category": "Food",
+      "categoryColor": "#686B78",
+      "subCategory": "Dish",
+      "subCategoryColor": "#686B78"
+    },
+    {
+      "text": "Coffee Oats",
+      "highlightedText": "{{Coffee}} Oats",
+      "suggestionType": "SUGGESTION_TYPE_LOW_CONFIDENCE",
+      "type": "DISH",
+      "marketplace": {
+        "marketplaceId": "SWIGGY",
+        "businessLineId": "FOOD"
+      },
+      "tagToDisplay": "Dish",
+      "cloudinaryId": "omck0tmniwvxf22wll2m",
+      "tagToDisplayColor": "#686B78",
+      "metadata": "{\"type\":\"DISH\",\"data\":{\"vegIdentifier\":\"NA\",\"cloudinaryId\":\"omck0tmniwvxf22wll2m\",\"dishFamilyId\":\"846602\",\"dishFamilyIds\":[\"846602\"],\"dishTypeIds\":[\"7f7ae8e0-5cfc-4395-91ae-84788852b68d\"]},\"businessCategory\":\"SWIGGY_FOOD\",\"displayLabel\":\"Dish\"}",
+      "cta": {
+        "text": "Coffee Oats",
+        "type": "DEEPLINK",
+        "link": "swiggy://explore?query=Coffee%20Oats&metadata=%7B%22type%22%3A%22DISH%22%2C%22data%22%3A%7B%22vegIdentifier%22%3A%22NA%22%2C%22cloudinaryId%22%3A%22omck0tmniwvxf22wll2m%22%2C%22dishFamilyId%22%3A%22846602%22%2C%22dishFamilyIds%22%3A%5B%22846602%22%5D%2C%22dishTypeIds%22%3A%5B%227f7ae8e0-5cfc-4395-91ae-84788852b68d%22%5D%7D%2C%22businessCategory%22%3A%22SWIGGY_FOOD%22%2C%22displayLabel%22%3A%22Dish%22%7D&marketplace=%7B%22marketplaceId%22%3A%22SWIGGY%22%2C%22businessLineId%22%3A%22FOOD%22%7D"
+      },
+      "category": "Food",
+      "categoryColor": "#686B78",
+      "subCategory": "Dish",
+      "subCategoryColor": "#686B78"
+    },
+    {
+      "text": "Hot Coffee",
+      "highlightedText": "Hot {{Coffee}}",
+      "suggestionType": "SUGGESTION_TYPE_LOW_CONFIDENCE",
+      "type": "DISH",
+      "marketplace": {
+        "marketplaceId": "SWIGGY",
+        "businessLineId": "FOOD"
+      },
+      "tagToDisplay": "Dish",
+      "cloudinaryId": "eh2rcxnogbihemp6zwi4",
+      "tagToDisplayColor": "#686B78",
+      "metadata": "{\"type\":\"DISH\",\"data\":{\"vegIdentifier\":\"VEG\",\"cloudinaryId\":\"eh2rcxnogbihemp6zwi4\",\"dishFamilyId\":\"846683\",\"dishFamilyIds\":[\"846683\"]},\"businessCategory\":\"SWIGGY_FOOD\",\"displayLabel\":\"Dish\"}",
+      "cta": {
+        "text": "Hot Coffee",
+        "type": "DEEPLINK",
+        "link": "swiggy://explore?query=Hot%20Coffee&metadata=%7B%22type%22%3A%22DISH%22%2C%22data%22%3A%7B%22vegIdentifier%22%3A%22VEG%22%2C%22cloudinaryId%22%3A%22eh2rcxnogbihemp6zwi4%22%2C%22dishFamilyId%22%3A%22846683%22%2C%22dishFamilyIds%22%3A%5B%22846683%22%5D%7D%2C%22businessCategory%22%3A%22SWIGGY_FOOD%22%2C%22displayLabel%22%3A%22Dish%22%7D&marketplace=%7B%22marketplaceId%22%3A%22SWIGGY%22%2C%22businessLineId%22%3A%22FOOD%22%7D"
+      },
+      "category": "Food",
+      "categoryColor": "#686B78",
+      "subCategory": "Dish",
+      "subCategoryColor": "#686B78"
+    },
+    {
+      "text": "Chicken",
+      "highlightedText": "{{Chicken}}",
+      "suggestionType": "SUGGESTION_TYPE_LOW_CONFIDENCE",
+      "type": "DISH",
+      "marketplace": {
+        "marketplaceId": "SWIGGY",
+        "businessLineId": "FOOD"
+      },
+      "tagToDisplay": "Dish",
+      "cloudinaryId": "Autosuggest/Top%20200%20queries/Chicken.png",
+      "tagToDisplayColor": "#686B78",
+      "metadata": "{\"type\":\"DISH\",\"data\":{\"vegIdentifier\":\"NONVEG\",\"cloudinaryId\":\"Autosuggest/Top%20200%20queries/Chicken.png\"},\"businessCategory\":\"SWIGGY_FOOD\",\"displayLabel\":\"Dish\"}",
+      "cta": {
+        "text": "Chicken",
+        "type": "DEEPLINK",
+        "link": "swiggy://explore?query=Chicken&metadata=%7B%22type%22%3A%22DISH%22%2C%22data%22%3A%7B%22vegIdentifier%22%3A%22NONVEG%22%2C%22cloudinaryId%22%3A%22Autosuggest%2FTop%2520200%2520queries%2FChicken.png%22%7D%2C%22businessCategory%22%3A%22SWIGGY_FOOD%22%2C%22displayLabel%22%3A%22Dish%22%7D&marketplace=%7B%22marketplaceId%22%3A%22SWIGGY%22%2C%22businessLineId%22%3A%22FOOD%22%7D"
+      },
+      "category": "Food",
+      "categoryColor": "#686B78",
+      "subCategory": "Dish",
+      "subCategoryColor": "#686B78"
+    },
+    {
+      "text": "Chicken Fried Rice",
+      "highlightedText": "{{Chicken}} Fried Rice",
+      "suggestionType": "SUGGESTION_TYPE_LOW_CONFIDENCE",
+      "type": "DISH",
+      "marketplace": {
+        "marketplaceId": "SWIGGY",
+        "businessLineId": "FOOD"
+      },
+      "tagToDisplay": "Dish",
+      "cloudinaryId": "Autosuggest/Top%20200%20queries/Chicken%20Fried%20Rice.png",
+      "tagToDisplayColor": "#686B78",
+      "metadata": "{\"type\":\"DISH\",\"data\":{\"vegIdentifier\":\"NONVEG\",\"cloudinaryId\":\"Autosuggest/Top%20200%20queries/Chicken%20Fried%20Rice.png\",\"dishFamilyId\":\"846614\",\"dishFamilyIds\":[\"846614\"]},\"businessCategory\":\"SWIGGY_FOOD\",\"displayLabel\":\"Dish\"}",
+      "cta": {
+        "text": "Chicken Fried Rice",
+        "type": "DEEPLINK",
+        "link": "swiggy://explore?query=Chicken%20Fried%20Rice&metadata=%7B%22type%22%3A%22DISH%22%2C%22data%22%3A%7B%22vegIdentifier%22%3A%22NONVEG%22%2C%22cloudinaryId%22%3A%22Autosuggest%2FTop%2520200%2520queries%2FChicken%2520Fried%2520Rice.png%22%2C%22dishFamilyId%22%3A%22846614%22%2C%22dishFamilyIds%22%3A%5B%22846614%22%5D%7D%2C%22businessCategory%22%3A%22SWIGGY_FOOD%22%2C%22displayLabel%22%3A%22Dish%22%7D&marketplace=%7B%22marketplaceId%22%3A%22SWIGGY%22%2C%22businessLineId%22%3A%22FOOD%22%7D"
+      },
+      "category": "Food",
+      "categoryColor": "#686B78",
+      "subCategory": "Dish",
+      "subCategoryColor": "#686B78"
+    },
+    {
+      "text": "Hyderabadi Chicken Dum Biryani",
+      "highlightedText": "Hyderabadi {{Chicken}} Dum Biryani",
+      "suggestionType": "SUGGESTION_TYPE_LOW_CONFIDENCE",
+      "type": "DISH",
+      "marketplace": {
+        "marketplaceId": "SWIGGY",
+        "businessLineId": "FOOD"
+      },
+      "tagToDisplay": "Dish",
+      "cloudinaryId": "0b3f8d29fca58178e71a3564fb681195",
+      "tagToDisplayColor": "#686B78",
+      "metadata": "{\"type\":\"DISH\",\"data\":{\"vegIdentifier\":\"NONVEG\",\"cloudinaryId\":\"0b3f8d29fca58178e71a3564fb681195\",\"dishFamilyId\":\"846613\",\"dishFamilyIds\":[\"846613\"],\"dishPreparationStyleIds\":[\"849074\",\"849037\"],\"dishTypeIds\":[\"847329\"]},\"businessCategory\":\"SWIGGY_FOOD\",\"displayLabel\":\"Dish\"}",
+      "cta": {
+        "text": "Hyderabadi Chicken Dum Biryani",
+        "type": "DEEPLINK",
+        "link": "swiggy://explore?query=Hyderabadi%20Chicken%20Dum%20Biryani&metadata=%7B%22type%22%3A%22DISH%22%2C%22data%22%3A%7B%22vegIdentifier%22%3A%22NONVEG%22%2C%22cloudinaryId%22%3A%220b3f8d29fca58178e71a3564fb681195%22%2C%22dishFamilyId%22%3A%22846613%22%2C%22dishFamilyIds%22%3A%5B%22846613%22%5D%2C%22dishPreparationStyleIds%22%3A%5B%22849074%22%2C%22849037%22%5D%2C%22dishTypeIds%22%3A%5B%22847329%22%5D%7D%2C%22businessCategory%22%3A%22SWIGGY_FOOD%22%2C%22displayLabel%22%3A%22Dish%22%7D&marketplace=%7B%22marketplaceId%22%3A%22SWIGGY%22%2C%22businessLineId%22%3A%22FOOD%22%7D"
+      },
+      "category": "Food",
+      "categoryColor": "#686B78",
+      "subCategory": "Dish",
+      "subCategoryColor": "#686B78"
+    },
+    {
+      "text": "Grill Chicken",
+      "highlightedText": "Grill {{Chicken}}",
+      "suggestionType": "SUGGESTION_TYPE_LOW_CONFIDENCE",
+      "type": "DISH",
+      "marketplace": {
+        "marketplaceId": "SWIGGY",
+        "businessLineId": "FOOD"
+      },
+      "tagToDisplay": "Dish",
+      "cloudinaryId": "FOOD_CATALOG/IMAGES/CMS/2025/2/1/0a6d0601-6ace-4897-ab59-bccd67fb206b_d37f4be0-d54a-4874-bac7-0a87ad8e81cd.JPG",
+      "tagToDisplayColor": "#686B78",
+      "metadata": "{\"type\":\"DISH\",\"data\":{\"vegIdentifier\":\"NONVEG\",\"cloudinaryId\":\"FOOD_CATALOG/IMAGES/CMS/2025/2/1/0a6d0601-6ace-4897-ab59-bccd67fb206b_d37f4be0-d54a-4874-bac7-0a87ad8e81cd.JPG\"},\"businessCategory\":\"SWIGGY_FOOD\",\"displayLabel\":\"Dish\"}",
+      "cta": {
+        "text": "Grill Chicken",
+        "type": "DEEPLINK",
+        "link": "swiggy://explore?query=Grill%20Chicken&metadata=%7B%22type%22%3A%22DISH%22%2C%22data%22%3A%7B%22vegIdentifier%22%3A%22NONVEG%22%2C%22cloudinaryId%22%3A%22FOOD_CATALOG%2FIMAGES%2FCMS%2F2025%2F2%2F1%2F0a6d0601-6ace-4897-ab59-bccd67fb206b_d37f4be0-d54a-4874-bac7-0a87ad8e81cd.JPG%22%7D%2C%22businessCategory%22%3A%22SWIGGY_FOOD%22%2C%22displayLabel%22%3A%22Dish%22%7D&marketplace=%7B%22marketplaceId%22%3A%22SWIGGY%22%2C%22businessLineId%22%3A%22FOOD%22%7D"
+      },
+      "category": "Food",
+      "categoryColor": "#686B78",
+      "subCategory": "Dish",
+      "subCategoryColor": "#686B78"
+    },
+    {
+      "text": "Chicken Tikka Biryani",
+      "highlightedText": "{{Chicken}} Tikka Biryani",
+      "suggestionType": "SUGGESTION_TYPE_LOW_CONFIDENCE",
+      "type": "DISH",
+      "marketplace": {
+        "marketplaceId": "SWIGGY",
+        "businessLineId": "FOOD"
+      },
+      "tagToDisplay": "Dish",
+      "cloudinaryId": "FOOD_CATALOG/IMAGES/CMS/2024/12/5/d70c94bb-95b0-4a0c-a1bb-02bf7462f666_5b0b520d-0630-4ba6-aa7c-9c6eb3055799.jpg",
+      "tagToDisplayColor": "#686B78",
+      "metadata": "{\"type\":\"DISH\",\"data\":{\"vegIdentifier\":\"NONVEG\",\"cloudinaryId\":\"FOOD_CATALOG/IMAGES/CMS/2024/12/5/d70c94bb-95b0-4a0c-a1bb-02bf7462f666_5b0b520d-0630-4ba6-aa7c-9c6eb3055799.jpg\",\"dishFamilyId\":\"846613\",\"dishFamilyIds\":[\"846613\"],\"dishPreparationStyleIds\":[\"849042\"],\"dishTypeIds\":[\"847329\"]},\"businessCategory\":\"SWIGGY_FOOD\",\"displayLabel\":\"Dish\"}",
+      "cta": {
+        "text": "Chicken Tikka Biryani",
+        "type": "DEEPLINK",
+        "link": "swiggy://explore?query=Chicken%20Tikka%20Biryani&metadata=%7B%22type%22%3A%22DISH%22%2C%22data%22%3A%7B%22vegIdentifier%22%3A%22NONVEG%22%2C%22cloudinaryId%22%3A%22FOOD_CATALOG%2FIMAGES%2FCMS%2F2024%2F12%2F5%2Fd70c94bb-95b0-4a0c-a1bb-02bf7462f666_5b0b520d-0630-4ba6-aa7c-9c6eb3055799.jpg%22%2C%22dishFamilyId%22%3A%22846613%22%2C%22dishFamilyIds%22%3A%5B%22846613%22%5D%2C%22dishPreparationStyleIds%22%3A%5B%22849042%22%5D%2C%22dishTypeIds%22%3A%5B%22847329%22%5D%7D%2C%22businessCategory%22%3A%22SWIGGY_FOOD%22%2C%22displayLabel%22%3A%22Dish%22%7D&marketplace=%7B%22marketplaceId%22%3A%22SWIGGY%22%2C%22businessLineId%22%3A%22FOOD%22%7D"
+      },
+      "category": "Food",
+      "categoryColor": "#686B78",
+      "subCategory": "Dish",
+      "subCategoryColor": "#686B78"
+    },
+    {
+      "text": "Combo Chicken",
+      "highlightedText": "Combo {{Chicken}}",
+      "suggestionType": "SUGGESTION_TYPE_LOW_CONFIDENCE",
+      "type": "DISH",
+      "marketplace": {
+        "marketplaceId": "SWIGGY",
+        "businessLineId": "FOOD"
+      },
+      "tagToDisplay": "Dish",
+      "cloudinaryId": "FOOD_CATALOG/IMAGES/CMS/2025/7/22/b83d6061-7906-49ac-8d83-bf21d6af8e6e_4a0e0d19-bae9-4355-ad28-fe536dfff2e1.jpg",
+      "tagToDisplayColor": "#686B78",
+      "metadata": "{\"type\":\"DISH\",\"data\":{\"vegIdentifier\":\"NONVEG\",\"cloudinaryId\":\"FOOD_CATALOG/IMAGES/CMS/2025/7/22/b83d6061-7906-49ac-8d83-bf21d6af8e6e_4a0e0d19-bae9-4355-ad28-fe536dfff2e1.jpg\"},\"businessCategory\":\"SWIGGY_FOOD\",\"displayLabel\":\"Dish\"}",
+      "cta": {
+        "text": "Combo Chicken",
+        "type": "DEEPLINK",
+        "link": "swiggy://explore?query=Combo%20Chicken&metadata=%7B%22type%22%3A%22DISH%22%2C%22data%22%3A%7B%22vegIdentifier%22%3A%22NONVEG%22%2C%22cloudinaryId%22%3A%22FOOD_CATALOG%2FIMAGES%2FCMS%2F2025%2F7%2F22%2Fb83d6061-7906-49ac-8d83-bf21d6af8e6e_4a0e0d19-bae9-4355-ad28-fe536dfff2e1.jpg%22%7D%2C%22businessCategory%22%3A%22SWIGGY_FOOD%22%2C%22displayLabel%22%3A%22Dish%22%7D&marketplace=%7B%22marketplaceId%22%3A%22SWIGGY%22%2C%22businessLineId%22%3A%22FOOD%22%7D"
+      },
+      "category": "Food",
+      "categoryColor": "#686B78",
+      "subCategory": "Dish",
+      "subCategoryColor": "#686B78"
+    },
+    {
+      "text": "Chicken Biryani Combo",
+      "highlightedText": "{{Chicken}} Biryani Combo",
+      "suggestionType": "SUGGESTION_TYPE_LOW_CONFIDENCE",
+      "type": "DISH",
+      "marketplace": {
+        "marketplaceId": "SWIGGY",
+        "businessLineId": "FOOD"
+      },
+      "tagToDisplay": "Dish",
+      "cloudinaryId": "FOOD_CATALOG/IMAGES/CMS/2026/2/9/7dc72971-4815-4355-b29f-bc86dea03d6c_2488add1-4fb9-49a9-963e-076d06252a2e.jpg",
+      "tagToDisplayColor": "#686B78",
+      "metadata": "{\"type\":\"DISH\",\"data\":{\"vegIdentifier\":\"NONVEG\",\"cloudinaryId\":\"FOOD_CATALOG/IMAGES/CMS/2026/2/9/7dc72971-4815-4355-b29f-bc86dea03d6c_2488add1-4fb9-49a9-963e-076d06252a2e.jpg\"},\"businessCategory\":\"SWIGGY_FOOD\",\"displayLabel\":\"Dish\"}",
+      "cta": {
+        "text": "Chicken Biryani Combo",
+        "type": "DEEPLINK",
+        "link": "swiggy://explore?query=Chicken%20Biryani%20Combo&metadata=%7B%22type%22%3A%22DISH%22%2C%22data%22%3A%7B%22vegIdentifier%22%3A%22NONVEG%22%2C%22cloudinaryId%22%3A%22FOOD_CATALOG%2FIMAGES%2FCMS%2F2026%2F2%2F9%2F7dc72971-4815-4355-b29f-bc86dea03d6c_2488add1-4fb9-49a9-963e-076d06252a2e.jpg%22%7D%2C%22businessCategory%22%3A%22SWIGGY_FOOD%22%2C%22displayLabel%22%3A%22Dish%22%7D&marketplace=%7B%22marketplaceId%22%3A%22SWIGGY%22%2C%22businessLineId%22%3A%22FOOD%22%7D"
+      },
+      "category": "Food",
+      "categoryColor": "#686B78",
+      "subCategory": "Dish",
+      "subCategoryColor": "#686B78"
+    },
+    {
+      "text": "Chicken Bowl",
+      "highlightedText": "{{Chicken}} Bowl",
+      "suggestionType": "SUGGESTION_TYPE_LOW_CONFIDENCE",
+      "type": "DISH",
+      "marketplace": {
+        "marketplaceId": "SWIGGY",
+        "businessLineId": "FOOD"
+      },
+      "tagToDisplay": "Dish",
+      "cloudinaryId": "tqfv8rvbxvmczjccj2tc",
+      "tagToDisplayColor": "#686B78",
+      "metadata": "{\"type\":\"DISH\",\"data\":{\"vegIdentifier\":\"NONVEG\",\"cloudinaryId\":\"tqfv8rvbxvmczjccj2tc\"},\"businessCategory\":\"SWIGGY_FOOD\",\"displayLabel\":\"Dish\"}",
+      "cta": {
+        "text": "Chicken Bowl",
+        "type": "DEEPLINK",
+        "link": "swiggy://explore?query=Chicken%20Bowl&metadata=%7B%22type%22%3A%22DISH%22%2C%22data%22%3A%7B%22vegIdentifier%22%3A%22NONVEG%22%2C%22cloudinaryId%22%3A%22tqfv8rvbxvmczjccj2tc%22%7D%2C%22businessCategory%22%3A%22SWIGGY_FOOD%22%2C%22displayLabel%22%3A%22Dish%22%7D&marketplace=%7B%22marketplaceId%22%3A%22SWIGGY%22%2C%22businessLineId%22%3A%22FOOD%22%7D"
+      },
+      "category": "Food",
+      "categoryColor": "#686B78",
+      "subCategory": "Dish",
+      "subCategoryColor": "#686B78"
+    },
+    {
+      "text": "Paneer",
+      "highlightedText": "{{Paneer}}",
+      "suggestionType": "SUGGESTION_TYPE_LOW_CONFIDENCE",
+      "type": "DISH",
+      "marketplace": {
+        "marketplaceId": "SWIGGY",
+        "businessLineId": "FOOD"
+      },
+      "tagToDisplay": "Dish",
+      "cloudinaryId": "alyuywz7pihls3ebepiu",
+      "tagToDisplayColor": "#686B78",
+      "metadata": "{\"type\":\"DISH\",\"data\":{\"vegIdentifier\":\"VEG\",\"cloudinaryId\":\"alyuywz7pihls3ebepiu\"},\"businessCategory\":\"SWIGGY_FOOD\",\"displayLabel\":\"Dish\"}",
+      "cta": {
+        "text": "Paneer",
+        "type": "DEEPLINK",
+        "link": "swiggy://explore?query=Paneer&metadata=%7B%22type%22%3A%22DISH%22%2C%22data%22%3A%7B%22vegIdentifier%22%3A%22VEG%22%2C%22cloudinaryId%22%3A%22alyuywz7pihls3ebepiu%22%7D%2C%22businessCategory%22%3A%22SWIGGY_FOOD%22%2C%22displayLabel%22%3A%22Dish%22%7D&marketplace=%7B%22marketplaceId%22%3A%22SWIGGY%22%2C%22businessLineId%22%3A%22FOOD%22%7D"
+      },
+      "category": "Food",
+      "categoryColor": "#686B78",
+      "subCategory": "Dish",
+      "subCategoryColor": "#686B78"
+    },
+    {
+      "text": "Paneer Dishes",
+      "highlightedText": "{{Paneer}} Dishes",
+      "suggestionType": "SUGGESTION_TYPE_LOW_CONFIDENCE",
+      "type": "DISH",
+      "marketplace": {
+        "marketplaceId": "SWIGGY",
+        "businessLineId": "FOOD"
+      },
+      "tagToDisplay": "Dish",
+      "cloudinaryId": "Autosuggest/Paneer%20Dishes",
+      "tagToDisplayColor": "#686B78",
+      "metadata": "{\"type\":\"DISH\",\"data\":{\"cloudinaryId\":\"Autosuggest/Paneer%20Dishes\"},\"businessCategory\":\"SWIGGY_FOOD\",\"displayLabel\":\"Dish\"}",
+      "cta": {
+        "text": "Paneer Dishes",
+        "type": "DEEPLINK",
+        "link": "swiggy://explore?query=Paneer%20Dishes&metadata=%7B%22type%22%3A%22DISH%22%2C%22data%22%3A%7B%22cloudinaryId%22%3A%22Autosuggest%2FPaneer%2520Dishes%22%7D%2C%22businessCategory%22%3A%22SWIGGY_FOOD%22%2C%22displayLabel%22%3A%22Dish%22%7D&marketplace=%7B%22marketplaceId%22%3A%22SWIGGY%22%2C%22businessLineId%22%3A%22FOOD%22%7D"
+      },
+      "category": "Food",
+      "categoryColor": "#686B78",
+      "subCategory": "Dish",
+      "subCategoryColor": "#686B78"
+    },
+    {
+      "text": "Paneer Butter Masala",
+      "highlightedText": "{{Paneer}} Butter Masala",
+      "suggestionType": "SUGGESTION_TYPE_LOW_CONFIDENCE",
+      "type": "DISH",
+      "marketplace": {
+        "marketplaceId": "SWIGGY",
+        "businessLineId": "FOOD"
+      },
+      "tagToDisplay": "Dish",
+      "cloudinaryId": "Autosuggest/Top%20200%20queries/paneer%20butter%20masala.png",
+      "tagToDisplayColor": "#686B78",
+      "metadata": "{\"type\":\"DISH\",\"data\":{\"vegIdentifier\":\"VEG\",\"cloudinaryId\":\"Autosuggest/Top%20200%20queries/paneer%20butter%20masala.png\",\"dishPreparationStyleIds\":[\"849420\"],\"dishTypeIds\":[\"847597\"]},\"businessCategory\":\"SWIGGY_FOOD\",\"displayLabel\":\"Dish\"}",
+      "cta": {
+        "text": "Paneer Butter Masala",
+        "type": "DEEPLINK",
+        "link": "swiggy://explore?query=Paneer%20Butter%20Masala&metadata=%7B%22type%22%3A%22DISH%22%2C%22data%22%3A%7B%22vegIdentifier%22%3A%22VEG%22%2C%22cloudinaryId%22%3A%22Autosuggest%2FTop%2520200%2520queries%2Fpaneer%2520butter%2520masala.png%22%2C%22dishPreparationStyleIds%22%3A%5B%22849420%22%5D%2C%22dishTypeIds%22%3A%5B%22847597%22%5D%7D%2C%22businessCategory%22%3A%22SWIGGY_FOOD%22%2C%22displayLabel%22%3A%22Dish%22%7D&marketplace=%7B%22marketplaceId%22%3A%22SWIGGY%22%2C%22businessLineId%22%3A%22FOOD%22%7D"
+      },
+      "category": "Food",
+      "categoryColor": "#686B78",
+      "subCategory": "Dish",
+      "subCategoryColor": "#686B78"
+    },
+    {
+      "text": "Paneer Chilli Dry",
+      "highlightedText": "{{Paneer}} Chilli Dry",
+      "suggestionType": "SUGGESTION_TYPE_LOW_CONFIDENCE",
+      "type": "DISH",
+      "marketplace": {
+        "marketplaceId": "SWIGGY",
+        "businessLineId": "FOOD"
+      },
+      "tagToDisplay": "Dish",
+      "cloudinaryId": "FOOD_CATALOG/IMAGES/CMS/2025/11/22/4c37c0db-ff56-4216-a7c4-2b4496cb20b6_388b2b0b-6cc4-4d3c-a562-8ca8e08a089b.jpg",
+      "tagToDisplayColor": "#686B78",
+      "metadata": "{\"type\":\"DISH\",\"data\":{\"vegIdentifier\":\"VEG\",\"cloudinaryId\":\"FOOD_CATALOG/IMAGES/CMS/2025/11/22/4c37c0db-ff56-4216-a7c4-2b4496cb20b6_388b2b0b-6cc4-4d3c-a562-8ca8e08a089b.jpg\"},\"businessCategory\":\"SWIGGY_FOOD\",\"displayLabel\":\"Dish\"}",
+      "cta": {
+        "text": "Paneer Chilli Dry",
+        "type": "DEEPLINK",
+        "link": "swiggy://explore?query=Paneer%20Chilli%20Dry&metadata=%7B%22type%22%3A%22DISH%22%2C%22data%22%3A%7B%22vegIdentifier%22%3A%22VEG%22%2C%22cloudinaryId%22%3A%22FOOD_CATALOG%2FIMAGES%2FCMS%2F2025%2F11%2F22%2F4c37c0db-ff56-4216-a7c4-2b4496cb20b6_388b2b0b-6cc4-4d3c-a562-8ca8e08a089b.jpg%22%7D%2C%22businessCategory%22%3A%22SWIGGY_FOOD%22%2C%22displayLabel%22%3A%22Dish%22%7D&marketplace=%7B%22marketplaceId%22%3A%22SWIGGY%22%2C%22businessLineId%22%3A%22FOOD%22%7D"
+      },
+      "category": "Food",
+      "categoryColor": "#686B78",
+      "subCategory": "Dish",
+      "subCategoryColor": "#686B78"
+    },
+    {
+      "text": "Paneer Gravy",
+      "highlightedText": "{{Paneer}} Gravy",
+      "suggestionType": "SUGGESTION_TYPE_LOW_CONFIDENCE",
+      "type": "DISH",
+      "marketplace": {
+        "marketplaceId": "SWIGGY",
+        "businessLineId": "FOOD"
+      },
+      "tagToDisplay": "Dish",
+      "cloudinaryId": "vpbe4lgnj8tiicv2nhgo",
+      "tagToDisplayColor": "#686B78",
+      "metadata": "{\"type\":\"DISH\",\"data\":{\"vegIdentifier\":\"VEG\",\"cloudinaryId\":\"vpbe4lgnj8tiicv2nhgo\",\"dishTypeId\":\"847597\",\"dishTypeIds\":[\"847597\"]},\"businessCategory\":\"SWIGGY_FOOD\",\"displayLabel\":\"Dish\"}",
+      "cta": {
+        "text": "Paneer Gravy",
+        "type": "DEEPLINK",
+        "link": "swiggy://explore?query=Paneer%20Gravy&metadata=%7B%22type%22%3A%22DISH%22%2C%22data%22%3A%7B%22vegIdentifier%22%3A%22VEG%22%2C%22cloudinaryId%22%3A%22vpbe4lgnj8tiicv2nhgo%22%2C%22dishTypeId%22%3A%22847597%22%2C%22dishTypeIds%22%3A%5B%22847597%22%5D%7D%2C%22businessCategory%22%3A%22SWIGGY_FOOD%22%2C%22displayLabel%22%3A%22Dish%22%7D&marketplace=%7B%22marketplaceId%22%3A%22SWIGGY%22%2C%22businessLineId%22%3A%22FOOD%22%7D"
+      },
+      "category": "Food",
+      "categoryColor": "#686B78",
+      "subCategory": "Dish",
+      "subCategoryColor": "#686B78"
+    },
+    {
+      "text": "Kadai Paneer",
+      "highlightedText": "Kadai {{Paneer}}",
+      "suggestionType": "SUGGESTION_TYPE_LOW_CONFIDENCE",
+      "type": "DISH",
+      "marketplace": {
+        "marketplaceId": "SWIGGY",
+        "businessLineId": "FOOD"
+      },
+      "tagToDisplay": "Dish",
+      "cloudinaryId": "odjhvgt8o5djxtvnrj2h",
+      "tagToDisplayColor": "#686B78",
+      "metadata": "{\"type\":\"DISH\",\"data\":{\"vegIdentifier\":\"VEG\",\"cloudinaryId\":\"odjhvgt8o5djxtvnrj2h\"},\"businessCategory\":\"SWIGGY_FOOD\",\"displayLabel\":\"Dish\"}",
+      "cta": {
+        "text": "Kadai Paneer",
+        "type": "DEEPLINK",
+        "link": "swiggy://explore?query=Kadai%20Paneer&metadata=%7B%22type%22%3A%22DISH%22%2C%22data%22%3A%7B%22vegIdentifier%22%3A%22VEG%22%2C%22cloudinaryId%22%3A%22odjhvgt8o5djxtvnrj2h%22%7D%2C%22businessCategory%22%3A%22SWIGGY_FOOD%22%2C%22displayLabel%22%3A%22Dish%22%7D&marketplace=%7B%22marketplaceId%22%3A%22SWIGGY%22%2C%22businessLineId%22%3A%22FOOD%22%7D"
+      },
+      "category": "Food",
+      "categoryColor": "#686B78",
+      "subCategory": "Dish",
+      "subCategoryColor": "#686B78"
+    },
+    {
+      "text": "Paneer Tikka Masala",
+      "highlightedText": "{{Paneer}} Tikka Masala",
+      "suggestionType": "SUGGESTION_TYPE_LOW_CONFIDENCE",
+      "type": "DISH",
+      "marketplace": {
+        "marketplaceId": "SWIGGY",
+        "businessLineId": "FOOD"
+      },
+      "tagToDisplay": "Dish",
+      "cloudinaryId": "v4ehiadxo5pp3te4xqb6",
+      "tagToDisplayColor": "#686B78",
+      "metadata": "{\"type\":\"DISH\",\"data\":{\"vegIdentifier\":\"VEG\",\"cloudinaryId\":\"v4ehiadxo5pp3te4xqb6\",\"dishPreparationStyleIds\":[\"849419\"],\"dishTypeIds\":[\"847597\"]},\"businessCategory\":\"SWIGGY_FOOD\",\"displayLabel\":\"Dish\"}",
+      "cta": {
+        "text": "Paneer Tikka Masala",
+        "type": "DEEPLINK",
+        "link": "swiggy://explore?query=Paneer%20Tikka%20Masala&metadata=%7B%22type%22%3A%22DISH%22%2C%22data%22%3A%7B%22vegIdentifier%22%3A%22VEG%22%2C%22cloudinaryId%22%3A%22v4ehiadxo5pp3te4xqb6%22%2C%22dishPreparationStyleIds%22%3A%5B%22849419%22%5D%2C%22dishTypeIds%22%3A%5B%22847597%22%5D%7D%2C%22businessCategory%22%3A%22SWIGGY_FOOD%22%2C%22displayLabel%22%3A%22Dish%22%7D&marketplace=%7B%22marketplaceId%22%3A%22SWIGGY%22%2C%22businessLineId%22%3A%22FOOD%22%7D"
+      },
+      "category": "Food",
+      "categoryColor": "#686B78",
+      "subCategory": "Dish",
+      "subCategoryColor": "#686B78"
+    },
+    {
+      "text": "Combo Kadai Paneer",
+      "highlightedText": "Combo Kadai {{Paneer}}",
+      "suggestionType": "SUGGESTION_TYPE_LOW_CONFIDENCE",
+      "type": "DISH",
+      "marketplace": {
+        "marketplaceId": "SWIGGY",
+        "businessLineId": "FOOD"
+      },
+      "tagToDisplay": "Dish",
+      "cloudinaryId": "FOOD_CATALOG/IMAGES/CMS/2024/6/10/64f7568e-e45b-4eab-9192-517b18dc4ec0_c4529dd9-b6ac-4216-806b-51e7d1ad5f0e.jpeg",
+      "tagToDisplayColor": "#686B78",
+      "metadata": "{\"type\":\"DISH\",\"data\":{\"vegIdentifier\":\"NA\",\"cloudinaryId\":\"FOOD_CATALOG/IMAGES/CMS/2024/6/10/64f7568e-e45b-4eab-9192-517b18dc4ec0_c4529dd9-b6ac-4216-806b-51e7d1ad5f0e.jpeg\"},\"businessCategory\":\"SWIGGY_FOOD\",\"displayLabel\":\"Dish\"}",
+      "cta": {
+        "text": "Combo Kadai Paneer",
+        "type": "DEEPLINK",
+        "link": "swiggy://explore?query=Combo%20Kadai%20Paneer&metadata=%7B%22type%22%3A%22DISH%22%2C%22data%22%3A%7B%22vegIdentifier%22%3A%22NA%22%2C%22cloudinaryId%22%3A%22FOOD_CATALOG%2FIMAGES%2FCMS%2F2024%2F6%2F10%2F64f7568e-e45b-4eab-9192-517b18dc4ec0_c4529dd9-b6ac-4216-806b-51e7d1ad5f0e.jpeg%22%7D%2C%22businessCategory%22%3A%22SWIGGY_FOOD%22%2C%22displayLabel%22%3A%22Dish%22%7D&marketplace=%7B%22marketplaceId%22%3A%22SWIGGY%22%2C%22businessLineId%22%3A%22FOOD%22%7D"
+      },
+      "category": "Food",
+      "categoryColor": "#686B78",
+      "subCategory": "Dish",
+      "subCategoryColor": "#686B78"
+    },
+    {
+      "text": "Combo Kadhai Paneer",
+      "highlightedText": "Combo Kadhai {{Paneer}}",
+      "suggestionType": "SUGGESTION_TYPE_LOW_CONFIDENCE",
+      "type": "DISH",
+      "marketplace": {
+        "marketplaceId": "SWIGGY",
+        "businessLineId": "FOOD"
+      },
+      "tagToDisplay": "Dish",
+      "cloudinaryId": "FOOD_CATALOG/IMAGES/CMS/2026/3/11/88f5a7b8-cd37-4f37-bf0a-30270d6b8c5b_a68ede31-9b47-4599-8380-fbd9d7d9cde0.JPG",
+      "tagToDisplayColor": "#686B78",
+      "metadata": "{\"type\":\"DISH\",\"data\":{\"vegIdentifier\":\"NA\",\"cloudinaryId\":\"FOOD_CATALOG/IMAGES/CMS/2026/3/11/88f5a7b8-cd37-4f37-bf0a-30270d6b8c5b_a68ede31-9b47-4599-8380-fbd9d7d9cde0.JPG\"},\"businessCategory\":\"SWIGGY_FOOD\",\"displayLabel\":\"Dish\"}",
+      "cta": {
+        "text": "Combo Kadhai Paneer",
+        "type": "DEEPLINK",
+        "link": "swiggy://explore?query=Combo%20Kadhai%20Paneer&metadata=%7B%22type%22%3A%22DISH%22%2C%22data%22%3A%7B%22vegIdentifier%22%3A%22NA%22%2C%22cloudinaryId%22%3A%22FOOD_CATALOG%2FIMAGES%2FCMS%2F2026%2F3%2F11%2F88f5a7b8-cd37-4f37-bf0a-30270d6b8c5b_a68ede31-9b47-4599-8380-fbd9d7d9cde0.JPG%22%7D%2C%22businessCategory%22%3A%22SWIGGY_FOOD%22%2C%22displayLabel%22%3A%22Dish%22%7D&marketplace=%7B%22marketplaceId%22%3A%22SWIGGY%22%2C%22businessLineId%22%3A%22FOOD%22%7D"
+      },
+      "category": "Food",
+      "categoryColor": "#686B78",
+      "subCategory": "Dish",
+      "subCategoryColor": "#686B78"
+    },
+    {
+      "text": "Combo Paneer",
+      "highlightedText": "Combo {{Paneer}}",
+      "suggestionType": "SUGGESTION_TYPE_LOW_CONFIDENCE",
+      "type": "DISH",
+      "marketplace": {
+        "marketplaceId": "SWIGGY",
+        "businessLineId": "FOOD"
+      },
+      "tagToDisplay": "Dish",
+      "cloudinaryId": "Icons-Autosuggest/AS_Dish_3x",
+      "tagToDisplayColor": "#686B78",
+      "metadata": "{\"type\":\"DISH\",\"data\":{\"vegIdentifier\":\"NA\"},\"businessCategory\":\"SWIGGY_FOOD\",\"displayLabel\":\"Dish\"}",
+      "cta": {
+        "text": "Combo Paneer",
+        "type": "DEEPLINK",
+        "link": "swiggy://explore?query=Combo%20Paneer&metadata=%7B%22type%22%3A%22DISH%22%2C%22data%22%3A%7B%22vegIdentifier%22%3A%22NA%22%7D%2C%22businessCategory%22%3A%22SWIGGY_FOOD%22%2C%22displayLabel%22%3A%22Dish%22%7D&marketplace=%7B%22marketplaceId%22%3A%22SWIGGY%22%2C%22businessLineId%22%3A%22FOOD%22%7D"
+      },
+      "category": "Food",
+      "categoryColor": "#686B78",
+      "subCategory": "Dish",
+      "subCategoryColor": "#686B78"
+    },
+    {
+      "text": "Dosa",
+      "highlightedText": "{{Dosa}}",
+      "suggestionType": "SUGGESTION_TYPE_LOW_CONFIDENCE",
+      "type": "DISH",
+      "marketplace": {
+        "marketplaceId": "SWIGGY",
+        "businessLineId": "FOOD"
+      },
+      "tagToDisplay": "Dish",
+      "cloudinaryId": "Autosuggest/Top%20200%20queries/Dosa.png",
+      "tagToDisplayColor": "#686B78",
+      "metadata": "{\"type\":\"DISH\",\"data\":{\"vegIdentifier\":\"VEG\",\"cloudinaryId\":\"Autosuggest/Top%20200%20queries/Dosa.png\",\"dishFamilyId\":\"846586\",\"dishFamilyIds\":[\"846586\"]},\"businessCategory\":\"SWIGGY_FOOD\",\"displayLabel\":\"Dish\"}",
+      "cta": {
+        "text": "Dosa",
+        "type": "DEEPLINK",
+        "link": "swiggy://explore?query=Dosa&metadata=%7B%22type%22%3A%22DISH%22%2C%22data%22%3A%7B%22vegIdentifier%22%3A%22VEG%22%2C%22cloudinaryId%22%3A%22Autosuggest%2FTop%2520200%2520queries%2FDosa.png%22%2C%22dishFamilyId%22%3A%22846586%22%2C%22dishFamilyIds%22%3A%5B%22846586%22%5D%7D%2C%22businessCategory%22%3A%22SWIGGY_FOOD%22%2C%22displayLabel%22%3A%22Dish%22%7D&marketplace=%7B%22marketplaceId%22%3A%22SWIGGY%22%2C%22businessLineId%22%3A%22FOOD%22%7D"
+      },
+      "category": "Food",
+      "categoryColor": "#686B78",
+      "subCategory": "Dish",
+      "subCategoryColor": "#686B78"
+    },
+    {
+      "text": "Masala Dosa",
+      "highlightedText": "Masala {{Dosa}}",
+      "suggestionType": "SUGGESTION_TYPE_LOW_CONFIDENCE",
+      "type": "DISH",
+      "marketplace": {
+        "marketplaceId": "SWIGGY",
+        "businessLineId": "FOOD"
+      },
+      "tagToDisplay": "Dish",
+      "cloudinaryId": "sjg84ifbojyb9glrtc2l",
+      "tagToDisplayColor": "#686B78",
+      "metadata": "{\"type\":\"DISH\",\"data\":{\"vegIdentifier\":\"VEG\",\"cloudinaryId\":\"sjg84ifbojyb9glrtc2l\",\"dishFamilyId\":\"846586\",\"dishPreparationStyleId\":\"848973\",\"dishFamilyIds\":[\"846586\"],\"dishPreparationStyleIds\":[\"848973\"]},\"businessCategory\":\"SWIGGY_FOOD\",\"displayLabel\":\"Dish\"}",
+      "cta": {
+        "text": "Masala Dosa",
+        "type": "DEEPLINK",
+        "link": "swiggy://explore?query=Masala%20Dosa&metadata=%7B%22type%22%3A%22DISH%22%2C%22data%22%3A%7B%22vegIdentifier%22%3A%22VEG%22%2C%22cloudinaryId%22%3A%22sjg84ifbojyb9glrtc2l%22%2C%22dishFamilyId%22%3A%22846586%22%2C%22dishPreparationStyleId%22%3A%22848973%22%2C%22dishFamilyIds%22%3A%5B%22846586%22%5D%2C%22dishPreparationStyleIds%22%3A%5B%22848973%22%5D%7D%2C%22businessCategory%22%3A%22SWIGGY_FOOD%22%2C%22displayLabel%22%3A%22Dish%22%7D&marketplace=%7B%22marketplaceId%22%3A%22SWIGGY%22%2C%22businessLineId%22%3A%22FOOD%22%7D"
+      },
+      "category": "Food",
+      "categoryColor": "#686B78",
+      "subCategory": "Dish",
+      "subCategoryColor": "#686B78"
+    },
+    {
+      "text": "Plain Dosa",
+      "highlightedText": "Plain {{Dosa}}",
+      "suggestionType": "SUGGESTION_TYPE_LOW_CONFIDENCE",
+      "type": "DISH",
+      "marketplace": {
+        "marketplaceId": "SWIGGY",
+        "businessLineId": "FOOD"
+      },
+      "tagToDisplay": "Dish",
+      "cloudinaryId": "kbj7rctxhgxjbo0emnyt",
+      "tagToDisplayColor": "#686B78",
+      "metadata": "{\"type\":\"DISH\",\"data\":{\"vegIdentifier\":\"VEG\",\"cloudinaryId\":\"kbj7rctxhgxjbo0emnyt\",\"dishFamilyId\":\"846586\",\"dishPreparationStyleId\":\"848935\",\"dishFamilyIds\":[\"846586\"],\"dishPreparationStyleIds\":[\"848935\"]},\"businessCategory\":\"SWIGGY_FOOD\",\"displayLabel\":\"Dish\"}",
+      "cta": {
+        "text": "Plain Dosa",
+        "type": "DEEPLINK",
+        "link": "swiggy://explore?query=Plain%20Dosa&metadata=%7B%22type%22%3A%22DISH%22%2C%22data%22%3A%7B%22vegIdentifier%22%3A%22VEG%22%2C%22cloudinaryId%22%3A%22kbj7rctxhgxjbo0emnyt%22%2C%22dishFamilyId%22%3A%22846586%22%2C%22dishPreparationStyleId%22%3A%22848935%22%2C%22dishFamilyIds%22%3A%5B%22846586%22%5D%2C%22dishPreparationStyleIds%22%3A%5B%22848935%22%5D%7D%2C%22businessCategory%22%3A%22SWIGGY_FOOD%22%2C%22displayLabel%22%3A%22Dish%22%7D&marketplace=%7B%22marketplaceId%22%3A%22SWIGGY%22%2C%22businessLineId%22%3A%22FOOD%22%7D"
+      },
+      "category": "Food",
+      "categoryColor": "#686B78",
+      "subCategory": "Dish",
+      "subCategoryColor": "#686B78"
+    },
+    {
+      "text": "Benne Masala Dosa",
+      "highlightedText": "Benne Masala {{Dosa}}",
+      "suggestionType": "SUGGESTION_TYPE_LOW_CONFIDENCE",
+      "type": "DISH",
+      "marketplace": {
+        "marketplaceId": "SWIGGY",
+        "businessLineId": "FOOD"
+      },
+      "tagToDisplay": "Dish",
+      "cloudinaryId": "FOOD_CATALOG/IMAGES/CMS/2025/8/10/5384ef52-39a7-4503-8c90-8448657a3014_3a8f7f40-c8cb-4ed0-8ebe-e693fb5030cd.JPG",
+      "tagToDisplayColor": "#686B78",
+      "metadata": "{\"type\":\"DISH\",\"data\":{\"vegIdentifier\":\"VEG\",\"cloudinaryId\":\"FOOD_CATALOG/IMAGES/CMS/2025/8/10/5384ef52-39a7-4503-8c90-8448657a3014_3a8f7f40-c8cb-4ed0-8ebe-e693fb5030cd.JPG\",\"dishFamilyId\":\"846586\",\"dishFamilyIds\":[\"846586\"]},\"businessCategory\":\"SWIGGY_FOOD\",\"displayLabel\":\"Dish\"}",
+      "cta": {
+        "text": "Benne Masala Dosa",
+        "type": "DEEPLINK",
+        "link": "swiggy://explore?query=Benne%20Masala%20Dosa&metadata=%7B%22type%22%3A%22DISH%22%2C%22data%22%3A%7B%22vegIdentifier%22%3A%22VEG%22%2C%22cloudinaryId%22%3A%22FOOD_CATALOG%2FIMAGES%2FCMS%2F2025%2F8%2F10%2F5384ef52-39a7-4503-8c90-8448657a3014_3a8f7f40-c8cb-4ed0-8ebe-e693fb5030cd.JPG%22%2C%22dishFamilyId%22%3A%22846586%22%2C%22dishFamilyIds%22%3A%5B%22846586%22%5D%7D%2C%22businessCategory%22%3A%22SWIGGY_FOOD%22%2C%22displayLabel%22%3A%22Dish%22%7D&marketplace=%7B%22marketplaceId%22%3A%22SWIGGY%22%2C%22businessLineId%22%3A%22FOOD%22%7D"
+      },
+      "category": "Food",
+      "categoryColor": "#686B78",
+      "subCategory": "Dish",
+      "subCategoryColor": "#686B78"
+    },
+    {
+      "text": "Butter Masala Dosa",
+      "highlightedText": "Butter Masala {{Dosa}}",
+      "suggestionType": "SUGGESTION_TYPE_LOW_CONFIDENCE",
+      "type": "DISH",
+      "marketplace": {
+        "marketplaceId": "SWIGGY",
+        "businessLineId": "FOOD"
+      },
+      "tagToDisplay": "Dish",
+      "cloudinaryId": "FOOD_CATALOG/IMAGES/CMS/2024/10/28/af302a8a-5ecb-4210-bbca-d2a5d35d9a85_ab060a2b-c68f-4b09-8509-f3a3a882829f.jpeg",
+      "tagToDisplayColor": "#686B78",
+      "metadata": "{\"type\":\"DISH\",\"data\":{\"vegIdentifier\":\"VEG\",\"cloudinaryId\":\"FOOD_CATALOG/IMAGES/CMS/2024/10/28/af302a8a-5ecb-4210-bbca-d2a5d35d9a85_ab060a2b-c68f-4b09-8509-f3a3a882829f.jpeg\",\"dishFamilyId\":\"846586\",\"dishFamilyIds\":[\"846586\"],\"dishPreparationStyleIds\":[\"848953\",\"848973\"]},\"businessCategory\":\"SWIGGY_FOOD\",\"displayLabel\":\"Dish\"}",
+      "cta": {
+        "text": "Butter Masala Dosa",
+        "type": "DEEPLINK",
+        "link": "swiggy://explore?query=Butter%20Masala%20Dosa&metadata=%7B%22type%22%3A%22DISH%22%2C%22data%22%3A%7B%22vegIdentifier%22%3A%22VEG%22%2C%22cloudinaryId%22%3A%22FOOD_CATALOG%2FIMAGES%2FCMS%2F2024%2F10%2F28%2Faf302a8a-5ecb-4210-bbca-d2a5d35d9a85_ab060a2b-c68f-4b09-8509-f3a3a882829f.jpeg%22%2C%22dishFamilyId%22%3A%22846586%22%2C%22dishFamilyIds%22%3A%5B%22846586%22%5D%2C%22dishPreparationStyleIds%22%3A%5B%22848953%22%2C%22848973%22%5D%7D%2C%22businessCategory%22%3A%22SWIGGY_FOOD%22%2C%22displayLabel%22%3A%22Dish%22%7D&marketplace=%7B%22marketplaceId%22%3A%22SWIGGY%22%2C%22businessLineId%22%3A%22FOOD%22%7D"
+      },
+      "category": "Food",
+      "categoryColor": "#686B78",
+      "subCategory": "Dish",
+      "subCategoryColor": "#686B78"
+    },
+    {
+      "text": "Rava Masala Dosa",
+      "highlightedText": "Rava Masala {{Dosa}}",
+      "suggestionType": "SUGGESTION_TYPE_LOW_CONFIDENCE",
+      "type": "DISH",
+      "marketplace": {
+        "marketplaceId": "SWIGGY",
+        "businessLineId": "FOOD"
+      },
+      "tagToDisplay": "Dish",
+      "cloudinaryId": "g3gehqyxdonep2f4fttt",
+      "tagToDisplayColor": "#686B78",
+      "metadata": "{\"type\":\"DISH\",\"data\":{\"vegIdentifier\":\"VEG\",\"cloudinaryId\":\"g3gehqyxdonep2f4fttt\",\"dishFamilyId\":\"846586\",\"dishFamilyIds\":[\"846586\"],\"dishPreparationStyleIds\":[\"848973\"],\"dishTypeIds\":[\"63da5b6a-6c76-4c18-a9db-2b8eca506509\"]},\"businessCategory\":\"SWIGGY_FOOD\",\"displayLabel\":\"Dish\"}",
+      "cta": {
+        "text": "Rava Masala Dosa",
+        "type": "DEEPLINK",
+        "link": "swiggy://explore?query=Rava%20Masala%20Dosa&metadata=%7B%22type%22%3A%22DISH%22%2C%22data%22%3A%7B%22vegIdentifier%22%3A%22VEG%22%2C%22cloudinaryId%22%3A%22g3gehqyxdonep2f4fttt%22%2C%22dishFamilyId%22%3A%22846586%22%2C%22dishFamilyIds%22%3A%5B%22846586%22%5D%2C%22dishPreparationStyleIds%22%3A%5B%22848973%22%5D%2C%22dishTypeIds%22%3A%5B%2263da5b6a-6c76-4c18-a9db-2b8eca506509%22%5D%7D%2C%22businessCategory%22%3A%22SWIGGY_FOOD%22%2C%22displayLabel%22%3A%22Dish%22%7D&marketplace=%7B%22marketplaceId%22%3A%22SWIGGY%22%2C%22businessLineId%22%3A%22FOOD%22%7D"
+      },
+      "category": "Food",
+      "categoryColor": "#686B78",
+      "subCategory": "Dish",
+      "subCategoryColor": "#686B78"
+    },
+    {
+      "text": "Mysore Masala Dosa",
+      "highlightedText": "Mysore Masala {{Dosa}}",
+      "suggestionType": "SUGGESTION_TYPE_LOW_CONFIDENCE",
+      "type": "DISH",
+      "marketplace": {
+        "marketplaceId": "SWIGGY",
+        "businessLineId": "FOOD"
+      },
+      "tagToDisplay": "Dish",
+      "cloudinaryId": "FOOD_CATALOG/IMAGES/CMS/2025/6/19/e0144068-01d6-42d1-a439-f29849e75422_e6c3ffeb-6159-47c2-8acc-f3e9a96165d6.jpg",
+      "tagToDisplayColor": "#686B78",
+      "metadata": "{\"type\":\"DISH\",\"data\":{\"vegIdentifier\":\"VEG\",\"cloudinaryId\":\"FOOD_CATALOG/IMAGES/CMS/2025/6/19/e0144068-01d6-42d1-a439-f29849e75422_e6c3ffeb-6159-47c2-8acc-f3e9a96165d6.jpg\",\"dishFamilyId\":\"846586\",\"dishFamilyIds\":[\"846586\"],\"dishPreparationStyleIds\":[\"848973\",\"848967\"]},\"businessCategory\":\"SWIGGY_FOOD\",\"displayLabel\":\"Dish\"}",
+      "cta": {
+        "text": "Mysore Masala Dosa",
+        "type": "DEEPLINK",
+        "link": "swiggy://explore?query=Mysore%20Masala%20Dosa&metadata=%7B%22type%22%3A%22DISH%22%2C%22data%22%3A%7B%22vegIdentifier%22%3A%22VEG%22%2C%22cloudinaryId%22%3A%22FOOD_CATALOG%2FIMAGES%2FCMS%2F2025%2F6%2F19%2Fe0144068-01d6-42d1-a439-f29849e75422_e6c3ffeb-6159-47c2-8acc-f3e9a96165d6.jpg%22%2C%22dishFamilyId%22%3A%22846586%22%2C%22dishFamilyIds%22%3A%5B%22846586%22%5D%2C%22dishPreparationStyleIds%22%3A%5B%22848973%22%2C%22848967%22%5D%7D%2C%22businessCategory%22%3A%22SWIGGY_FOOD%22%2C%22displayLabel%22%3A%22Dish%22%7D&marketplace=%7B%22marketplaceId%22%3A%22SWIGGY%22%2C%22businessLineId%22%3A%22FOOD%22%7D"
+      },
+      "category": "Food",
+      "categoryColor": "#686B78",
+      "subCategory": "Dish",
+      "subCategoryColor": "#686B78"
+    },
+    {
+      "text": "Sada Dosa",
+      "highlightedText": "Sada {{Dosa}}",
+      "suggestionType": "SUGGESTION_TYPE_LOW_CONFIDENCE",
+      "type": "DISH",
+      "marketplace": {
+        "marketplaceId": "SWIGGY",
+        "businessLineId": "FOOD"
+      },
+      "tagToDisplay": "Dish",
+      "cloudinaryId": "FOOD_CATALOG/IMAGES/CMS/2026/2/11/13caa42b-56ce-4965-a205-45a4e3eae61f_e246d715-6b97-4e09-b2d1-1c02ff07c01e.jpg",
+      "tagToDisplayColor": "#686B78",
+      "metadata": "{\"type\":\"DISH\",\"data\":{\"vegIdentifier\":\"VEG\",\"cloudinaryId\":\"FOOD_CATALOG/IMAGES/CMS/2026/2/11/13caa42b-56ce-4965-a205-45a4e3eae61f_e246d715-6b97-4e09-b2d1-1c02ff07c01e.jpg\",\"dishFamilyId\":\"846586\",\"dishFamilyIds\":[\"846586\"]},\"businessCategory\":\"SWIGGY_FOOD\",\"displayLabel\":\"Dish\"}",
+      "cta": {
+        "text": "Sada Dosa",
+        "type": "DEEPLINK",
+        "link": "swiggy://explore?query=Sada%20Dosa&metadata=%7B%22type%22%3A%22DISH%22%2C%22data%22%3A%7B%22vegIdentifier%22%3A%22VEG%22%2C%22cloudinaryId%22%3A%22FOOD_CATALOG%2FIMAGES%2FCMS%2F2026%2F2%2F11%2F13caa42b-56ce-4965-a205-45a4e3eae61f_e246d715-6b97-4e09-b2d1-1c02ff07c01e.jpg%22%2C%22dishFamilyId%22%3A%22846586%22%2C%22dishFamilyIds%22%3A%5B%22846586%22%5D%7D%2C%22businessCategory%22%3A%22SWIGGY_FOOD%22%2C%22displayLabel%22%3A%22Dish%22%7D&marketplace=%7B%22marketplaceId%22%3A%22SWIGGY%22%2C%22businessLineId%22%3A%22FOOD%22%7D"
+      },
+      "category": "Food",
+      "categoryColor": "#686B78",
+      "subCategory": "Dish",
+      "subCategoryColor": "#686B78"
+    },
+    {
+      "text": "Cut Dosa",
+      "highlightedText": "Cut {{Dosa}}",
+      "suggestionType": "SUGGESTION_TYPE_LOW_CONFIDENCE",
+      "type": "DISH",
+      "marketplace": {
+        "marketplaceId": "SWIGGY",
+        "businessLineId": "FOOD"
+      },
+      "tagToDisplay": "Dish",
+      "cloudinaryId": "veyfgdn7i8elrm1pgliz",
+      "tagToDisplayColor": "#686B78",
+      "metadata": "{\"type\":\"DISH\",\"data\":{\"vegIdentifier\":\"NA\",\"cloudinaryId\":\"veyfgdn7i8elrm1pgliz\",\"dishFamilyId\":\"846586\",\"dishFamilyIds\":[\"846586\"],\"dishPreparationStyleIds\":[\"848947\"]},\"businessCategory\":\"SWIGGY_FOOD\",\"displayLabel\":\"Dish\"}",
+      "cta": {
+        "text": "Cut Dosa",
+        "type": "DEEPLINK",
+        "link": "swiggy://explore?query=Cut%20Dosa&metadata=%7B%22type%22%3A%22DISH%22%2C%22data%22%3A%7B%22vegIdentifier%22%3A%22NA%22%2C%22cloudinaryId%22%3A%22veyfgdn7i8elrm1pgliz%22%2C%22dishFamilyId%22%3A%22846586%22%2C%22dishFamilyIds%22%3A%5B%22846586%22%5D%2C%22dishPreparationStyleIds%22%3A%5B%22848947%22%5D%7D%2C%22businessCategory%22%3A%22SWIGGY_FOOD%22%2C%22displayLabel%22%3A%22Dish%22%7D&marketplace=%7B%22marketplaceId%22%3A%22SWIGGY%22%2C%22businessLineId%22%3A%22FOOD%22%7D"
+      },
+      "category": "Food",
+      "categoryColor": "#686B78",
+      "subCategory": "Dish",
+      "subCategoryColor": "#686B78"
+    },
+    {
+      "text": "Combo Dosa",
+      "highlightedText": "Combo {{Dosa}}",
+      "suggestionType": "SUGGESTION_TYPE_LOW_CONFIDENCE",
+      "type": "DISH",
+      "marketplace": {
+        "marketplaceId": "SWIGGY",
+        "businessLineId": "FOOD"
+      },
+      "tagToDisplay": "Dish",
+      "cloudinaryId": "Icons-Autosuggest/AS_Dish_3x",
+      "tagToDisplayColor": "#686B78",
+      "metadata": "{\"type\":\"DISH\",\"data\":{\"vegIdentifier\":\"NA\"},\"businessCategory\":\"SWIGGY_FOOD\",\"displayLabel\":\"Dish\"}",
+      "cta": {
+        "text": "Combo Dosa",
+        "type": "DEEPLINK",
+        "link": "swiggy://explore?query=Combo%20Dosa&metadata=%7B%22type%22%3A%22DISH%22%2C%22data%22%3A%7B%22vegIdentifier%22%3A%22NA%22%7D%2C%22businessCategory%22%3A%22SWIGGY_FOOD%22%2C%22displayLabel%22%3A%22Dish%22%7D&marketplace=%7B%22marketplaceId%22%3A%22SWIGGY%22%2C%22businessLineId%22%3A%22FOOD%22%7D"
+      },
+      "category": "Food",
+      "categoryColor": "#686B78",
+      "subCategory": "Dish",
+      "subCategoryColor": "#686B78"
+    }
+  ]
+}
