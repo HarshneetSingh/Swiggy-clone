@@ -4,7 +4,7 @@
   "description": "Learning react from akshay",
   "scripts": {
     "start": "parcel index.html",
-    "build": "parcel build index.html --no-cache",
+    "build": "NODE_ENV=production parcel build index.html --no-cache",
     "server": "node server.js",
     "test": "jest"
   },
