@@ -214,7 +214,7 @@ app.get('/api/search', async (req, res) => {
 const DIST = path.join(__dirname, 'dist')
 if (fs.existsSync(DIST)) {
     app.use(express.static(DIST))
-    app.get('*', (_, res) => res.sendFile(path.join(DIST, 'index.html')))
+    app.get('/{*path}', (_, res) => res.sendFile(path.join(DIST, 'index.html')))
 }
 
 const PORT = process.env.PORT || 3000
