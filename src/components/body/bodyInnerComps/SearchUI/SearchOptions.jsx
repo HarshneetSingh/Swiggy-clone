@@ -50,9 +50,9 @@ const SearchOptions = (props) => {
             (searchRestaurant === null) ?
                 <div className="flex flex-col">
                     {
-                        [...Array(6)].map(() => {
+                        [...Array(6)].map((_, i) => {
                             return (
-                                <div className=" h-24  w-full flex gap-x-4 items-center" >
+                                <div key={i} className=" h-24  w-full flex gap-x-4 items-center" >
                                     <div className="bg-shimmerColor h-16 w-16"></div>
                                     <div>
                                         <p className="bg-shimmerColor h-tenpx w-40 mb-2"></p>

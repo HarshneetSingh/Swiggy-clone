@@ -41,10 +41,22 @@ const KEYWORD_MOCKS = [
     { keys: ['south indian', 'idli', 'uttapam'], data: southIndianMock },
 ]
 
+const TAB_CARD = {
+    card: { card: { tab: [
+        { title: 'Restaurants', id: 'RESTAURANT', selected: true },
+        { title: 'Dishes', id: 'DISH' }
+    ]}}
+}
+
+function withTabCard(data) {
+    if (!data?.cards || data.cards[0]?.card?.card?.tab) return data
+    return { ...data, cards: [TAB_CARD, ...data.cards] }
+}
+
 export function getClientSearchMock(str) {
     const lower = str.toLowerCase()
     for (const entry of KEYWORD_MOCKS) {
-        if (entry.keys.some(k => lower.includes(k))) return entry.data
+        if (entry.keys.some(k => lower.includes(k))) return withTabCard(entry.data)
     }
-    return searchResultsMock
+    return withTabCard(searchResultsMock)
 }

@@ -3,7 +3,7 @@ import { Link } from 'react-router-dom'
 const RestroCards = (props) => {
     const info = props?.CardsInfo
     const name = info?.name
-    const cuisine = info?.cuisines.join(',')
+    const cuisine = info?.cuisines?.join(',') || ''
     const Availability = info?.availability?.hasOwnProperty('opened')
 
     return (
