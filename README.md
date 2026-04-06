@@ -96,36 +96,6 @@ Every API call has a 3-layer fallback:
 
 The app never shows a blank screen — even with no internet.
 
----
-
-## Deployment
-
-The app is deployed as a single service on Render — Express serves both the API and the built frontend.
-
-**Live:** [your-render-url.onrender.com](https://your-render-url.onrender.com)
-
-### Deploy your own
-
-1. Fork this repo
-2. Go to [render.com](https://render.com) → New Web Service
-3. Connect your fork and set:
-   - **Build Command:** `npm install && npm run build`
-   - **Start Command:** `npm run server`
-4. Deploy — no environment variables needed
-
----
-
-## Scripts
-
-| Command | Description |
-|---|---|
-| `npm start` | Start frontend dev server (Parcel) |
-| `npm run build` | Build frontend for production |
-| `npm run server` | Start Express proxy/backend server |
-| `npm test` | Run tests |
-
----
-
 ## Author
 
 **Harshneet Singh**  
